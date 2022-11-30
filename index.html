@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>map of free transit</title>
+        <script src='https://api.mapbox.com/mapbox-gl-js/v2.10.0/mapbox-gl.js'></script>
+        <link href='https://api.mapbox.com/mapbox-gl-js/v2.10.0/mapbox-gl.css' rel='stylesheet' />
+    </head>
+
+    <body style="margin:0px;">
+        <div id="map" style="width:100%; height:100%;"></div>
+        <script>
+            mapboxgl.accessToken = 'pk.eyJ1IjoiYXF1YXRpY3BvdGF0bzM2NzciLCJhIjoiY2w4ZG4wYmtxMDBzbzNvbWpqM3BzbHR2dSJ9.MD3fYzvIKOnPd_pTtHSvuA';
+            const map = new mapboxgl.Map({
+                container: 'map',
+                style: 'mapbox://styles/mapbox/streets-v11',
+                center: [-71.1,42.4],
+                zoom: 9,
+            });
+            map.addControl(new mapboxgl.NavigationControl());
+
+            map.on('load',()=>{
+                addLayers();
+            });
+
+            async function addLayers(){
+                let data = await fetch('/data.json');
+                data = await data.json();
+                for(let i=0; i<data.sources.length; i++){
+                    map.addSource(data.sources[i].id,data.sources[i].data);
+                }
+                for(let i=0; i<data.layers.length; i++){
+                    map.addLayer(data.layers[i]);
+                }
+            }
+        </script>
+    </body>
+</html>
