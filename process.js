@@ -1,29 +1,251 @@
 let fs = require('fs');
 const csv = require('csv-parse/sync');
-// TODO: put these into an object for less sucking
-let agencies = ['berkshire-ma-us','brockton-ma-us','capeann-ma-us','frta-ma-us','gatra-ma-us','lowell-ma-us','marthasvineyard-ma-us','merrimackvalley-ma-us','montachusett-ma-us','mwrta-ma-us','nantucket-ma-us','pvta-ma-us','srta-ma-us','wrta-ma-us','cttransit-ct-us','seatbus-ct-us','norwalk-ct-us','middletown-ct-us','ninetown-connecticut-us','wrtd-ct-us','hartransit-ct-us','gbt-ct-us','advancetransit-vt-us','ccta-vt-us','ruralcommunity-vt-us','sevt-vt-us','trivalleytransit-vt-us','ulster-ny-us','sullivan-ny-us','beeline-ny-us','pfp-wa-us','wilsonville-or-us','woodburn-or-us','corvallis-or-us','clackamascounty-or-us','graysharbor-wa-us','valleytransit-wa-us'];
-let agencyNames = ['BRTA','BAT','CATA','FRTA','GATRA','LRTA','VTA','MVRTA','MART','MWRTA','NRTA','PVTA','SRTA','WRTA','CTTransit','SEAT','NTD','MAT','9 Town','WRTD','HARTransit','GBT','AT','GMT','RCT','MOOver','TVT','UCAT','Move Sullivan','Bee Line','PFP','SMART','Woodburn Transit','Corvallis Transit','Clackmas County Connects','Grays Harbor Transit','Valley Transit'];
-let timeframes = ['New Years\'', 'New Years\'','New Years\'','June 30th, 2023', 'New Years\'', 'New Years\'','New Years\'','indefinitely','New Years\'','until their new fare system arrives','New Years\'','New Years\'','New Years\'','June 2023','March 31, 2023','March 31, 2023','March 31, 2023','March 31, 2023','March 31, 2023','March 31, 2023','March 31, 2023','March 31, 2023','indefinitely','June 30, 2023','indefinitely','indefinitely','indefinitely','indefinitely','indefinitely (excepting Highland and Delaware routes)','December 7-26, 2022','indefinitely','indefinitely (excepting 1X)','indefinitely','indefinitely','indefinitely','indefinitely','indefinitely'];
+let agencies = [
+    {
+        "loc": "berkshire-ma-us",
+        "name": "BRTA",
+        "timeframe": "New Years'",
+        "url": "https://berkshirerta.com"
+    },
+    {
+        "loc": "brockton-ma-us",
+        "name": "BAT",
+        "timeframe": "New Years'",
+        "url": "https://www.ridebat.com/"
+    },
+    {
+        "loc": "capeann-ma-us",
+        "name": "CATA",
+        "timeframe": "New Years'",
+        "url": "https://canntran.com/"
+    },
+    {
+        "loc": "frta-ma-us",
+        "name": "FRTA",
+        "timeframe": "June 30th, 2023",
+        "url": "https://frta.org/"
+    },
+    {
+        "loc": "gatra-ma-us",
+        "name": "GATRA",
+        "timeframe": "New Years'",
+        "url": "https://www.gatra.org/"
+    },
+    {
+        "loc": "lowell-ma-us",
+        "name": "LRTA",
+        "timeframe": "New Years'",
+        "url": "https://lrta.com/"
+    },
+    {
+        "loc": "marthasvineyard-ma-us",
+        "name": "VTA",
+        "timeframe": "New Years'",
+        "url": "https://www.vineyardtransit.com/"
+    },
+    {
+        "loc": "merrimackvalley-ma-us",
+        "name": "MVRTA",
+        "timeframe": "indefinitely",
+        "url": "https://www.mvrta.com/"
+    },
+    {
+        "loc": "montachusett-ma-us",
+        "name": "MART",
+        "timeframe": "New Years'",
+        "url": "https://www.mrta.us/"
+    },
+    {
+        "loc": "mwrta-ma-us",
+        "name": "MWRTA",
+        "timeframe": "until their new fare system arrives",
+        "url": "https://mwrta.com/"
+    },
+    {
+        "loc": "nantucket-ma-us",
+        "name": "NRTA",
+        "timeframe": "New Years'",
+        "url": "https://nrtawave.com/"
+    },
+    {
+        "loc": "pvta-ma-us",
+        "name": "PVTA",
+        "timeframe": "New Years'",
+        "url": "https://pvta.com/"
+    },
+    {
+        "loc": "srta-ma-us",
+        "name": "SRTA",
+        "timeframe": "New Years'",
+        "url": "https://www.srtabus.com/"
+    },
+    {
+        "loc": "wrta-ma-us",
+        "name": "WRTA",
+        "timeframe": "June 2023",
+        "url": "https://www.therta.com/"
+    },
+    {
+        "loc": "cttransit-ct-us",
+        "name": "CTTransit",
+        "timeframe": "March 31, 2023",
+        "url": "https://www.cttransit.com/"
+    },
+    {
+        "loc": "seatbus-ct-us",
+        "name": "SEAT",
+        "timeframe": "March 31, 2023",
+        "url": "https://southeastareatransitdistrict.com/"
+    },
+    {
+        "loc": "norwalk-ct-us",
+        "name": "NTD",
+        "timeframe": "March 31, 2023",
+        "url": "https://norwalktransit.com/"
+    },
+    {
+        "loc": "middletown-ct-us",
+        "name": "MAT",
+        "timeframe": "March 31, 2023",
+        "url": "https://www.middletownareatransit.org/"
+    },
+    {
+        "loc": "ninetown-connecticut-us",
+        "name": "9 Town",
+        "timeframe": "March 31, 2023",
+        "url": "https://estuarytransit.org/"
+    },
+    {
+        "loc": "wrtd-ct-us",
+        "name": "WRTD",
+        "timeframe": "March 31, 2023",
+        "url": "https://wrtd.org/"
+    },
+    {
+        "loc": "hartransit-ct-us",
+        "name": "HARTransit",
+        "timeframe": "March 31, 2023",
+        "url": "https://hartransit.com/"
+    },
+    {
+        "loc": "gbt-ct-us",
+        "name": "GBT",
+        "timeframe": "March 31, 2023",
+        "url": "https://gogbt.com/"
+    },
+    {
+        "loc": "advancetransit-vt-us",
+        "name": "AT",
+        "timeframe": "indefinitely",
+        "url": "https://advancetransit.com/"
+    },
+    {
+        "loc": "ccta-vt-us",
+        "name": "GMT",
+        "timeframe": "June 30, 2023",
+        "url": "https://ridegmt.com/"
+    },
+    {
+        "loc": "ruralcommunity-vt-us",
+        "name": "RCT",
+        "timeframe": "indefinitely",
+        "url": "https://www.riderct.org/"
+    },
+    {
+        "loc": "sevt-vt-us",
+        "name": "MOOver",
+        "timeframe": "indefinitely",
+        "url": "https://www.moover.com/"
+    },
+    {
+        "loc": "trivalleytransit-vt-us",
+        "name": "TVT",
+        "timeframe": "indefinitely",
+        "url": "https://www.trivalleytransit.org/"
+    },
+    {
+        "loc": "ulster-ny-us",
+        "name": "UCAT",
+        "timeframe": "indefinitely",
+        "url": "https://ucat.ulstercountyny.gov/"
+    },
+    {
+        "loc": "sullivan-ny-us",
+        "name": "Move Sullivan",
+        "timeframe": "indefinitely (excepting Highland and Delaware routes)",
+        "url": "https://sullivanny.us/Departments/Transportation/MoveSullivan"
+    },
+    {
+        "loc": "beeline-ny-us",
+        "name": "Bee Line",
+        "timeframe": "December 7-26, 2022",
+        "url": "https://transportation.westchestergov.com/bee-line"
+    },
+    {
+        "loc": "pfp-wa-us",
+        "name": "PFP",
+        "timeframe": "indefinitely",
+        "url": "https://mypfp.org/services/transportation/"
+    },
+    {
+        "loc": "wilsonville-or-us",
+        "name": "SMART",
+        "timeframe": "indefinitely (excepting 1X)",
+        "url": "https://www.ridesmart.com/transit"
+    },
+    {
+        "loc": "woodburn-or-us",
+        "name": "Woodburn Transit",
+        "timeframe": "indefinitely",
+        "url": "https://www.woodburn-or.gov/transit"
+    },
+    {
+        "loc": "corvallis-or-us",
+        "name": "Corvallis Transit",
+        "timeframe": "indefinitely",
+        "url": "https://www.corvallisoregon.gov/cts"
+    },
+    {
+        "loc": "clackamascounty-or-us",
+        "name": "Clackmas County Connects",
+        "timeframe": "indefinitely",
+        "url": "https://www.clackamas.us/h3s/connects-shuttle"
+    },
+    {
+        "loc": "graysharbor-wa-us",
+        "name": "Grays Harbor Transit",
+        "timeframe": "indefinitely",
+        "url": "https://www.ghtransit.com/"
+    },
+    {
+        "loc": "valleytransit-wa-us",
+        "name": "Valley Transit",
+        "timeframe": "indefinitely",
+        "url": "https://www.valleytransit.com/"
+    }
+]
 let json = {
     'sources':[],
     'layers':[],
     'routeNames':[]
 };
 for(let i=0; i<agencies.length; i++){
-    let routes = csv.parse(fs.readFileSync('./data/'+agencies[i]+'/routes.txt').toString());
-    let trips = csv.parse(fs.readFileSync('./data/'+agencies[i]+'/trips.txt').toString());
-    let shapes = csv.parse(fs.readFileSync('./data/'+agencies[i]+'/shapes.txt').toString());
+    let routes = csv.parse(fs.readFileSync('./data/'+agencies[i].loc+'/routes.txt').toString());
+    let trips = csv.parse(fs.readFileSync('./data/'+agencies[i].loc+'/trips.txt').toString());
+    let shapes = csv.parse(fs.readFileSync('./data/'+agencies[i].loc+'/shapes.txt').toString());
     
     let routesKey = routes[0];
     let routeIdInd = null;
     let routeShortNameInd = null;
     let routeColorInd = null;
     let routeLongNameInd = null;
+    let routeUrlInd = null;
     for(let j=0; j<routesKey.length; j++){
         if(routesKey[j]=='route_id') routeIdInd = j;
         if(routesKey[j]=='route_short_name') routeShortNameInd = j;
         if(routesKey[j]=='route_color') routeColorInd = j;
         if(routesKey[j]=='route_long_name') routeLongNameInd = j;
+        if(routesKey[j]=='route_url') routeUrlInd = j;
     }
     for(let j=1; j<routes.length; j++){
         let route = routes[j];
@@ -33,6 +255,9 @@ for(let i=0; i<agencies.length; i++){
         let routeColor = routeColorInd==null?getRandomColor():route[routeColorInd];
         if(['', undefined, null].includes(routeColor)) routeColor = getRandomColor();
         if(!routeColor.startsWith('#')) routeColor = '#'+routeColor;
+        let routeUrl = agencies[i].url;
+        if(routeUrlInd!=null) routeUrl = route[routeUrlInd];
+        if(routeUrl=='') routeUrl = agencies[i].url;
         let shapeInd = null;
         let routeInd = null;
         let tripsKey = trips[0];
@@ -86,9 +311,9 @@ for(let i=0; i<agencies.length; i++){
             }
             features.push(feature);
         }
-        json.routeNames.push(agencyNames[i]+' '+routeName+'<br>free until: '+timeframes[i]);
+        json.routeNames.push('<a href='+routeUrl+'>'+agencies[i].name+' '+routeName+'</a><br>free until: '+agencies[i].timeframe);
         json.sources.push({
-            'id':agencies[i]+routeId,
+            'id':agencies[i].loc+routeId,
             'data':{
                 'type':'geojson',
                 'data':{
@@ -98,9 +323,9 @@ for(let i=0; i<agencies.length; i++){
             }
         });
         json.layers.push({
-            'id':agencies[i]+routeId,
+            'id':agencies[i].loc+routeId,
             'type':'line',
-            'source':agencies[i]+routeId,
+            'source':agencies[i].loc+routeId,
             'layout': {
                 'line-join': 'round',
                 'line-cap': 'round'
