@@ -47,12 +47,24 @@ for(let i=0; i<agencies.length; i++){
             }
         }
 
+        let shapeIdInd = null;
+        let shapeLonInd = null;
+        let shapeLatInd = null;
+        let shapeOrderInd = null;
+        let shapesKey = shapes[0];
+        for(let k=0; k<shapesKey.length; k++){
+            if(shapesKey[k]=='shape_id') shapeIdInd = k;
+            if(shapesKey[k]=='shape_pt_sequence') shapeOrderInd = k;
+            if(shapesKey[k]=='shape_pt_lon') shapeLonInd = k;
+            if(shapesKey[k]=='shape_pt_lat') shapeLatInd = k;
+        }
+
         for(let k=1; k<shapes.length; k++){
             let shape = shapes[k];
-            let shapeId = shape[0];
-            let shapeOrder = shape[3];
+            let shapeId = shape[shapeIdInd];
+            let shapeOrder = shape[shapeOrderInd];
             if(routeShapes.has(shapeId)){
-                routeShapes.get(shapeId).set(Number(shapeOrder), [shape[2],shape[1]]);
+                routeShapes.get(shapeId).set(Number(shapeOrder), [shape[shapeLonInd],shape[shapeLatInd]]);
             }
         }
         let features = new Array();
