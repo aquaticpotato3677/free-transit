@@ -25,6 +25,7 @@ for(let i=0; i<agencies.length; i++){
         let routeName = route[routeShortNameInd];
         let routeColor = routeColorInd==null?getRandomColor():route[routeColorInd];
         if(['', undefined, null].includes(routeColor)) routeColor = getRandomColor();
+        if(!routeColor.startsWith('#')) routeColor = '#'+routeColor;
         let shapeInd = null;
         let routeInd = null;
         let tripsKey = trips[0];
@@ -37,26 +38,31 @@ for(let i=0; i<agencies.length; i++){
         for(let k=1; k<trips.length; k++){
             let trip = trips[k];
             if(trip[routeInd]==routeId){
-                if(!routeShapes.has(trip[shapeInd])) routeShapes.set(trip[shapeInd], {'route':routeName,'coords':[]});
+                if(!routeShapes.has(trip[shapeInd])) routeShapes.set(trip[shapeInd], new Map());
             }
         }
 
         for(let k=1; k<shapes.length; k++){
             let shape = shapes[k];
             let shapeId = shape[0];
+            let shapeOrder = shape[3];
             if(routeShapes.has(shapeId)){
-                routeShapes.get(shapeId).coords.push([shape[2],shape[1]]);
+                routeShapes.get(shapeId).set(Number(shapeOrder), [shape[2],shape[1]]);
             }
         }
-        if(!routeColor.startsWith('#')) routeColor = '#'+routeColor;
         let features = new Array();
         for(let [key, value] of routeShapes){
+            let sorted = [...value].sort((a, b) => a[0] - b[0]);
+            let arr = new Array();
+            for(let l=0; l<sorted.length; l++){
+                arr.push(sorted[l][1]);
+            }
             let feature = {
                 'type':'Feature',
                 'properties':{},
                 'geometry':{
                     'type':'LineString',
-                    'coordinates':value.coords
+                    'coordinates':arr
                 }
             }
             features.push(feature);
