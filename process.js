@@ -1,6 +1,6 @@
 let fs = require('fs');
 const csv = require('csv-parse/sync');
-let agencies = ['berkshire-ma-us','brockton-ma-us','capeann-ma-us','frta-ma-us','gatra-ma-us','lowell-ma-us','marthasvineyard-ma-us','merrimackvalley-ma-us','montachusett-ma-us','mwrta-ma-us','nantucket-ma-us','pvta-ma-us','srta-ma-us','wrta-ma-us','cttransit-ct-us','seatbus-ct-us','norwalk-ct-us','middletown-ct-us','ninetown-connecticut-us','wrtd-ct-us','hartransit-ct-us','gbt-ct-us'];
+let agencies = ['berkshire-ma-us','brockton-ma-us','capeann-ma-us','frta-ma-us','gatra-ma-us','lowell-ma-us','marthasvineyard-ma-us','merrimackvalley-ma-us','montachusett-ma-us','mwrta-ma-us','nantucket-ma-us','pvta-ma-us','srta-ma-us','wrta-ma-us','cttransit-ct-us','seatbus-ct-us','norwalk-ct-us','middletown-ct-us','ninetown-connecticut-us','wrtd-ct-us','hartransit-ct-us','gbt-ct-us','advancetransit-vt-us','ccta-vt-us','ruralcommunity-vt-us','sevt-vt-us','trivalleytransit-vt-us','ulster-ny-us','sullivan-ny-us','beeline-ny-us'];
 let json = {
     'sources':[],
     'layers':[]
