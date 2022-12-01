@@ -26,9 +26,13 @@
                 data = await data.json();
                 for(let i=0; i<data.sources.length; i++){
                     map.addSource(data.sources[i].id,data.sources[i].data);
-                }
-                for(let i=0; i<data.layers.length; i++){
                     map.addLayer(data.layers[i]);
+                    map.on('click',data.sources[i].id,(mapdata)=>{
+                        new mapboxgl.Popup()
+                        .setLngLat(mapdata.lngLat)
+                        .setHTML(data.routeNames[i])
+                        .addTo(map);
+                    });
                 }
             }
         </script>
