@@ -1,7 +1,9 @@
 let fs = require('fs');
 const csv = require('csv-parse/sync');
-let agencies = ['berkshire-ma-us','brockton-ma-us','capeann-ma-us','frta-ma-us','gatra-ma-us','lowell-ma-us','marthasvineyard-ma-us','merrimackvalley-ma-us','montachusett-ma-us','mwrta-ma-us','nantucket-ma-us','pvta-ma-us','srta-ma-us','wrta-ma-us','cttransit-ct-us','seatbus-ct-us','norwalk-ct-us','middletown-ct-us','ninetown-connecticut-us','wrtd-ct-us','hartransit-ct-us','gbt-ct-us','advancetransit-vt-us','ccta-vt-us','ruralcommunity-vt-us','sevt-vt-us','trivalleytransit-vt-us','ulster-ny-us','sullivan-ny-us','beeline-ny-us'];
-let agencyNames = ['BRTA','BAT','CATA','FRTA','GATRA','LRTA','VTA','MVRTA','MART','MWRTA','NRTA','PVTA','SRTA','WRTA','CTTransit','SEAT','NTD','MAT','9 Town','WRTD','HARTransit','GBT','AT','GMT','RCT','MOOver','TVT','UCAT','Move Sullivan','Bee Line'];
+// TODO: put these into an object for less sucking
+let agencies = ['berkshire-ma-us','brockton-ma-us','capeann-ma-us','frta-ma-us','gatra-ma-us','lowell-ma-us','marthasvineyard-ma-us','merrimackvalley-ma-us','montachusett-ma-us','mwrta-ma-us','nantucket-ma-us','pvta-ma-us','srta-ma-us','wrta-ma-us','cttransit-ct-us','seatbus-ct-us','norwalk-ct-us','middletown-ct-us','ninetown-connecticut-us','wrtd-ct-us','hartransit-ct-us','gbt-ct-us','advancetransit-vt-us','ccta-vt-us','ruralcommunity-vt-us','sevt-vt-us','trivalleytransit-vt-us','ulster-ny-us','sullivan-ny-us','beeline-ny-us','pfp-wa-us','wilsonville-or-us','woodburn-or-us','corvallis-or-us','clackamascounty-or-us','graysharbor-wa-us','valleytransit-wa-us'];
+let agencyNames = ['BRTA','BAT','CATA','FRTA','GATRA','LRTA','VTA','MVRTA','MART','MWRTA','NRTA','PVTA','SRTA','WRTA','CTTransit','SEAT','NTD','MAT','9 Town','WRTD','HARTransit','GBT','AT','GMT','RCT','MOOver','TVT','UCAT','Move Sullivan','Bee Line','PFP','SMART','Woodburn Transit','Corvallis Transit','Clackmas County Connects','Grays Harbor Transit','Valley Transit'];
+let timeframes = ['New Years\'', 'New Years\'','New Years\'','June 30th, 2023', 'New Years\'', 'New Years\'','New Years\'','indefinitely','New Years\'','until their new fare system arrives','New Years\'','New Years\'','New Years\'','June 2023','March 31, 2023','March 31, 2023','March 31, 2023','March 31, 2023','March 31, 2023','March 31, 2023','March 31, 2023','March 31, 2023','indefinitely','June 30, 2023','indefinitely','indefinitely','indefinitely','indefinitely','indefinitely (excepting Highland and Delaware routes)','December 7-26, 2022','indefinitely','indefinitely (excepting 1X)','indefinitely','indefinitely','indefinitely','indefinitely','indefinitely'];
 let json = {
     'sources':[],
     'layers':[],
@@ -84,7 +86,7 @@ for(let i=0; i<agencies.length; i++){
             }
             features.push(feature);
         }
-        json.routeNames.push(agencyNames[i]+' '+routeName);
+        json.routeNames.push(agencyNames[i]+' '+routeName+'<br>free until: '+timeframes[i]);
         json.sources.push({
             'id':agencies[i]+routeId,
             'data':{
