@@ -18,24 +18,12 @@
             });
             map.addControl(new mapboxgl.NavigationControl());
 
-            map.on('load',()=>{
-                addLayers();
+            map.on('click',(e)=>{
+                let features = map.queryRenderedFeatures([[e.point.x-10,e.point.y-10],[e.point.x+10,e.point.y+10]],{layers:['data-2awci9']});
+                if(features.length>0){
+                    let popup = new mapboxgl.Popup().setLngLat(e.lngLat).setHTML(features[0].properties.popup).addTo(map);
+                }
             });
-
-            // async function addLayers(){
-            //     let data = await fetch('/data.json');
-            //     data = await data.json();
-            //     for(let i=0; i<data.sources.length; i++){
-            //         map.addSource(data.sources[i].id,data.sources[i].data);
-            //         map.addLayer(data.layers[i]);
-            //         map.on('click',data.sources[i].id,(mapdata)=>{
-            //             new mapboxgl.Popup()
-            //             .setLngLat(mapdata.lngLat)
-            //             .setHTML(data.routeNames[i])
-            //             .addTo(map);
-            //         });
-            //     }
-            // }
         </script>
     </body>
 </html>
