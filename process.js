@@ -222,12 +222,23 @@ let agencies = [
         "name": "Valley Transit",
         "timeframe": "indefinitely",
         "url": "https://www.valleytransit.com/"
+    },
+    {
+        "loc": "linktransit-nc-us",
+        "name": "Link Transit",
+        "timeframe": "indefinitely",
+        "url": "https://linktransit.org"
+    },
+    {
+        "loc": "linktransit-wa-us",
+        "name": "Link Transit",
+        "timeframe": "indefinitely",
+        "url": "https://www.linktransit.com"
     }
 ]
 let json = {
-    'sources':[],
-    'layers':[],
-    'routeNames':[]
+    'type': 'FeatureCollection',
+    'features':[]
 };
 for(let i=0; i<agencies.length; i++){
     let routes = csv.parse(fs.readFileSync('./data/'+agencies[i].loc+'/routes.txt').toString());
@@ -302,38 +313,18 @@ for(let i=0; i<agencies.length; i++){
             }
             let feature = {
                 'type':'Feature',
-                'properties':{},
+                'properties':{
+                    'id': agencies[i].loc+routeId,
+                    'color':routeColor,
+                    'popup': '<a href='+routeUrl+'>'+agencies[i].name+' '+routeName+'</a><br>free until: '+agencies[i].timeframe
+                },
                 'geometry':{
                     'type':'LineString',
                     'coordinates':arr
                 }
             }
-            features.push(feature);
+            json.features.push(feature);
         }
-        json.routeNames.push('<a href='+routeUrl+'>'+agencies[i].name+' '+routeName+'</a><br>free until: '+agencies[i].timeframe);
-        json.sources.push({
-            'id':agencies[i].loc+routeId,
-            'data':{
-                'type':'geojson',
-                'data':{
-                    'type':'FeatureCollection',
-                    'features':features
-                }
-            }
-        });
-        json.layers.push({
-            'id':agencies[i].loc+routeId,
-            'type':'line',
-            'source':agencies[i].loc+routeId,
-            'layout': {
-                'line-join': 'round',
-                'line-cap': 'round'
-            },
-            'paint':{
-                'line-color':routeColor,
-                'line-width':5
-            }
-        })
     }
 }
 
