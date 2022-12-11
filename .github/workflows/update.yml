@@ -1,5 +1,8 @@
 name: Update map
-on: [push]
+on: 
+  push:
+    branches: ['master']
+    paths: ['agencies.json']
 jobs:
   build:
     runs-on: ubuntu-latest
