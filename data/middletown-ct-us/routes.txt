@@ -1,0 +1,13 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off,tts_route_short_name,tts_route_long_name
+1803,19480,581,Saybrook Road,Blue,3,http://www.middletownareatransit.org/route_a.php,092883,ffffff,0,,0,1,1,,Saybrook Road
+1803,19481,582,Wesleyan Hills,Green,3,http://www.middletownareatransit.org/route_b.php,2D9518,ffffff,1,,0,1,1,,
+1803,19487,582-583,Saturday,Black,3,http://www.middletownareatransit.org/s-2.php,222222,ffffff,10,,0,1,1,,
+1803,19486,584-585,Saturday,Black,3,http://www.middletownareatransit.org/s-3.php,000000,ffffff,11,,0,1,1,,
+1803,19482,583,Washington Street,Yellow,3,http://www.middletownareatransit.org/route_c.php,FFE72B,000000,2,,0,1,1,,
+1803,19483,584,Newfield Street,Red,3,http://www.middletownareatransit.org/route_d.php,EC2029,000000,3,,0,1,1,,
+1803,19484,585,Westlake Drive,Orange,3,http://www.middletownareatransit.org/route_e.php,FF8825,000000,4,,0,1,1,,
+1803,19491,586,Portland/East Hampton,Purple,3,http://www.middletownareatransit.org/route_586.php,ce35e4,,5,,0,1,1,,
+1803,19488,590,Meriden - Middletown,Purple,3,http://www.middletownareatransit.org/mlink.php,321555,ffffff,6,,0,1,1,,
+1803,19490,581-583,South,Light Green,3,http://www.middletownareatransit.org/route_h.php,C09852,ffffff,7,,0,1,1,,
+1803,19489,584-585,North,Light Green,3,http://www.middletownareatransit.org/route_i.php,D0A072,ffffff,8,,0,1,1,,
+1803,19485,581Exp,Saybrook Road Saturday,Black,3,http://www.middletownareatransit.org/route_581_expanded.php,242426,ffffff,9,,0,1,1,,

@@ -1,0 +1,34 @@
+route_id,direction_id,direction
+74484,0,Southbound
+74484,0,Loop
+5917,1,Inbound
+5917,0,Outbound 
+3225,0,Loop
+3136,1,Inbound
+3136,0,Outbound 
+739,1,Down the Mountain
+739,0,Up the Mountain
+716,1,Inbound
+716,0,Outbound 
+715,1,Inbound
+715,0,Outbound 
+714,1,Inbound
+714,0,Outbound 
+713,1,Inbound
+713,0,Outbound 
+712,1,Inbound
+712,0,Outbound 
+711,1,Inbound
+711,0,Outbound 
+710,1,Inbound
+710,0,Outbound 
+382,1,Inbound
+382,0,Outbound 
+293,1,Northbound
+293,0,Southbound
+292,1,Northbound
+292,0,Southbound
+291,1,Westbound
+291,0,Eastbound
+290,1,Northbound
+290,0,Southbound

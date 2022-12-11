@@ -1,0 +1,88 @@
+stop_id,stop_city
+2754806,Grandview
+2754766,Moses Lake
+2754808,Toppenish
+2754790,Wilbur
+2754794,Tri-Cities
+2754730,Sunnyside
+2754771,Warden
+2754788,Moses Lake
+2754799,Connell
+2754773,Warden
+2754732,Prosser
+2754768,Ritzville
+2754801,Granger
+2754757,Grand Coulee
+2754779,Othello
+3446952,Wilbur
+2754743,Blacks Corner
+2754782,Moses Lake
+2754758,Grand Coulee
+2754749,Spokane
+2754737,Yakima
+3194501,Sunnyside
+2754775,Othello
+2754800,Othello
+2754734,Naches
+2754804,Prosser
+2754739,Sunnyside
+2754762,Wenatchee
+2754791,Creston
+2754772,Warden
+2754750,Spokane
+2754798,Mesa
+2754764,Ephrata
+2754745,Mabton
+2754740,Sunnyside
+3446953,Moses Lake
+2754751,Airway Heights
+2754770,Moses Lake
+2754767,Ritzville
+2754746,Sunnyside
+2754792,Wilbur
+2754760,Wenatchee
+2754748,Spokane
+2754786,Moses Lake
+2754738,Sunnyside
+2754761,Wenatchee
+2754728,Yakima
+2754785,Moses Lake
+2754735,Naches
+2754756,Grand Coulee
+2754755,Wilbur
+2754793,Tri-Cities
+2754787,Moses Lake
+3446957,Ritzville
+3446390,Spokane
+2754763,Quincy
+2754778,Othello
+2754742,Sunnyside
+2754784,Moses Lake
+2754795,Tri-Cities
+2754796,Kennewick
+2754741,Sunnyside
+2754729,Granger
+2754731,Grandview
+2754780,Othello
+2754789,Almira
+2754752,Reardan
+2754797,Pasco
+2754747,Spokane
+2754754,Davenport
+2754803,Grandview
+2754781,Moses Lake
+2754736,Yakima
+2754769,Odessa
+2754753,Moses Lake
+2754807,Zillah
+2754809,Wapato
+3446956,Odessa
+2754744,Grandview
+2754802,Grandview
+2754774,Othello
+2754733,Zillah
+2754805,Grandview
+2754783,Moses Lake
+2754759,Coulee Dam
+2754777,Othello
+2755031,Yakima

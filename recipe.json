@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "layers": {
+        "free-transit-test": {
+            "source": "mapbox://tileset-source/aquaticpotato3677/free-transit-test",
+            "minzoom": 0,
+            "maxzoom": 12
+        }
+    }
+}

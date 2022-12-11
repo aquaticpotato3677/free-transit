@@ -1,0 +1,13 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+10N,ght,10N,North Aberdeen,,3,https://irp.cdn-website.com/c24054c6/files/uploaded/e.10n.winter.2022.pdf,2145A6,FFFFFF,,,
+10S,ght,10S,South Aberdeen,,3,https://irp.cdn-website.com/c24054c6/files/uploaded/e.10n.winter.2022.pdf,A64F2A,FFFFFF,,,
+20,ght,20,Aberdeen - Hoquiam,,3,https://irp.cdn-website.com/c24054c6/files/uploaded/e.20.M-F.winter.2022.pdf,CC0000,FFFFFF,,,
+40,ght,40,East County,,3,https://irp.cdn-website.com/c24054c6/files/uploaded/e.40.M-F.winter.2022.pdf,FFF700,000000,,,
+50,ght,50,Quinault,,3,https://irp.cdn-website.com/c24054c6/files/uploaded/e.50.M-F.winter.2022.pdf,000000,FFFFFF,,,
+30,ght,30,Cosmopolis,,3,https://irp.cdn-website.com/c24054c6/files/uploaded/e.30.winter.2022.pdf,FC9E0F,FFFFFF,,,
+60,ght,60,Ocean Shores,,3,https://irp.cdn-website.com/c24054c6/files/uploaded/e.60.M-F.winter.2022.pdf,23BBFC,FFFFFF,,,
+161,ght,161,Ocean Shores Marina,,3,https://irp.cdn-website.com/c24054c6/files/uploaded/e.60.M-F.winter.2022.pdf,23BBFC,FFFFFF,,2,2
+70,ght,70,Westport - Grayland,,3,https://irp.cdn-website.com/c24054c6/files/uploaded/e.70.M-F.winter.2022.pdf,116903,FFFFFF,,,
+171,ght,171,Westport,,3,https://irp.cdn-website.com/c24054c6/files/uploaded/e.70.M-F.winter.2022.pdf,116903,FFFFFF,,,
+45,ght,45,Oakville - Rochester - Centralia,,3,https://irp.cdn-website.com/c24054c6/files/uploaded/e.45.winter.2022.2-28-22.pdf,E8D635,000000,,,
+5,ght,5,The WAVE,,3,http://www.ghtransit.com/Portals/40/Docs/Bus%20Books/2020/BusBook-Winter2020%20low%20Res.pdf,1262DB,FFFFFF,,,

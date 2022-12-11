@@ -1,0 +1,43 @@
+name: Update map
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    # install action dependencies
+    - uses: actions/setup-python@v4.3.1
+      with:
+        python-version: '3.10'
+    - uses: actions/setup-node@v3.5.1
+    - uses: actions/checkout@v3
+    
+    # install script dependencies
+    - name: Install dependencies
+      run: |
+        pip install mapbox-tilesets
+        npm install csv-parse
+        
+    # process gtfs 
+    - name: convert gtfs to geojson
+      run: |
+        node process.js
+    # config git
+    - name: config
+      run: |
+        git config --local user.name  ${{ github.actor }}
+        git config --local user.email "72111431+aquaticpotato3677@users.noreply.github.com"
+        
+    # push data.json to master
+    - name: stage changed files
+      run: git add data.json
+    - name: commit changed files
+      run: git commit -m "updating data.json"
+    - uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+      
+    - name: upload tileset
+      run: |
+        tilesets upload-source aquaticpotato3677 free-transit-test ./data.json --token="${{secrets.MAPBOX_ACCESS_TOKEN}}" --replace
+        tilesets publish aquaticpotato3677.free-transit-test --token="${{secrets.MAPBOX_ACCESS_TOKEN}}"

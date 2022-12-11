@@ -1,0 +1,248 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+5072,798326,1,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5072,798369,2,Main St & Pleasant St,"/Blackburn Tripper, /Cruiseship Trolley, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, /Thatcher Road, Tripper/Magnolia to GHS, /West Gloucester"
+5072,798364,3,Lincoln Park,/Gloucester Crossing/Business Express
+5072,798352,4,Gloucester High School,"/Gloucester Crossing/Business Express, /School Trippers, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Downtown Gloucester to GHS, Tripper/Essex Ave to GHS, Tripper/Magnolia Ave, Atlantic St to GHS, Tripper/Magnolia to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Rocky Neck, Eastern Ave to GHS, Tripper/Washington St, Cherry St to GHS"
+5072,798351,5,Gloucester Crossing,"/Blackburn Tripper, /Gloucester Crossing/Business Express"
+5072,798312,6,Blackburn Industrial Park,"/Blackburn Tripper, /Gloucester Crossing/Business Express, /School Trippers"
+5072,798375,7,Millpond Medical Building,"/Gloucester Crossing/Business Express, /School Trippers, Tripper/Downtown Gloucester to GHS"
+5072,798299,8,Addison Gilbert Hospital,"/Blackburn Tripper, /Gloucester Crossing/Business Express, /Lanesville, /School Trippers, Tripper/Downtown Gloucester to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5072,798381,9,Poplar Park,"/Gloucester Crossing/Business Express, /School Trippers, Tripper/Downtown Gloucester to GHS"
+5072,798372,10,Sheedy Park,"/Gloucester Crossing/Business Express, /School Trippers, Tripper/Downtown Gloucester to GHS"
+5072,798353,11,Commuter Rail Station - Gloucester ,"/Beverly Commuter, /Blackburn Tripper, /Gloucester Crossing/Business Express, /Lanesville, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Downtown Gloucester to GHS, Tripper/Rockport, Lanesville, Washington St to GHS"
+5072,798374,12,McPherson Park,"/Gloucester Crossing/Business Express, /School Trippers, Tripper/Downtown Gloucester to GHS"
+5072,798382,13,Post Office - City Hall,"/Gloucester Crossing/Business Express, /School Trippers, Tripper/Downtown Gloucester to GHS"
+5072,798323,14,Curtis - Clark Building,"/Gloucester Crossing/Business Express, /School Trippers, Tripper/Downtown Gloucester to GHS"
+5072,798390,15,Senior Center - Dunkin' Donuts,"/Gloucester Crossing/Business Express, Tripper/Back Shore, Rocky Neck to GHS"
+5073,798326,1,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5073,798369,2,Main St & Pleasant St,"/Blackburn Tripper, /Cruiseship Trolley, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, /Thatcher Road, Tripper/Magnolia to GHS, /West Gloucester"
+5073,798364,3,Lincoln Park,/Gloucester Crossing/Business Express
+5073,798352,4,Gloucester High School,"/Gloucester Crossing/Business Express, /School Trippers, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Downtown Gloucester to GHS, Tripper/Essex Ave to GHS, Tripper/Magnolia Ave, Atlantic St to GHS, Tripper/Magnolia to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Rocky Neck, Eastern Ave to GHS, Tripper/Washington St, Cherry St to GHS"
+5073,798351,5,Gloucester Crossing,"/Blackburn Tripper, /Gloucester Crossing/Business Express"
+5073,798312,6,Blackburn Industrial Park,"/Blackburn Tripper, /Gloucester Crossing/Business Express, /School Trippers"
+5073,798375,7,Millpond Medical Building,"/Gloucester Crossing/Business Express, /School Trippers, Tripper/Downtown Gloucester to GHS"
+5073,798299,8,Addison Gilbert Hospital,"/Blackburn Tripper, /Gloucester Crossing/Business Express, /Lanesville, /School Trippers, Tripper/Downtown Gloucester to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5073,798381,9,Poplar Park,"/Gloucester Crossing/Business Express, /School Trippers, Tripper/Downtown Gloucester to GHS"
+5073,798372,10,Sheedy Park,"/Gloucester Crossing/Business Express, /School Trippers, Tripper/Downtown Gloucester to GHS"
+5073,798353,11,Commuter Rail Station - Gloucester ,"/Beverly Commuter, /Blackburn Tripper, /Gloucester Crossing/Business Express, /Lanesville, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Downtown Gloucester to GHS, Tripper/Rockport, Lanesville, Washington St to GHS"
+5073,798374,12,McPherson Park,"/Gloucester Crossing/Business Express, /School Trippers, Tripper/Downtown Gloucester to GHS"
+5073,798382,13,Post Office - City Hall,"/Gloucester Crossing/Business Express, /School Trippers, Tripper/Downtown Gloucester to GHS"
+5073,798323,14,Curtis - Clark Building,"/Gloucester Crossing/Business Express, /School Trippers, Tripper/Downtown Gloucester to GHS"
+5073,798390,15,Senior Center - Dunkin' Donuts,"/Gloucester Crossing/Business Express, Tripper/Back Shore, Rocky Neck to GHS"
+5074,798368,1,Magnolia Square,"/Magnolia, /School Trippers, Tripper/Magnolia to GHS"
+5074,798417,2,Western Ave & Magnolia Ave,"/Magnolia, /School Trippers, Tripper/Magnolia Ave, Atlantic St to GHS, Tripper/Magnolia to GHS"
+5074,798386,3,Ravenswood Park,"/Magnolia, Tripper/Magnolia to GHS"
+5074,798395,4,Western Ave & Stage Fort Park,"/Magnolia, /School Trippers, Tripper/Magnolia to GHS"
+5074,798326,5,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5075,798326,1,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5075,798369,2,Main St & Pleasant St,"/Blackburn Tripper, /Cruiseship Trolley, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, /Thatcher Road, Tripper/Magnolia to GHS, /West Gloucester"
+5075,798395,3,Western Ave & Stage Fort Park,"/Magnolia, /School Trippers, Tripper/Magnolia to GHS"
+5075,798355,4,Hammond Castle,"/Magnolia, /School Trippers, Tripper/Magnolia to GHS"
+5075,798368,5,Magnolia Square,"/Magnolia, /School Trippers, Tripper/Magnolia to GHS"
+5075,798362,6,Lexington Ave & Flume Rd,"/Magnolia, /School Trippers, Tripper/Magnolia to GHS"
+5075,798368,7,Magnolia Square,"/Magnolia, /School Trippers, Tripper/Magnolia to GHS"
+5076,798326,1,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5076,798369,2,Main St & Pleasant St,"/Blackburn Tripper, /Cruiseship Trolley, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, /Thatcher Road, Tripper/Magnolia to GHS, /West Gloucester"
+5076,798395,3,Western Ave & Stage Fort Park,"/Magnolia, /School Trippers, Tripper/Magnolia to GHS"
+5076,798355,4,Hammond Castle,"/Magnolia, /School Trippers, Tripper/Magnolia to GHS"
+5076,798368,5,Magnolia Square,"/Magnolia, /School Trippers, Tripper/Magnolia to GHS"
+5076,798362,6,Lexington Ave & Flume Rd,"/Magnolia, /School Trippers, Tripper/Magnolia to GHS"
+5076,798368,7,Magnolia Square,"/Magnolia, /School Trippers, Tripper/Magnolia to GHS"
+5077,798368,1,Magnolia Square,"/Magnolia, /School Trippers, Tripper/Magnolia to GHS"
+5077,798417,2,Western Ave & Magnolia Ave,"/Magnolia, /School Trippers, Tripper/Magnolia Ave, Atlantic St to GHS, Tripper/Magnolia to GHS"
+5077,798386,3,Ravenswood Park,"/Magnolia, Tripper/Magnolia to GHS"
+5077,798395,4,Western Ave & Stage Fort Park,"/Magnolia, /School Trippers, Tripper/Magnolia to GHS"
+5077,798326,5,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5078,798326,1,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5078,798369,2,Main St & Pleasant St,"/Blackburn Tripper, /Cruiseship Trolley, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, /Thatcher Road, Tripper/Magnolia to GHS, /West Gloucester"
+5078,798353,3,Commuter Rail Station - Gloucester ,"/Beverly Commuter, /Blackburn Tripper, /Gloucester Crossing/Business Express, /Lanesville, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Downtown Gloucester to GHS, Tripper/Rockport, Lanesville, Washington St to GHS"
+5078,802509,4,Addison Gilbert Hospital,"/Lanesville, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5078,802510,5,Annisquam Village Church,"/Lanesville, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5078,802517,6,Lanesville Post Office,"/Lanesville, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5078,802518,7,Pigeon Cove Post Office,"/Lanesville, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS"
+5078,798388,8,Train Station - Rockport,"/Beverly Commuter, /Lanesville, /Rockport Shuttle, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS"
+5078,798387,9,Rockport Market,"/Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5079,798387,1,Rockport Market,"/Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5079,798325,2,Dock Square,"/Cape Ann Works, /Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS"
+5079,798400,3,Toad Hall Bookstore,"/Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers"
+5079,798388,4,Train Station - Rockport,"/Beverly Commuter, /Lanesville, /Rockport Shuttle, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS"
+5079,798380,5,Pigeon Cove Post Office,"/Lanesville, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5079,798358,6,Lanesville Post Office,"/Lanesville, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS"
+5079,798300,7,Annisquam Village Church,"/Lanesville, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5079,798299,8,Addison Gilbert Hospital,"/Blackburn Tripper, /Gloucester Crossing/Business Express, /Lanesville, /School Trippers, Tripper/Downtown Gloucester to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5079,798353,9,Commuter Rail Station - Gloucester ,"/Beverly Commuter, /Blackburn Tripper, /Gloucester Crossing/Business Express, /Lanesville, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Downtown Gloucester to GHS, Tripper/Rockport, Lanesville, Washington St to GHS"
+5079,798326,10,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5080,798387,1,Rockport Market,"/Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5080,798325,2,Dock Square,"/Cape Ann Works, /Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS"
+5080,798400,3,Toad Hall Bookstore,"/Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers"
+5080,798388,4,Train Station - Rockport,"/Beverly Commuter, /Lanesville, /Rockport Shuttle, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS"
+5080,798380,5,Pigeon Cove Post Office,"/Lanesville, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5080,798358,6,Lanesville Post Office,"/Lanesville, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS"
+5080,798300,7,Annisquam Village Church,"/Lanesville, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5080,798299,8,Addison Gilbert Hospital,"/Blackburn Tripper, /Gloucester Crossing/Business Express, /Lanesville, /School Trippers, Tripper/Downtown Gloucester to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5080,798353,9,Commuter Rail Station - Gloucester ,"/Beverly Commuter, /Blackburn Tripper, /Gloucester Crossing/Business Express, /Lanesville, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Downtown Gloucester to GHS, Tripper/Rockport, Lanesville, Washington St to GHS"
+5080,798326,10,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5081,798326,1,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5081,798369,2,Main St & Pleasant St,"/Blackburn Tripper, /Cruiseship Trolley, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, /Thatcher Road, Tripper/Magnolia to GHS, /West Gloucester"
+5081,798353,3,Commuter Rail Station - Gloucester ,"/Beverly Commuter, /Blackburn Tripper, /Gloucester Crossing/Business Express, /Lanesville, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Downtown Gloucester to GHS, Tripper/Rockport, Lanesville, Washington St to GHS"
+5081,802509,4,Addison Gilbert Hospital,"/Lanesville, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5081,802510,5,Annisquam Village Church,"/Lanesville, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5081,802517,6,Lanesville Post Office,"/Lanesville, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5081,802518,7,Pigeon Cove Post Office,"/Lanesville, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS"
+5081,798388,8,Train Station - Rockport,"/Beverly Commuter, /Lanesville, /Rockport Shuttle, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS"
+5081,798387,9,Rockport Market,"/Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5082,798347,1,Essex Town Line,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5082,798345,2,Essex Ave & Woodman St,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5082,798343,3,Essex Ave & Forest Ln,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5082,798340,4,Essex Ave & Lawrence Mountain Rd,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5082,798344,5,Essex Ave & New Way Ln,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5082,798338,6,Essex Ave & Magnolia Ave,"/School Trippers, Tripper/Essex Ave to GHS, Tripper/Magnolia Ave, Atlantic St to GHS, /West Gloucester"
+5082,798414,7,Train Station - West Gloucester,"/Cape Ann Works, /School Trippers, Tripper/Essex Ave to GHS, Tripper/Magnolia Ave, Atlantic St to GHS, /West Gloucester"
+5082,798341,8,Essex Ave & Edgewood Rd,"/School Trippers, Tripper/Essex Ave to GHS, Tripper/Magnolia Ave, Atlantic St to GHS, /West Gloucester"
+5082,798326,9,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5083,798347,1,Essex Town Line,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5083,798345,2,Essex Ave & Woodman St,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5083,798343,3,Essex Ave & Forest Ln,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5083,798340,4,Essex Ave & Lawrence Mountain Rd,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5083,798344,5,Essex Ave & New Way Ln,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5083,798338,6,Essex Ave & Magnolia Ave,"/School Trippers, Tripper/Essex Ave to GHS, Tripper/Magnolia Ave, Atlantic St to GHS, /West Gloucester"
+5083,798414,7,Train Station - West Gloucester,"/Cape Ann Works, /School Trippers, Tripper/Essex Ave to GHS, Tripper/Magnolia Ave, Atlantic St to GHS, /West Gloucester"
+5083,798341,8,Essex Ave & Edgewood Rd,"/School Trippers, Tripper/Essex Ave to GHS, Tripper/Magnolia Ave, Atlantic St to GHS, /West Gloucester"
+5083,798326,9,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5084,798326,1,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5084,798369,2,Main St & Pleasant St,"/Blackburn Tripper, /Cruiseship Trolley, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, /Thatcher Road, Tripper/Magnolia to GHS, /West Gloucester"
+5084,798356,3,Heights at Cape Ann,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5084,798414,4,Train Station - West Gloucester,"/Cape Ann Works, /School Trippers, Tripper/Essex Ave to GHS, Tripper/Magnolia Ave, Atlantic St to GHS, /West Gloucester"
+5084,798339,5,Essex Ave & Concord St,"/School Trippers, Tripper/Essex Ave to GHS, Tripper/Magnolia Ave, Atlantic St to GHS, /West Gloucester"
+5084,798342,6,Essex Ave & Fernald St,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5084,798346,7,Essex Ave & Sumner St,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5084,798347,8,Essex Town Line,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5085,798326,1,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5085,798369,2,Main St & Pleasant St,"/Blackburn Tripper, /Cruiseship Trolley, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, /Thatcher Road, Tripper/Magnolia to GHS, /West Gloucester"
+5085,798356,3,Heights at Cape Ann,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5085,798414,4,Train Station - West Gloucester,"/Cape Ann Works, /School Trippers, Tripper/Essex Ave to GHS, Tripper/Magnolia Ave, Atlantic St to GHS, /West Gloucester"
+5085,798339,5,Essex Ave & Concord St,"/School Trippers, Tripper/Essex Ave to GHS, Tripper/Magnolia Ave, Atlantic St to GHS, /West Gloucester"
+5085,798342,6,Essex Ave & Fernald St,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5085,798346,7,Essex Ave & Sumner St,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5085,798347,8,Essex Town Line,"/School Trippers, Tripper/Essex Ave to GHS, /West Gloucester"
+5086,798326,1,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5086,801986,2,Stop & Shop - CVS,"/Eastern Ave, /Thatcher Road"
+5086,801990,3,Shaw's Supermarket,/Eastern Ave
+5086,798387,4,Rockport Market,"/Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5087,798387,1,Rockport Market,"/Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5087,798325,2,Dock Square,"/Cape Ann Works, /Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS"
+5087,801990,3,Shaw's Supermarket,/Eastern Ave
+5087,801986,4,Stop & Shop - CVS,"/Eastern Ave, /Thatcher Road"
+5087,798326,5,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5088,798387,1,Rockport Market,"/Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5088,798325,2,Dock Square,"/Cape Ann Works, /Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS"
+5088,801990,3,Shaw's Supermarket,/Eastern Ave
+5088,801986,4,Stop & Shop - CVS,"/Eastern Ave, /Thatcher Road"
+5088,798326,5,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5089,798326,1,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5089,801986,2,Stop & Shop - CVS,"/Eastern Ave, /Thatcher Road"
+5089,801990,3,Shaw's Supermarket,/Eastern Ave
+5089,798387,4,Rockport Market,"/Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5090,807832,1,Bridge St - Variety Store,/City of Beverly Shuttle
+5090,2597088,2,Bridge St & Livingstone Ave,/City of Beverly Shuttle
+5090,807841,3,Commuter Rail Station - Beverly,"/Beverly Commuter, /City of Beverly Shuttle"
+5090,807842,4,Rantoul St & Edwards St,/City of Beverly Shuttle
+5090,807843,5,Cabot St & Highland Ave,/City of Beverly Shuttle
+5090,807884,6,Cabot St & Edwards St,/City of Beverly Shuttle
+5090,807895,7,Pleasant St & Cabot St,/City of Beverly Shuttle
+5090,807834,8,Beverly City Hall,/City of Beverly Shuttle
+5090,807835,9,Cabot St & Elliot St,/City of Beverly Shuttle
+5090,807836,10,Cabot St & Rantoul St St,/City of Beverly Shuttle
+5090,807857,11,Garden City Apartments,/City of Beverly Shuttle
+5090,807838,12,Beverly Hospital,/City of Beverly Shuttle
+5090,3460638,13,Whole Foods Shopping,/City of Beverly Shuttle
+5090,807851,14,Council on Aging,/City of Beverly Shuttle
+5090,807846,15,Balch St Apartments,/City of Beverly Shuttle
+5090,807864,16,North Beverly Plaza - Shaw's,/City of Beverly Shuttle
+5090,807838,17,Beverly Hospital,/City of Beverly Shuttle
+5090,807849,18,YMCA,/City of Beverly Shuttle
+5090,807848,19,Turtle Creek Apartments,/City of Beverly Shuttle
+5090,2597091,20,Montserrat Station,/City of Beverly Shuttle
+5090,807850,21,Cedar St Apartments,/City of Beverly Shuttle
+5090,3460647,22,Beverly Library,/City of Beverly Shuttle
+5090,807887,23,Elliott St & Cabot St,/City of Beverly Shuttle
+5090,807888,24,Rantoul St & Broadway,/City of Beverly Shuttle
+5090,807841,25,Commuter Rail Station - Beverly,"/Beverly Commuter, /City of Beverly Shuttle"
+5090,807834,26,Beverly City Hall,/City of Beverly Shuttle
+5090,807855,27,Stop & Shop,/City of Beverly Shuttle
+5090,807855,28,Stop & Shop,/City of Beverly Shuttle
+5090,3460643,29,Trask Ln & Folly Hill,/City of Beverly Shuttle
+5090,3460648,30,Market Basket,/City of Beverly Shuttle
+5090,3460646,31,McPherson Dr & Elliott St,/City of Beverly Shuttle
+5090,807891,32,Elliott St & Beckford St,/City of Beverly Shuttle
+5090,807892,33,Herrick St & Sohier Rd,/City of Beverly Shuttle
+5090,807852,34,Gloucester Crossing,/City of Beverly Shuttle
+5090,807853,35,Rantoul St & Elliott St	,/City of Beverly Shuttle
+5090,807893,36,Elliott St & Bridge St,/City of Beverly Shuttle
+5090,807832,37,Bridge St - Variety Store,/City of Beverly Shuttle
+5091,807832,1,Bridge St - Variety Store,/City of Beverly Shuttle
+5091,807841,2,Commuter Rail Station - Beverly,"/Beverly Commuter, /City of Beverly Shuttle"
+5091,807842,3,Rantoul St & Edwards St,/City of Beverly Shuttle
+5091,807834,4,Beverly City Hall,/City of Beverly Shuttle
+5091,807836,5,Cabot St & Rantoul St St,/City of Beverly Shuttle
+5091,807857,6,Garden City Apartments,/City of Beverly Shuttle
+5091,807838,7,Beverly Hospital,/City of Beverly Shuttle
+5091,3460638,8,Whole Foods Shopping,/City of Beverly Shuttle
+5091,807851,9,Council on Aging,/City of Beverly Shuttle
+5091,807846,10,Balch St Apartments,/City of Beverly Shuttle
+5091,807864,11,North Beverly Plaza - Shaw's,/City of Beverly Shuttle
+5091,807838,12,Beverly Hospital,/City of Beverly Shuttle
+5091,807849,13,YMCA,/City of Beverly Shuttle
+5091,807848,14,Turtle Creek Apartments,/City of Beverly Shuttle
+5091,2597091,15,Montserrat Station,/City of Beverly Shuttle
+5091,807850,16,Cedar St Apartments,/City of Beverly Shuttle
+5091,3460647,17,Beverly Library,/City of Beverly Shuttle
+5091,807841,18,Commuter Rail Station - Beverly,"/Beverly Commuter, /City of Beverly Shuttle"
+5091,807834,19,Beverly City Hall,/City of Beverly Shuttle
+5091,807855,20,Stop & Shop,/City of Beverly Shuttle
+5091,807855,21,Stop & Shop,/City of Beverly Shuttle
+5091,3460643,22,Trask Ln & Folly Hill,/City of Beverly Shuttle
+5091,3460648,23,Market Basket,/City of Beverly Shuttle
+5091,807832,24,Bridge St - Variety Store,/City of Beverly Shuttle
+5092,798326,1,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5092,798369,2,Main St & Pleasant St,"/Blackburn Tripper, /Cruiseship Trolley, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, /Thatcher Road, Tripper/Magnolia to GHS, /West Gloucester"
+5092,807762,3,East Main St & Rocky Neck Ave,"/School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5092,798376,4,Niles Beach,"/Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5092,798305,5,Atlantic St & Moorland Rds,"/Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5092,801986,6,Stop & Shop - CVS,"/Eastern Ave, /Thatcher Road"
+5092,798354,7,Good Harbor Beach,/Thatcher Road
+5092,801985,8,Cape Hedge Inn,"/Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5092,798325,9,Dock Square,"/Cape Ann Works, /Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS"
+5092,798387,10,Rockport Market,"/Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5093,798387,1,Rockport Market,"/Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5093,798314,2,Cape Hedge Inn,"/Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5093,815374,3,Good Harbor Beach,/Thatcher Road
+5093,801986,4,Stop & Shop - CVS,"/Eastern Ave, /Thatcher Road"
+5093,807764,5,Atlantic St & Moorland Rds,"/School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5093,807765,6,Niles Beach,"/School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5093,798331,7,East Main St & Rocky Neck Ave,"/School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5093,798326,8,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5094,798387,1,Rockport Market,"/Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5094,798314,2,Cape Hedge Inn,"/Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5094,815374,3,Good Harbor Beach,/Thatcher Road
+5094,801986,4,Stop & Shop - CVS,"/Eastern Ave, /Thatcher Road"
+5094,807764,5,Atlantic St & Moorland Rds,"/School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5094,807765,6,Niles Beach,"/School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5094,798331,7,East Main St & Rocky Neck Ave,"/School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5094,798326,8,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5095,798326,1,Rose Baker Senior Center,"/Blackburn Tripper, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Thatcher Road, Tripper/Essex Ave to GHS, Tripper/Magnolia to GHS, /West Gloucester"
+5095,798369,2,Main St & Pleasant St,"/Blackburn Tripper, /Cruiseship Trolley, /Eastern Ave, /Gloucester Crossing/Business Express, /Lanesville, /Magnolia, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, /Thatcher Road, Tripper/Magnolia to GHS, /West Gloucester"
+5095,807762,3,East Main St & Rocky Neck Ave,"/School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5095,798376,4,Niles Beach,"/Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5095,798305,5,Atlantic St & Moorland Rds,"/Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5095,801986,6,Stop & Shop - CVS,"/Eastern Ave, /Thatcher Road"
+5095,798354,7,Good Harbor Beach,/Thatcher Road
+5095,801985,8,Cape Hedge Inn,"/Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS"
+5095,798325,9,Dock Square,"/Cape Ann Works, /Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS"
+5095,798387,10,Rockport Market,"/Eastern Ave, /Lanesville, /Rockport Shuttle, /School Trippers, /Thatcher Road, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Rockport, Lanesville, Washington St to GHS, Tripper/Washington St, Cherry St to GHS"
+5105,798388,1,Train Station - Rockport,"/Beverly Commuter, /Lanesville, /Rockport Shuttle, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS"
+5105,798353,2,Commuter Rail Station - Gloucester ,"/Beverly Commuter, /Blackburn Tripper, /Gloucester Crossing/Business Express, /Lanesville, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Downtown Gloucester to GHS, Tripper/Rockport, Lanesville, Washington St to GHS"
+5105,807841,3,Commuter Rail Station - Beverly,"/Beverly Commuter, /City of Beverly Shuttle"
+5106,807841,1,Commuter Rail Station - Beverly,"/Beverly Commuter, /City of Beverly Shuttle"
+5106,798353,2,Commuter Rail Station - Gloucester ,"/Beverly Commuter, /Blackburn Tripper, /Gloucester Crossing/Business Express, /Lanesville, /Saturday Mall, /School Trippers, /Stage Fort Park Shuttle, Tripper/Back Shore, Rocky Neck to GHS, Tripper/Downtown Gloucester to GHS, Tripper/Rockport, Lanesville, Washington St to GHS"
+5106,798388,3,Train Station - Rockport,"/Beverly Commuter, /Lanesville, /Rockport Shuttle, /School Trippers, Tripper/Rockport, Lanesville, Washington St to GHS"

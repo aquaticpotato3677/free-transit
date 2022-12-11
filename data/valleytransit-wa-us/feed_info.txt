@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+Transnnovation Inc,http://www.mjcaction.com,en,20170819,20190515,20170819,marcy@mjcaction.com,http://mjcaction.com/contact.html

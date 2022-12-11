@@ -1,0 +1,5 @@
+service_id,service_description
+c_67669_b_78238_d_31,FR weekday (Weekday)
+c_67667_b_78236_d_32,FR Sat (Saturday only)
+c_67665_b_78234_d_31,NB Weekday (Weekday)
+c_67662_b_78239_d_32,NB Sat (Saturday only)

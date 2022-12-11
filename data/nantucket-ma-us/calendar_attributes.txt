@@ -1,0 +1,12 @@
+service_id,service_description
+c_24063_b_33553_d_127,Sconset Via Polpis: June 27th - Sept 5th 2022  (All days of week)
+c_24062_b_33552_d_127,Sconset Via Milestone: June 13th - Sept 5th 2022 (All days of week)
+c_24061_b_33551_d_127,Madaket: May 27th - June 19th & Sept 6th - Sept 18th 2022 (All days of week)
+c_24061_b_33550_d_127,Madaket: May 27th - June 19th & Sept 6th - Sept 18th 2022 (All days of week)
+c_24060_b_33549_d_127,Airport: May 27th - Sept 20th 2022 (All days of week)
+c_24059_b_33548_d_127,June 20th - Sept 5th 2022 (All days of week)
+c_24058_b_33547_d_127,May 16th - June 19th & Sept 6th - Oct 10th 2022 (All days of week)
+c_24058_b_33546_d_127,May 16th - June 19th & Sept 6th - Oct 10th 2022 (All days of week)
+c_24057_b_33545_d_127,Jan 1st - May 15th & Oct 11 - Dec 31 2022 (All days of week)
+c_24057_b_33544_d_127,Jan 1st - May 15th & Oct 11 - Dec 31 2022 (All days of week)
+c_21199_b_29245_d_127,"Oct 12 - Dec 31, 2021 (All days of week)"

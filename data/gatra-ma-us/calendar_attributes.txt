@@ -1,0 +1,7 @@
+service_id,service_description
+c_67596_b_78143_d_96,Year Round starting 10/3/22 (Weekend)
+c_67596_b_78143_d_32,Year Round starting 10/3/22 (Saturday only)
+c_67596_b_78143_d_31,Year Round starting 10/3/22 (Weekday)
+c_67596_b_78143_d_29,Year Round starting 10/3/22 (MWThF)
+c_67596_b_78143_d_21,Year Round starting 10/3/22 (MWF)
+c_67596_b_78143_d_2,Year Round starting 10/3/22 (Tuesday only)

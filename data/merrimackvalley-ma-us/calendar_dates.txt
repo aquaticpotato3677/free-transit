@@ -1,0 +1,11 @@
+service_id,date,holiday_name,exception_type
+c_67634_b_78197_d_32,20221111,Veteran's Day - Saturday Service,1
+c_67634_b_78197_d_31,20230619,Juneteenth Day,2
+c_67634_b_78197_d_31,20230529,Memorial Day - No Service,2
+c_67634_b_78197_d_31,20230417,Patriots Day - No Service,2
+c_67634_b_78197_d_31,20230220,President's Day - No Service,2
+c_67634_b_78197_d_31,20230116,Martin Luther King Jr Day - No Service,2
+c_67634_b_78197_d_31,20230102,New Year's Day (Observed),2
+c_67634_b_78197_d_31,20221226,Christmas Day (Observed),2
+c_67634_b_78197_d_31,20221124,Thanksgiving Day - No Service,2
+c_67634_b_78197_d_31,20221111,Veteran's Day - Saturday Service,2

@@ -1,0 +1,2 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url,tts_agency_name
+668,http://www.gogbt.com/,en,Greater Bridgeport Transit,203-366-7070,America/New_York,http://gogbt.com/rider-information/fares,

@@ -1,0 +1,10 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off,tts_route_short_name,tts_route_long_name
+738,7130,Blue,,"Frequent weekday service between Dartmouth College, Hanover, DHMC, and Lebanon, with several daily trips to Enfield and Canaan.",3,http://www.advancetransit.com/routes/blue/,000FFF,ffffff,0,,0,1,1,,
+738,7128,Brown,,"Weekday service connecting Norwich and Hanover, including Rivercrest.",3,http://advancetransit.com/routes/brown/,996600,ffffff,1,,0,1,1,,
+738,7127,Green,,"Weekday service connecting West Lebanon, Hartford Village, Wilder, and Hanover.",3,http://advancetransit.com/routes/green/,07d262,ffffff,2,,0,1,1,,
+738,7129,Orange,,"Hourly weekday service connecting White River Junction,  West Lebanon, and Hanover.",3,http://advancetransit.com/routes/orange/,F87217,ffffff,3,,0,1,1,,
+738,7131,Red,,"Weekday service connecting Lebanon, West Lebanon, and Route 12A Plazas.",3,http://advancetransit.com/routes/red/,ed1a1a,ffffff,4,,0,1,1,,
+738,14112,Yellow,,,3,,fedc0a,616161,5,,0,1,1,,
+738,17098,Shuttle,Dartmouth/Hanover,,3,,3a3939,ffffff,6,30,0,1,1,,
+738,7135,Shuttle,DHMC Lot 20,"Free weekday service for DHMC patients, visitors, and staff. Operates approximately every five minutes from 6:00am to 5:55pm.",3,http://advancetransit.com/routes/dhmc_lot_20_shuttle/,3a3939,ffffff,8,5,0,1,1,,
+738,7150,,ACCESS Advance Transit (AT),"ADA Paratransit service for persons with disabilities. Operates in Hanover, Hartford, Lebanon, and Norwich.",3,,,,9,,1,1,1,,

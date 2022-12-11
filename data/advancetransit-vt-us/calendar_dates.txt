@@ -1,0 +1,11 @@
+service_id,date,holiday_name,exception_type
+c_24431_b_34221_d_31,20230529,Memorial Day - No Service,2
+c_24431_b_34221_d_31,20230116,Martin Luther King Jr. Day - No DH,2
+c_24431_b_34221_d_31,20230102,New Year's Day Observed - No Service,2
+c_24431_b_34221_d_31,20221226,Christmas Day Observed - No Service,2
+c_24431_b_34221_d_31,20221124,Thanksgiving Day - No Service,2
+c_21007_b_77764_d_31,20230529,Memorial Day - No Service,2
+c_21007_b_77764_d_31,20230116,Martin Luther King Jr. Day - No DH,2
+c_21007_b_77764_d_31,20221125,Day After Thanksgiving - Special DH,2
+c_21007_b_77764_d_31,20221124,Thanksgiving Day - No Service,2
+c_20788_b_none_d_0,20221125,Day After Thanksgiving - Special DH,1

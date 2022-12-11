@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Norwalk Transit District,http://www.norwalktransit.com/,en,20210106,20211231,20210106

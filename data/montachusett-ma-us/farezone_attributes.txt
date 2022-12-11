@@ -1,0 +1,4 @@
+zone_id,zone_name
+790,Fixed Route
+791,Intercity Fixed Route
+1448,Devens - Ayers - Shirley Local

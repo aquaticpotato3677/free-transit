@@ -1,0 +1,30 @@
+service_id,date,holiday_name,exception_type
+c_24289_b_33923_d_31,20230704,Independence Day,2
+c_24289_b_33923_d_31,20230529,Memorial Day,2
+c_24289_b_33923_d_31,20230417,Patriots Day,2
+c_24289_b_33923_d_31,20230220,President's Day,2
+c_24289_b_33923_d_31,20230116,Martin Luther King Jr Day,2
+c_24289_b_33923_d_31,20230102,New Year's Day Observed,2
+c_24289_b_33923_d_31,20221226,Christmas Day Observed,2
+c_24289_b_33923_d_31,20221124,Thanksgiving Day,2
+c_21058_b_28942_d_31,20230529,Memorial Day,2
+c_21058_b_28942_d_31,20230417,Patriots Day,2
+c_21058_b_28942_d_31,20230220,President's Day,2
+c_21058_b_28942_d_31,20230116,Martin Luther King Jr Day,2
+c_21058_b_28942_d_31,20221124,Thanksgiving Day,2
+c_21045_b_78059_d_31,20230529,Memorial Day,2
+c_21045_b_78059_d_31,20230116,Martin Luther King Jr Day,2
+c_21045_b_78059_d_31,20221125,Day After Thanksgiving,2
+c_21045_b_78059_d_31,20221124,Thanksgiving Day,2
+c_21045_b_78058_d_31,20230529,Memorial Day,2
+c_21045_b_78058_d_31,20230116,Martin Luther King Jr Day,2
+c_21045_b_78058_d_31,20221125,Day After Thanksgiving,2
+c_21045_b_78058_d_31,20221124,Thanksgiving Day,2
+c_21045_b_78057_d_31,20230529,Memorial Day,2
+c_21045_b_78057_d_31,20230116,Martin Luther King Jr Day,2
+c_21045_b_78057_d_31,20221125,Day After Thanksgiving,2
+c_21045_b_78057_d_31,20221124,Thanksgiving Day,2
+c_21045_b_78056_d_31,20230529,Memorial Day,2
+c_21045_b_78056_d_31,20230116,Martin Luther King Jr Day,2
+c_21045_b_78056_d_31,20221125,Day After Thanksgiving,2
+c_21045_b_78056_d_31,20221124,Thanksgiving Day,2

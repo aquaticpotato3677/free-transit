@@ -1,0 +1,10 @@
+agency_id,fare_id,price,currency_type,payment_method,transfers,transfer_duration
+986,970,0.00,USD,0,0,0
+986,971,0.00,USD,0,0,0
+986,972,0.00,USD,0,0,0
+986,973,0.00,USD,0,0,0
+986,1493,0.00,USD,0,0,0
+986,2247,0.00,USD,0,0,0
+986,2248,0.00,USD,0,0,0
+986,2250,0.00,USD,0,0,0
+986,4230,0.00,USD,0,0,0

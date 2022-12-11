@@ -1,0 +1,3 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_branding_url,agency_fare_url,agency_email
+SCT,Sullivan County Transit,https://sullivanny.us/Departments/Transportation,America/New_York,,,,,
+SCT_MS,Move Sullivan,https://sullivanny.us/Departments/Transportation/MoveSullivan,America/New_York,,845-434-4102,,,

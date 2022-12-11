@@ -1,0 +1,5 @@
+service_id,date,holiday_name,exception_type
+c_24166_b_33765_d_31,20221226,Christmas Day Observed,2
+c_24166_b_33765_d_31,20221125,Day After Thanksgiving,2
+c_24166_b_33765_d_31,20221124,Thanksgiving Day ,2
+c_24166_b_33765_d_31,20220905,Labor Day,2

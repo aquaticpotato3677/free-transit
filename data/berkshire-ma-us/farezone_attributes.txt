@@ -1,0 +1,14 @@
+zone_id,zone_name
+802,Pittsfield
+803,Lanesborough
+804,Cheshire
+805,Adams
+806,North Adams
+807,Dalton/Hinsdale
+811,Lee
+812,Lenox
+815,Stockbridge
+816,Great Barrington
+817,Williamstown
+824,Sheffield
+825,Ashley Falls

@@ -1,0 +1,171 @@
+service_id,date,holiday_name,exception_type
+c_21950_b_30903_d_31,20230626,Christmas Day (Observed),2
+c_21950_b_30903_d_31,20230529,Memorial Day,2
+c_21950_b_30903_d_31,20230220,Presidents Day,2
+c_21950_b_30903_d_31,20230116,Martin Luther King Jr Day ,2
+c_21950_b_30903_d_31,20230102,New Year's Day (Observed),2
+c_21950_b_30903_d_31,20221125,Day After Thanksgiving,2
+c_21950_b_30903_d_31,20221124,Thanksgiving Day ,2
+c_21950_b_30903_d_31,20221111,Veterans Day ,2
+c_21950_b_30903_d_31,20220905,Labor Day ,2
+c_21950_b_30903_d_31,20220704,July 4th,2
+c_21950_b_30903_d_21,20230626,Christmas Day (Observed),2
+c_21950_b_30903_d_21,20230529,Memorial Day,2
+c_21950_b_30903_d_21,20230220,Presidents Day,2
+c_21950_b_30903_d_21,20230116,Martin Luther King Jr Day ,2
+c_21950_b_30903_d_21,20230102,New Year's Day (Observed),2
+c_21950_b_30903_d_21,20221125,Day After Thanksgiving,2
+c_21950_b_30903_d_21,20221111,Veterans Day ,2
+c_21950_b_30903_d_21,20220905,Labor Day ,2
+c_21950_b_30903_d_21,20220704,July 4th,2
+c_21950_b_30903_d_10,20221124,Thanksgiving Day ,2
+c_21949_b_55881_d_1,20230626,Christmas Day (Observed),2
+c_21949_b_55881_d_1,20230529,Memorial Day,2
+c_21949_b_55881_d_1,20230220,Presidents Day,2
+c_21949_b_55881_d_1,20230116,Martin Luther King Jr Day ,2
+c_21949_b_55881_d_1,20230102,New Year's Day (Observed),2
+c_21949_b_55881_d_1,20220704,July 4th,2
+c_21949_b_55880_d_1,20230626,Christmas Day (Observed),2
+c_21949_b_55880_d_1,20230529,Memorial Day,2
+c_21949_b_55880_d_1,20230220,Presidents Day,2
+c_21949_b_55880_d_1,20230116,Martin Luther King Jr Day ,2
+c_21949_b_55880_d_1,20230102,New Year's Day (Observed),2
+c_21949_b_55880_d_1,20220704,July 4th,2
+c_21949_b_55879_d_1,20230626,Christmas Day (Observed),2
+c_21949_b_55879_d_1,20230529,Memorial Day,2
+c_21949_b_55879_d_1,20230220,Presidents Day,2
+c_21949_b_55879_d_1,20230116,Martin Luther King Jr Day ,2
+c_21949_b_55879_d_1,20230102,New Year's Day (Observed),2
+c_21949_b_55879_d_1,20220704,July 4th,2
+c_21949_b_55878_d_1,20230626,Christmas Day (Observed),2
+c_21949_b_55878_d_1,20230529,Memorial Day,2
+c_21949_b_55878_d_1,20230220,Presidents Day,2
+c_21949_b_55878_d_1,20230116,Martin Luther King Jr Day ,2
+c_21949_b_55878_d_1,20230102,New Year's Day (Observed),2
+c_21949_b_55878_d_1,20220704,July 4th,2
+c_21949_b_55877_d_1,20230626,Christmas Day (Observed),2
+c_21949_b_55877_d_1,20230529,Memorial Day,2
+c_21949_b_55877_d_1,20230220,Presidents Day,2
+c_21949_b_55877_d_1,20230116,Martin Luther King Jr Day ,2
+c_21949_b_55877_d_1,20230102,New Year's Day (Observed),2
+c_21949_b_55877_d_1,20220704,July 4th,2
+c_21949_b_55876_d_1,20230626,Christmas Day (Observed),2
+c_21949_b_55876_d_1,20230529,Memorial Day,2
+c_21949_b_55876_d_1,20230220,Presidents Day,2
+c_21949_b_55876_d_1,20230116,Martin Luther King Jr Day ,2
+c_21949_b_55876_d_1,20230102,New Year's Day (Observed),2
+c_21949_b_55876_d_1,20220704,July 4th,2
+c_21949_b_55875_d_1,20230626,Christmas Day (Observed),2
+c_21949_b_55875_d_1,20230529,Memorial Day,2
+c_21949_b_55875_d_1,20230220,Presidents Day,2
+c_21949_b_55875_d_1,20230116,Martin Luther King Jr Day ,2
+c_21949_b_55875_d_1,20230102,New Year's Day (Observed),2
+c_21949_b_55875_d_1,20220704,July 4th,2
+c_21949_b_55874_d_1,20230626,Christmas Day (Observed),2
+c_21949_b_55874_d_1,20230529,Memorial Day,2
+c_21949_b_55874_d_1,20230220,Presidents Day,2
+c_21949_b_55874_d_1,20230116,Martin Luther King Jr Day ,2
+c_21949_b_55874_d_1,20230102,New Year's Day (Observed),2
+c_21949_b_55874_d_1,20220704,July 4th,2
+c_21949_b_55873_d_1,20230626,Christmas Day (Observed),2
+c_21949_b_55873_d_1,20230529,Memorial Day,2
+c_21949_b_55873_d_1,20230220,Presidents Day,2
+c_21949_b_55873_d_1,20230116,Martin Luther King Jr Day ,2
+c_21949_b_55873_d_1,20230102,New Year's Day (Observed),2
+c_21949_b_55873_d_1,20220704,July 4th,2
+c_21949_b_55872_d_1,20230626,Christmas Day (Observed),2
+c_21949_b_55872_d_1,20230529,Memorial Day,2
+c_21949_b_55872_d_1,20230220,Presidents Day,2
+c_21949_b_55872_d_1,20230116,Martin Luther King Jr Day ,2
+c_21949_b_55872_d_1,20230102,New Year's Day (Observed),2
+c_21949_b_55872_d_1,20220704,July 4th,2
+c_21949_b_55871_d_1,20230626,Christmas Day (Observed),2
+c_21949_b_55871_d_1,20230529,Memorial Day,2
+c_21949_b_55871_d_1,20230220,Presidents Day,2
+c_21949_b_55871_d_1,20230116,Martin Luther King Jr Day ,2
+c_21949_b_55871_d_1,20230102,New Year's Day (Observed),2
+c_21949_b_55871_d_1,20220704,July 4th,2
+c_21949_b_55870_d_1,20230626,Christmas Day (Observed),2
+c_21949_b_55870_d_1,20230529,Memorial Day,2
+c_21949_b_55870_d_1,20230220,Presidents Day,2
+c_21949_b_55870_d_1,20230116,Martin Luther King Jr Day ,2
+c_21949_b_55870_d_1,20230102,New Year's Day (Observed),2
+c_21949_b_55870_d_1,20220704,July 4th,2
+c_21948_b_55893_d_1,20230626,Christmas Day (Observed),2
+c_21948_b_55893_d_1,20230529,Memorial Day,2
+c_21948_b_55893_d_1,20230220,Presidents Day,2
+c_21948_b_55893_d_1,20230116,Martin Luther King Jr Day ,2
+c_21948_b_55893_d_1,20230102,New Year's Day (Observed),2
+c_21948_b_55893_d_1,20220704,July 4th,2
+c_21948_b_55892_d_1,20230626,Christmas Day (Observed),2
+c_21948_b_55892_d_1,20230529,Memorial Day,2
+c_21948_b_55892_d_1,20230220,Presidents Day,2
+c_21948_b_55892_d_1,20230116,Martin Luther King Jr Day ,2
+c_21948_b_55892_d_1,20230102,New Year's Day (Observed),2
+c_21948_b_55892_d_1,20220704,July 4th,2
+c_21948_b_55891_d_1,20230626,Christmas Day (Observed),2
+c_21948_b_55891_d_1,20230529,Memorial Day,2
+c_21948_b_55891_d_1,20230220,Presidents Day,2
+c_21948_b_55891_d_1,20230116,Martin Luther King Jr Day ,2
+c_21948_b_55891_d_1,20230102,New Year's Day (Observed),2
+c_21948_b_55891_d_1,20220704,July 4th,2
+c_21948_b_55890_d_1,20230626,Christmas Day (Observed),2
+c_21948_b_55890_d_1,20230529,Memorial Day,2
+c_21948_b_55890_d_1,20230220,Presidents Day,2
+c_21948_b_55890_d_1,20230116,Martin Luther King Jr Day ,2
+c_21948_b_55890_d_1,20230102,New Year's Day (Observed),2
+c_21948_b_55890_d_1,20220704,July 4th,2
+c_21948_b_55889_d_1,20230626,Christmas Day (Observed),2
+c_21948_b_55889_d_1,20230529,Memorial Day,2
+c_21948_b_55889_d_1,20230220,Presidents Day,2
+c_21948_b_55889_d_1,20230116,Martin Luther King Jr Day ,2
+c_21948_b_55889_d_1,20230102,New Year's Day (Observed),2
+c_21948_b_55889_d_1,20220704,July 4th,2
+c_21948_b_55888_d_1,20230626,Christmas Day (Observed),2
+c_21948_b_55888_d_1,20230529,Memorial Day,2
+c_21948_b_55888_d_1,20230220,Presidents Day,2
+c_21948_b_55888_d_1,20230116,Martin Luther King Jr Day ,2
+c_21948_b_55888_d_1,20230102,New Year's Day (Observed),2
+c_21948_b_55888_d_1,20220704,July 4th,2
+c_21948_b_55887_d_1,20230626,Christmas Day (Observed),2
+c_21948_b_55887_d_1,20230529,Memorial Day,2
+c_21948_b_55887_d_1,20230220,Presidents Day,2
+c_21948_b_55887_d_1,20230116,Martin Luther King Jr Day ,2
+c_21948_b_55887_d_1,20230102,New Year's Day (Observed),2
+c_21948_b_55887_d_1,20220704,July 4th,2
+c_21948_b_55886_d_1,20230626,Christmas Day (Observed),2
+c_21948_b_55886_d_1,20230529,Memorial Day,2
+c_21948_b_55886_d_1,20230220,Presidents Day,2
+c_21948_b_55886_d_1,20230116,Martin Luther King Jr Day ,2
+c_21948_b_55886_d_1,20230102,New Year's Day (Observed),2
+c_21948_b_55886_d_1,20220704,July 4th,2
+c_21948_b_55885_d_1,20230626,Christmas Day (Observed),2
+c_21948_b_55885_d_1,20230529,Memorial Day,2
+c_21948_b_55885_d_1,20230220,Presidents Day,2
+c_21948_b_55885_d_1,20230116,Martin Luther King Jr Day ,2
+c_21948_b_55885_d_1,20230102,New Year's Day (Observed),2
+c_21948_b_55885_d_1,20220704,July 4th,2
+c_21948_b_55884_d_1,20230626,Christmas Day (Observed),2
+c_21948_b_55884_d_1,20230529,Memorial Day,2
+c_21948_b_55884_d_1,20230220,Presidents Day,2
+c_21948_b_55884_d_1,20230116,Martin Luther King Jr Day ,2
+c_21948_b_55884_d_1,20230102,New Year's Day (Observed),2
+c_21948_b_55884_d_1,20220704,July 4th,2
+c_21948_b_55883_d_1,20230626,Christmas Day (Observed),2
+c_21948_b_55883_d_1,20230529,Memorial Day,2
+c_21948_b_55883_d_1,20230220,Presidents Day,2
+c_21948_b_55883_d_1,20230116,Martin Luther King Jr Day ,2
+c_21948_b_55883_d_1,20230102,New Year's Day (Observed),2
+c_21948_b_55883_d_1,20220704,July 4th,2
+c_21948_b_55882_d_1,20230626,Christmas Day (Observed),2
+c_21948_b_55882_d_1,20230529,Memorial Day,2
+c_21948_b_55882_d_1,20230220,Presidents Day,2
+c_21948_b_55882_d_1,20230116,Martin Luther King Jr Day ,2
+c_21948_b_55882_d_1,20230102,New Year's Day (Observed),2
+c_21948_b_55882_d_1,20220704,July 4th,2
+c_21948_b_32517_d_1,20230626,Christmas Day (Observed),2
+c_21948_b_32517_d_1,20230529,Memorial Day,2
+c_21948_b_32517_d_1,20230220,Presidents Day,2
+c_21948_b_32517_d_1,20230116,Martin Luther King Jr Day ,2
+c_21948_b_32517_d_1,20230102,New Year's Day (Observed),2
+c_21948_b_32517_d_1,20220704,July 4th,2

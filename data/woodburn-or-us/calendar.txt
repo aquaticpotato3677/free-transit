@@ -1,0 +1,6 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_20754_b_28133_d_64,Weekend Fixed Route (Sunday only),0,0,0,0,0,0,1,20210401,20230301
+c_20754_b_28133_d_32,Weekend Fixed Route (Saturday only),0,0,0,0,0,1,0,20210401,20230301
+c_19779_b_26219_d_64,Year Round Reduced Service (New) (Sunday only),0,0,0,0,0,0,1,20200422,20230301
+c_19779_b_26219_d_32,Year Round Reduced Service (New) (Saturday only),0,0,0,0,0,1,0,20200422,20230301
+c_19779_b_26219_d_31,Year Round Reduced Service (New) (Weekday),1,1,1,1,1,0,0,20200422,20230301

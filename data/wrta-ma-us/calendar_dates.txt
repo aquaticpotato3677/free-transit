@@ -1,0 +1,8 @@
+service_id,date,holiday_name,exception_type
+c_67640_b_none_d_0,20230116,MLK Jr Day,1
+c_67640_b_none_d_0,20221125,Day After Thanksgiving,1
+c_67639_b_78200_d_64,20230101,New Years,2
+c_67639_b_78200_d_64,20221225,Christmas,2
+c_67639_b_78200_d_31,20230116,MLK Jr Day,2
+c_67639_b_78200_d_31,20221125,Day After Thanksgiving,2
+c_67639_b_78200_d_31,20221124,Thanksgiving,2

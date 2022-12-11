@@ -1,0 +1,6 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_69055_b_79780_d_15,Rte 18 Peak (MTuWTh),1,1,1,1,0,0,0,20221216,20230430
+c_69055_b_79780_d_112,Rte 18 Peak (FSaSu),0,0,0,0,1,1,1,20221216,20230430
+c_67338_b_55333_d_32,Year Round starting 08/1/22 (Saturday only),0,0,0,0,0,1,0,20220801,20231001
+c_67338_b_55333_d_31,Year Round starting 08/1/22 (Weekday),1,1,1,1,1,0,0,20220801,20231001
+c_301_b_78416_d_127,Rte 18 Offpeak (All days of week),1,1,1,1,1,1,1,20221125,20221215

@@ -1,0 +1,2 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url,tts_agency_name
+978,http://www.seatbus.com,en,Southeast Area Transit District,860-886-2631,America/New_York,https://southeastareatransitdistrict.com/fares-info/,
