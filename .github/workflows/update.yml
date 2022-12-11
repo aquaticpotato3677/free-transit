@@ -39,5 +39,5 @@ jobs:
       
     - name: upload tileset
       run: |
-        tilesets upload-source aquaticpotato3677 free-transit-test ./data.json --token="${{secrets.MAPBOX_ACCESS_TOKEN}}" --replace
-        tilesets publish aquaticpotato3677.free-transit-test --token="${{secrets.MAPBOX_ACCESS_TOKEN}}"
+        tilesets upload-source aquaticpotato3677 free-transit-test ./data.json --token="${{secrets.MAPBOX_TILESETS_TOKEN}}" --replace
+        tilesets publish aquaticpotato3677.free-transit-test --token="${{secrets.MAPBOX_TILESETS_TOKEN}}"
