@@ -1,0 +1,7 @@
+service_id,date,holiday_name,exception_type
+c_67263_b_77453_d_31,20230529,Memorial Day,2
+c_67263_b_77453_d_31,20221124,Thanksgiving,2
+c_67263_b_77453_d_127,20230529,Memorial Day,2
+c_67263_b_77453_d_127,20230101,New Year's Day,2
+c_67263_b_77453_d_127,20221225,Christmas Day,2
+c_67263_b_77453_d_127,20221124,Thanksgiving,2

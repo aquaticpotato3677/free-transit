@@ -1,0 +1,7 @@
+zone_id,zone_name
+818,Tisbury
+819,Oak Bluffs
+820,Edgartown
+821,West Tisbury
+822,Chilmark
+823,Aquinnah

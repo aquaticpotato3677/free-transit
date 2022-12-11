@@ -1,0 +1,568 @@
+stop_id,stop_city
+2483883,Ponset
+848355,Clinton
+848506,Essex
+848427,Deep River
+848309,Madison
+848303,Clinton
+848172,Old Lyme
+848502,Essex
+848607,Cedar Lake
+848549,Chester
+848461,Essex
+2483877,Killingworth
+848458,Centerbrook
+848443,Springfield
+848260,Springfield
+848183,Old Lyme
+848111,East Lyme
+2483583,Ponset
+848485,Old Saybrook
+848559,Ponset
+848269,Westbrook
+848603,Springfield
+848236,Old Saybrook
+848599,Old Saybrook
+848245,Old Saybrook
+848380,Springfield
+2483882,Ponset
+848631,Shailerville
+848317,Madison
+848580,Chester
+848534,Centerbrook
+848644,Middletown
+848184,Old Lyme
+849857,Springfield
+848430,Centerbrook
+848106,East Lyme
+3878783,Madison
+848394,Old Saybrook
+2483597,Killingworth
+848310,Madison
+848220,East Lyme
+848420,Deep River
+848540,Deep River
+848328,Madison
+848192,Old Lyme
+848489,Old Saybrook
+848554,Middletown
+848208,East Lyme
+848460,Essex
+848253,Westbrook
+848600,Old Saybrook
+848408,Springfield
+848109,East Lyme
+848194,Old Lyme
+848609,Springfield
+848195,Old Lyme
+848169,Old Lyme
+2483611,Clinton
+848576,Shailerville
+848402,Old Saybrook
+848232,Old Saybrook
+848316,Madison
+2615581,Westbrook
+848337,Clinton
+848564,Shailerville
+2615602,Clinton
+848353,Clinton
+848520,Centerbrook
+848334,Madison
+848433,Centerbrook
+848358,Springfield
+848518,Centerbrook
+2483875,Killingworth
+848614,Chester
+848285,Clinton
+2456329,Ponset
+2483884,Ponset
+848392,Westbrook
+848141,Old Lyme
+848544,Deep River
+848147,Old Lyme
+848543,Deep River
+848384,Westbrook
+848424,Deep River
+2483584,West Haddam
+848137,Old Lyme
+848186,Old Lyme
+848417,Chester
+848571,Shailerville
+848573,Shailerville
+848497,Old Saybrook
+2483603,Killingworth
+848423,Deep River
+848130,Old Lyme
+848498,Springfield
+848323,Madison
+848154,Old Saybrook
+2388295,Guilford
+848188,Old Lyme
+848570,Shailerville
+848552,Middletown
+848486,Old Saybrook
+848153,Old Lyme
+848197,Old Lyme
+848521,Centerbrook
+2483868,Killingworth
+848483,Old Saybrook
+2483582,Little City
+848173,Old Lyme
+848165,Old Saybrook
+848429,Centerbrook
+848403,Old Saybrook
+848503,Essex
+848488,Old Saybrook
+848327,Madison
+848566,Shailerville
+848218,East Lyme
+848217,East Lyme
+848125,Old Lyme
+2559168,Clinton
+848375,Westbrook
+848156,Old Saybrook
+849859,Springfield
+848385,Westbrook
+848331,Madison
+2483581,Ponset
+848239,Old Saybrook
+848416,Chester
+848516,Centerbrook
+848475,Old Saybrook
+848351,Clinton
+848366,Westbrook
+848196,Old Lyme
+848127,Old Lyme
+848150,Old Lyme
+848634,Ponset
+848499,Old Saybrook
+2483874,Killingworth
+848234,Old Saybrook
+848143,Old Lyme
+848441,Springfield
+848215,East Lyme
+848574,Shailerville
+848590,Cedar Lake
+848431,Centerbrook
+848246,Westbrook
+848206,Old Lyme
+848121,Old Lyme
+848140,Old Lyme
+848378,Springfield
+848250,Westbrook
+848620,Springfield
+2483585,West Haddam
+848541,Deep River
+848120,Old Lyme
+848200,Old Lyme
+848322,Madison
+848646,Springfield
+848341,Springfield
+848369,Westbrook
+848228,Old Saybrook
+848312,Madison
+848422,Deep River
+2745340,Clinton
+848191,Old Lyme
+848182,Old Lyme
+848135,Old Lyme
+3878784,Madison
+848612,Chester
+848584,Chester
+848509,Centerbrook
+848159,Old Saybrook
+848117,East Lyme
+2615580,Clinton
+2483879,West Haddam
+848357,Clinton
+848175,Old Lyme
+848167,Old Saybrook
+848176,Old Lyme
+848452,Springfield
+848113,East Lyme
+848532,Centerbrook
+848501,Old Saybrook
+848642,Springfield
+848399,Old Saybrook
+2483618,Clinton
+2740496,Madison
+849861,Springfield
+848273,Clinton
+848118,Old Lyme
+848325,Madison
+848434,Centerbrook
+848319,Madison
+848114,East Lyme
+848445,Centerbrook
+848287,Clinton
+848619,Tylerville
+848395,Old Saybrook
+848588,Cedar Lake
+848528,Springfield
+848561,Ponset
+848185,Old Lyme
+2483870,Killingworth
+848627,Shailerville
+848517,Centerbrook
+848579,Chester
+848624,Shailerville
+848128,Old Lyme
+2615483,East Lyme
+2483612,Clinton
+848625,Shailerville
+848254,Westbrook
+848229,Old Saybrook
+2483613,Clinton
+848151,Old Lyme
+848542,Deep River
+848308,Madison
+848116,East Lyme
+848533,Centerbrook
+848639,Middletown
+848144,Old Lyme
+848123,Old Lyme
+2483609,Clinton
+848512,Springfield
+848531,Centerbrook
+848374,Westbrook
+848119,Old Lyme
+848221,New London
+2483615,Clinton
+848136,Old Lyme
+848146,Old Lyme
+848388,Westbrook
+848448,Centerbrook
+848283,Clinton
+848474,Old Saybrook
+848462,Essex
+848321,Madison
+848451,Springfield
+848591,Springfield
+848390,Westbrook
+848530,Centerbrook
+848320,Madison
+848318,Madison
+848161,Old Saybrook
+848207,East Lyme
+2483873,Killingworth
+2483579,Ponset
+848108,East Lyme
+849856,Springfield
+848126,Old Lyme
+2483578,Ponset
+848345,Clinton
+848589,Cedar Lake
+848326,Madison
+848547,Chester
+848393,Westbrook
+848272,Westbrook
+848618,Chester
+848382,Springfield
+848425,Deep River
+848266,Westbrook
+3878777,Clinton
+848164,Springfield
+2613906,East Lyme
+848368,Westbrook
+848264,Westbrook
+848508,Centerbrook
+848401,Old Saybrook
+2483864,Clinton
+848560,Ponset
+848152,Springfield
+848578,Tylerville
+848500,Springfield
+848313,Madison
+848115,East Lyme
+848352,Clinton
+848563,Ponset
+848572,Shailerville
+848568,Shailerville
+848240,Old Saybrook
+2483596,Killingworth
+848262,Westbrook
+848495,Old Saybrook
+2483586,West Haddam
+848249,Westbrook
+848242,Old Saybrook
+848548,Chester
+2483604,Killingworth
+848155,Old Saybrook
+848359,Clinton
+848276,Clinton
+848583,Chester
+848545,Deep River
+848450,Centerbrook
+848142,Old Lyme
+848421,Deep River
+848305,Clinton
+848447,Centerbrook
+848418,Chester
+848204,Old Lyme
+2483862,Clinton
+848410,Old Saybrook
+848593,Springfield
+2483885,Ponset
+2483580,Ponset
+848275,Clinton
+848315,Madison
+848213,East Lyme
+848110,East Lyme
+848608,Cedar Lake
+2456328,Ponset
+848615,Chester
+3878778,Madison
+848354,Clinton
+848212,East Lyme
+2483588,West Haddam
+848134,Old Lyme
+2740484,Madison
+2456326,Killingworth
+848575,Shailerville
+848300,Springfield
+848271,Westbrook
+848112,East Lyme
+848201,Old Lyme
+848623,Shailerville
+848336,Clinton
+848139,Old Lyme
+848270,Westbrook
+848306,Clinton
+2483871,Killingworth
+848190,Old Lyme
+848279,Clinton
+848616,Chester
+849854,Springfield
+848267,Westbrook
+848282,Clinton
+848294,Springfield
+848426,Deep River
+848256,Springfield
+2483610,Clinton
+2456330,Killingworth
+848216,East Lyme
+2483602,Killingworth
+848383,Westbrook
+848490,Old Saybrook
+848235,Old Saybrook
+848411,Springfield
+848166,Old Saybrook
+848635,Ponset
+848491,Old Saybrook
+848439,Springfield
+848407,Old Saybrook
+848363,Clinton
+848565,Shailerville
+848457,Centerbrook
+848537,Centerbrook
+848362,Clinton
+848219,East Lyme
+848636,Ponset
+848138,Old Lyme
+848122,Old Lyme
+848367,Westbrook
+848472,Old Saybrook
+848437,Springfield
+848274,Clinton
+848387,Westbrook
+848476,Old Saybrook
+848371,Westbrook
+848199,Old Lyme
+848606,Cedar Lake
+848297,Springfield
+848513,Springfield
+848244,Old Saybrook
+848333,Madison
+848535,Centerbrook
+848562,Ponset
+848210,Old Lyme
+848370,Westbrook
+848168,Old Saybrook
+848177,Old Lyme
+848585,Chester
+848484,Old Saybrook
+848376,Westbrook
+848372,Westbrook
+2483601,Killingworth
+2483616,Clinton
+848515,Centerbrook
+848226,Old Saybrook
+848492,Old Saybrook
+2483606,Killingworth
+848187,Old Lyme
+848605,Cedar Lake
+848379,Westbrook
+848519,Centerbrook
+848238,Old Saybrook
+2483863,Clinton
+849858,Springfield
+848487,Old Saybrook
+2483605,Killingworth
+848202,Old Lyme
+848444,Centerbrook
+848505,Essex
+848132,Old Lyme
+848514,Springfield
+848255,Westbrook
+848149,Old Lyme
+848632,Shailerville
+848330,Madison
+849860,Springfield
+848617,Chester
+848611,Chester
+848435,Centerbrook
+848193,Old Lyme
+848557,Middletown
+848473,Old Saybrook
+848536,Centerbrook
+848178,Old Lyme
+848610,Chester
+848594,Springfield
+848626,Shailerville
+2483600,Killingworth
+848311,Madison
+848288,Clinton
+848464,Old Saybrook
+848124,Old Lyme
+848504,Essex
+848479,Old Saybrook
+848145,Old Lyme
+848314,Madison
+848286,Clinton
+848630,Shailerville
+2483876,Killingworth
+2483608,Clinton
+848546,Deep River
+848329,Madison
+848456,Centerbrook
+848637,Ponset
+848339,Springfield
+848129,Old Lyme
+2483619,Clinton
+848643,Middletown
+2483866,Killingworth
+848386,Westbrook
+848180,Old Lyme
+848174,Old Lyme
+848171,Old Lyme
+848440,Springfield
+848350,Springfield
+848586,Chester
+848293,Springfield
+848413,Old Saybrook
+848179,Old Lyme
+848581,Chester
+848198,Old Lyme
+848405,Old Saybrook
+848281,Clinton
+849855,Springfield
+848400,Old Saybrook
+848507,Essex
+848449,Centerbrook
+2483872,Killingworth
+848629,Shailerville
+848248,Westbrook
+848131,Old Lyme
+2483880,Ponset
+848538,Deep River
+2483878,West Haddam
+848622,Shailerville
+848645,Middletown
+3878782,Clinton
+848189,Old Lyme
+848243,Old Saybrook
+848419,Deep River
+848613,Chester
+848265,Westbrook
+848205,Old Lyme
+2483869,Killingworth
+848335,Clinton
+848640,Middletown
+2745336,Clinton
+849853,Springfield
+848365,Clinton
+2736244,Westbrook
+848628,Shailerville
+848307,Clinton
+2483614,Clinton
+848480,Old Saybrook
+848332,Madison
+848105,East Lyme
+848633,Shailerville
+848209,East Lyme
+848268,Westbrook
+848478,Old Saybrook
+848569,Shailerville
+848396,Old Saybrook
+2456331,Killingworth
+848459,Essex
+2740494,Madison
+848471,Springfield
+848133,Old Lyme
+848587,Chester
+848373,Westbrook
+848467,Springfield
+848404,Old Saybrook
+848277,Clinton
+848522,Springfield
+848148,Old Lyme
+848237,Old Saybrook
+848412,Old Saybrook
+848298,Springfield
+848284,Clinton
+848107,East Lyme
+848638,Ponset
+848211,East Lyme
+2740495,Madison
+848397,Old Saybrook
+2483607,Clinton
+848389,Westbrook
+2483881,Ponset
+848621,Shailerville
+2483587,West Haddam
+2483867,Killingworth
+848278,Springfield
+2483599,Killingworth
+848251,Westbrook
+848364,Clinton
+848553,Middletown
+848344,Springfield
+2483620,Clinton
+848356,Clinton
+848181,Old Lyme
+848252,Westbrook
+848225,Old Saybrook
+2483598,Killingworth
+848556,Middletown
+848104,Springfield
+848391,Westbrook
+848233,Old Saybrook
+848432,Centerbrook
+2483865,Killingworth
+848302,Clinton
+848567,Shailerville
+848398,Old Saybrook
+848482,Springfield
+848304,Clinton
+848241,Old Saybrook
+848406,Old Saybrook
+848595,Old Saybrook
+848582,Chester
+848524,Springfield
+848558,Middletown
+848477,Old Saybrook
+848224,Springfield
+848446,Centerbrook
+848340,Springfield
+848214,East Lyme
+848361,Clinton
+848641,Middletown
+848539,Deep River
+848428,Centerbrook
+2483617,Clinton
+848348,Springfield
+848203,Old Lyme
+848466,Old Saybrook
+848247,Westbrook
+849852,Springfield
+848157,Old Saybrook

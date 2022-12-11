@@ -1,0 +1,11 @@
+service_id,date,holiday_name,exception_type
+c_67669_b_78238_d_31,20221125,unnamed calendar date,2
+c_67669_b_78238_d_31,20221124,unnamed calendar date,2
+c_67669_b_78238_d_31,20221108,unnamed calendar date,2
+c_67668_b_none_d_0,20221125,unnamed calendar date,1
+c_67668_b_none_d_0,20221101,unnamed calendar date,1
+c_67666_b_none_d_0,20221125,unnamed calendar date,1
+c_67666_b_none_d_0,20221108,unnamed calendar date,1
+c_67665_b_78234_d_31,20221125,unnamed calendar date,2
+c_67665_b_78234_d_31,20221124,unnamed calendar date,2
+c_67665_b_78234_d_31,20221101,unnamed calendar date,2

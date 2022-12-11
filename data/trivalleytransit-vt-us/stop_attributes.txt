@@ -1,0 +1,314 @@
+stop_id,stop_city
+2384092,Kennedy Corners
+2750467,Burlington
+771381,Bristol
+2750465,Burlington
+2502254,Burlington
+771196,Hanover
+771382,South Hinesburg
+771337,Middlebury
+2619370,Sharon
+2383101,Beanville
+2384048,Lebanon
+2392435,Braintree
+798917,Montpelier
+2456181,Tupper
+2735006,Randolph
+2392428,Lebanon
+770758,White River Junction
+2754987,Bristol
+781611,Randolph Center
+798919,Montpelier
+849487,Springfield
+781610,Northfield
+771335,Middlebury
+2750474,South Burlington
+808148,Hanover
+781609,Montpelier
+4160259,Bradford
+771345,Hancock
+771347,Middlebury
+771361,Middlebury
+807631,Springfield
+808152,Springfield
+2755019,Tunbridge
+770761,Lebanon
+771317,Coleman Corner
+2735005,Berlin
+771374,Middlebury
+2745407,Middlebury
+807739,Springfield
+771327,Springfield
+2555965,Middlebury
+771346,Hancock
+2392429,Lebanon
+771400,Springfield
+2392444,Royalton
+771332,Middlebury
+2512530,Stockbridge
+2383116,North Tunbridge
+771354,Springfield
+2618120,Bristol
+2383145,Randolph Center
+771318,Springfield
+2383114,Bethel
+2383104,Beanville
+2383108,Bridgewater Corners
+4147910,Middlebury
+781608,Montpelier
+2384102,Woodstock
+2745405,Middlebury
+2394625,Middlebury
+2628832,Thetford
+771297,Brandon
+2750477,Burlington
+771388,Burlington
+771301,Springfield
+808153,Springfield
+844539,Springfield
+2750473,Burlington
+771319,Middlebury
+771306,Bristol
+808144,Springfield
+2456384,South Burlington
+771300,Brandon
+771370,New Haven
+771351,Springfield
+771398,Bristol
+770774,Hanover
+771323,Bread Loaf
+781614,Montpelier
+4160263,Fairlee
+771362,Middlebury
+820642,Springfield
+2750483,Burlington
+771320,Middlebury
+770782,Hancock
+2734987,Rutland City
+2576326,Montpelier
+770766,Randolph
+2383107,Morgan Corners
+771368,Springfield
+2452915,Beanville
+2755037,Royalton
+771322,Springfield
+770775,Hanover
+2392443,Kennedy Corners
+771314,Springfield
+2383118,Hancock
+771372,Middlebury
+2392427,Hartford
+770760,Lebanon
+2383146,Beanville
+771339,Springfield
+2616306,Middlebury
+771378,Middlebury
+2750489,Middlebury
+2483572,North Tunbridge
+771376,Ripton
+2383110,Hartford
+771324,Middlebury
+2394623,Middlebury
+808147,Springfield
+770777,West Lebanon
+2750502,Vergennes
+771308,Charlotte
+771386,South Burlington
+771410,Springfield
+770757,White River Junction
+2394652,Middlebury
+4149228,Middlebury
+2750486,Burlington
+771379,Middlebury
+4160262,Haverhill
+2750463,Burlington
+771344,Middlebury
+2616307,Middlebury
+771397,Middlebury
+770778,South Royalton
+771326,Springfield
+771315,Middlebury
+781606,Montpelier
+771408,Middlebury
+2750471,Burlington
+771309,Middlebury
+2394654,Middlebury
+2750472,Burlington
+771395,Springfield
+771321,Fernville
+808141,Springfield
+771380,Bristol
+2383112,Randolph Center
+808142,Springfield
+2394650,Middlebury
+770767,Bethel
+807630,Springfield
+770780,Bethel
+770776,West Lebanon
+2456193,Middlebury
+2394624,Middlebury
+2750503,Vergennes
+771338,Middlebury
+771364,Bristol
+2383103,Beanville
+770748,Wells River
+771342,Brandon
+771200,West Lebanon
+771363,Middlebury
+3461717,Addison
+770773,Hanover
+2394642,Middlebury
+771402,Springfield
+771360,Springfield
+770753,Bradford
+2394649,Middlebury
+2383100,Hanover
+2750500,Vergennes
+771199,Rochester
+771396,South Burlington
+771341,Middlebury
+2384091,Beanville
+2391812,Waltham
+771349,Rutland City
+2526355,Barre City
+2616308,Middlebury
+771325,Middlebury
+808139,Springfield
+2384094,North Royalton
+806518,Montpelier
+808154,Springfield
+808140,Springfield
+771302,Middlebury
+2383113,Bethel
+2383109,West Woodstock
+771384,Mechanicsville
+771393,Springfield
+770769,Bradford
+2483573,Sharon
+808158,Newbury
+818342,Springfield
+771377,Middlebury
+771371,Weybridge Hill
+771330,Middlebury
+771406,Vergennes
+2383115,Bethel
+770755,Fairlee
+2394653,Middlebury
+808143,Springfield
+771331,Middlebury
+771366,Middlebury
+771375,Middlebury
+2456180,Tupper
+808159,Springfield
+2394651,Middlebury
+771352,Springfield
+4149227,Middlebury
+808157,Springfield
+2383105,Beanville
+2584563,Middlebury
+771311,Middlebury
+771394,Springfield
+2755015,Woodstock
+2394636,Middlebury
+771369,Middlebury
+771329,Middlebury
+770754,Bradford
+808149,Springfield
+2745406,Middlebury
+771333,Middlebury
+2576327,Hanover
+771383,Bristol
+2750468,Burlington
+798918,Montpelier
+2734959,Woodstock
+849488,Springfield
+808145,Springfield
+808138,Springfield
+770749,Newbury
+808146,Springfield
+781613,Randolph
+771328,Middlebury
+771365,Middlebury
+2755018,Bread Loaf
+2392426,Lebanon
+771399,Middlebury
+844541,Springfield
+808156,Springfield
+771358,Vergennes
+771316,Coleman Corner
+2392436,Randolph
+2750479,Burlington
+771367,Middlebury
+2483571,North Royalton
+771387,Springfield
+771373,Middlebury
+770771,South Royalton
+3451572,South Pomfret
+781607,Montpelier
+771357,Springfield
+771304,Bristol
+2750469,South Burlington
+771356,Bread Loaf
+2383141,Haverhill
+2394627,Middlebury
+2384090,Hanover
+4147917,Ferrisburgh
+771310,Middlebury
+771353,Hancock
+807738,Springfield
+770762,Hanover
+807632,Hartford
+2391811,Middlebury
+771391,Springfield
+803757,Brandon
+771298,Brandon
+2383117,Talcville
+771359,Vergennes
+783957,Springfield
+818343,Springfield
+2384049,Lebanon
+771305,Bristol
+770764,Norwich
+771198,Hancock
+771296,Brandon
+770756,East Thetford
+771401,Springfield
+771350,Lake Dunmore
+771334,Middlebury
+2394634,Middlebury
+781612,Randolph Center
+2383106,Randolph Center
+771299,Springfield
+2483570,Talcville
+2750499,Vergennes
+2750481,Burlington
+770751,Newbury
+771390,Springfield
+2384052,Braintree
+771303,Bristol
+2734998,Bridgewater
+2745404,Burlington
+771312,Middlebury
+2394946,Rhode Island Corner
+2383111,Hartford
+2628834,South Strafford
+770759,Lebanon
+2755016,Hartford
+770781,Rochester
+848674,Lebanon
+771340,Middlebury
+3461718,Vershire
+806517,South Royalton
+844540,Springfield
+771336,Middlebury
+2383138,Hartford
+770779,Bethel
+2384095,Bethel
+2383102,Beanville
+808155,Newbury
+771343,Grangerville
+770750,Newbury
+771313,Middlebury
+2384186,Woodstock
+2384093,Kennedy Corners
+2750476,Burlington

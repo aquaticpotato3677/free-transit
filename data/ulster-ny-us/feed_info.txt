@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+"Bishop Peak Technology, Inc.",https://bishoppeak.com/,en,,,2022-04-15T10:01:29-07:00,contact@bishoppeak.com,

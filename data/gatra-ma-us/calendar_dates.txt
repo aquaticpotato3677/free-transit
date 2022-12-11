@@ -1,0 +1,10 @@
+service_id,date,holiday_name,exception_type
+c_67596_b_78143_d_96,20230101,New Year's Day,2
+c_67596_b_78143_d_96,20221231,New Years Eve,2
+c_67596_b_78143_d_96,20221225,Christmas Day,2
+c_67596_b_78143_d_96,20221224,Christmas Eve,2
+c_67596_b_78143_d_32,20221231,New Years Eve,2
+c_67596_b_78143_d_32,20221224,Christmas Eve,2
+c_67596_b_78143_d_31,20221124,Thanksgiving Day,2
+c_67596_b_78143_d_31,20221010,Columbus Day,2
+c_67596_b_78143_d_21,20221010,Columbus Day,2

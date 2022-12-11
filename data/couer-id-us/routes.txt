@@ -1,0 +1,4 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+14279,2016,A,Route A,3,F55E0B,FFFFFF
+14281,2016,B,Route B,3,008EF4,FFFFFF
+14283,2016,C,Route C,3,008001,FFFFFF

@@ -1,0 +1,4 @@
+route_id,direction_id,direction
+17913,0,No direction
+15203,0,No direction
+717,0,No direction

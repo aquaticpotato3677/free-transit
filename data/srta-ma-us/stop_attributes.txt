@@ -1,0 +1,238 @@
+stop_id,stop_city
+4152783,New Bedford
+4152692,Dartmouth
+4153396,Fall River
+4152870,New Bedford
+4152636,Dartmouth
+4153341,Fall River
+4153433,Fall River
+4152613,New Bedford
+4153428,Fall River
+4153081,Dartmouth
+4153364,Fall River
+4152757,New Bedford
+4153118,Fairhaven
+4153208,Swansea
+4153180,New Bedford
+4152928,New Bedford
+4152973,New Bedford
+4152861,Dartmouth
+4152840,New Bedford
+4152924,New Bedford
+4153306,Fall River
+4152691,New Bedford
+4153106,New Bedford
+4153329,Fall River
+4152819,New Bedford
+4152956,New Bedford
+4152900,New Bedford
+4153355,Somerset
+4152589,New Bedford
+4152989,New Bedford
+4153327,Fall River
+4152624,New Bedford
+4152721,New Bedford
+4152736,New Bedford
+4153027,New Bedford
+4153244,Fall River
+4152598,Dartmouth
+4153526,Fall River
+4153246,Fall River
+4153434,Fall River
+4153600,Fall River
+4153227,Fall River
+4152754,Fairhaven
+4152793,New Bedford
+4152765,New Bedford
+4153574,Fall River
+4152978,New Bedford
+4153522,Fall River
+4153595,Fall River
+4153108,New Bedford
+4153537,Fall River
+4153313,Fall River
+4152939,Fairhaven
+4153406,Fall River
+4153126,New Bedford
+4153490,Fall River
+4153280,Fall River
+4153030,New Bedford
+4153604,Fall River
+4153207,Fall River
+4153066,Westport
+4153616,Dartmouth
+4152741,Dartmouth
+4153477,Fall River
+4153567,Fall River
+4153571,Fall River
+4152615,Fairhaven
+4153122,New Bedford
+4153273,Fall River
+4152595,New Bedford
+4152898,New Bedford
+4152954,New Bedford
+4153059,New Bedford
+4153483,Fall River
+4152860,New Bedford
+4152656,Fall River
+4153414,Fall River
+4153222,Somerset
+4153518,Fall River
+4153301,Fall River
+4153481,Fall River
+4152599,New Bedford
+4152602,New Bedford
+4153167,Dartmouth
+4153430,Fall River
+4153379,Fall River
+4152805,Dartmouth
+4152967,New Bedford
+4152905,New Bedford
+4153579,Fall River
+4152725,Westport
+4152700,New Bedford
+4153563,Fall River
+4153193,New Bedford
+4153079,Westport
+4152628,Fairhaven
+4152625,New Bedford
+4153346,Fall River
+4152665,Fall River
+4152945,Dartmouth
+4153226,Fall River
+4152666,Fall River
+4153007,New Bedford
+4152746,New Bedford
+4153400,Fall River
+4153321,Fall River
+4153471,Fall River
+4153284,Fall River
+4152610,New Bedford
+4153614,Fall River
+4153615,Fall River
+4153375,Fall River
+4152585,New Bedford
+4153521,Fall River
+4153580,Fall River
+4153107,New Bedford
+4152993,New Bedford
+4153102,Fall River
+4153591,Fall River
+4153065,Westport
+4153380,Fall River
+4152712,Dartmouth
+4153231,Fall River
+4153152,New Bedford
+4152841,Fairhaven
+4153450,Fall River
+4153285,Fall River
+4152633,New Bedford
+4152932,New Bedford
+4153045,New Bedford
+4153288,Fall River
+4153608,Fall River
+4153257,Fall River
+4153391,Fall River
+4152640,New Bedford
+4153394,Fall River
+4152705,New Bedford
+4153235,Fall River
+4153256,Fall River
+4153488,Fall River
+4152831,New Bedford
+4153278,Fall River
+4153271,Fall River
+4152904,New Bedford
+4153566,Fall River
+4152897,Dartmouth
+4153275,Fall River
+4153510,Fall River
+4152685,New Bedford
+4153307,Swansea
+4153309,Fall River
+4152651,Fall River
+4153202,Fall River
+4153137,New Bedford
+4152887,New Bedford
+4152779,Fall River
+4152991,New Bedford
+4153156,New Bedford
+4153154,New Bedford
+4153124,New Bedford
+4152738,Dartmouth
+4153255,Fall River
+4152597,Dartmouth
+4152814,New Bedford
+4153055,New Bedford
+4153489,Fall River
+4152925,New Bedford
+4153003,Fall River
+4153243,Fall River
+4153088,Westport
+4153423,Fall River
+4152616,New Bedford
+4153342,Fall River
+4153553,Fall River
+4152758,New Bedford
+4152815,New Bedford
+4152999,New Bedford
+4152951,New Bedford
+4153303,Fall River
+4152662,Fall River
+4153445,Fall River
+4153358,Fall River
+4152609,New Bedford
+4152896,New Bedford
+4152941,New Bedford
+4153206,Fall River
+4153440,Fall River
+4153336,Fall River
+4152933,New Bedford
+4153239,Fall River
+4153444,Fall River
+4152936,New Bedford
+4153241,Fall River
+4153236,Fall River
+4152675,Dartmouth
+4153478,Fall River
+4153021,New Bedford
+4152740,Dartmouth
+4153495,Fall River
+4152659,New Bedford
+4153516,Fall River
+4152676,Dartmouth
+4153133,New Bedford
+4153017,New Bedford
+4153221,Somerset
+4153283,Fall River
+4152934,New Bedford
+4152992,New Bedford
+4153539,Fall River
+4152726,Westport
+4152823,New Bedford
+4153418,Fall River
+4153442,Fall River
+4152622,New Bedford
+4152590,New Bedford
+4152930,New Bedford
+4153204,Fall River
+4153468,Fall River
+4153232,Fall River
+4152587,New Bedford
+4153387,Fall River
+4153028,New Bedford
+4153304,Fall River
+4153511,Fall River
+4152649,Fall River
+4153213,Fall River
+4152995,New Bedford
+4152795,New Bedford
+4153132,New Bedford
+4152796,Fall River
+4153431,Fall River
+4153198,New Bedford
+4153382,Fall River
+4153318,Fall River
+4153533,Fall River
+4153155,New Bedford
+4152630,Fairhaven

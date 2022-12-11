@@ -1,0 +1,7 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+920,1354,,,
+920,1382,,,
+920,1383,,,
+920,1386,,,
+920,1387,,,
+920,5231,,,

@@ -1,0 +1,30 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_21950_b_30903_d_4,Year Round starting 6/01/21 (Wednesday only),0,0,1,0,0,0,0,20210601,20230701
+c_21950_b_30903_d_31,Year Round starting 6/01/21 (Weekday),1,1,1,1,1,0,0,20210601,20230701
+c_21950_b_30903_d_21,Year Round starting 6/01/21 (MWF),1,0,1,0,1,0,0,20210601,20230701
+c_21950_b_30903_d_10,Year Round starting 6/01/21 (TuTh),0,1,0,1,0,0,0,20210601,20230701
+c_21949_b_55881_d_1,Second Mondays (Monday only),1,0,0,0,0,0,0,20230410,20230410
+c_21949_b_55880_d_1,Second Mondays (Monday only),1,0,0,0,0,0,0,20230612,20230612
+c_21949_b_55879_d_1,Second Mondays (Monday only),1,0,0,0,0,0,0,20230508,20230508
+c_21949_b_55878_d_1,Second Mondays (Monday only),1,0,0,0,0,0,0,20221212,20221212
+c_21949_b_55877_d_1,Second Mondays (Monday only),1,0,0,0,0,0,0,20221114,20221114
+c_21949_b_55876_d_1,Second Mondays (Monday only),1,0,0,0,0,0,0,20230109,20230109
+c_21949_b_55875_d_1,Second Mondays (Monday only),1,0,0,0,0,0,0,20230213,20230213
+c_21949_b_55874_d_1,Second Mondays (Monday only),1,0,0,0,0,0,0,20221010,20221010
+c_21949_b_55873_d_1,Second Mondays (Monday only),1,0,0,0,0,0,0,20230313,20230313
+c_21949_b_55872_d_1,Second Mondays (Monday only),1,0,0,0,0,0,0,20220815,20220815
+c_21949_b_55871_d_1,Second Mondays (Monday only),1,0,0,0,0,0,0,20220912,20220912
+c_21949_b_55870_d_1,Second Mondays (Monday only),1,0,0,0,0,0,0,20220711,20220711
+c_21948_b_55893_d_1,Fourth Mondays (Monday only),1,0,0,0,0,0,0,20230327,20230327
+c_21948_b_55892_d_1,Fourth Mondays (Monday only),1,0,0,0,0,0,0,20230522,20230522
+c_21948_b_55891_d_1,Fourth Mondays (Monday only),1,0,0,0,0,0,0,20230626,20230626
+c_21948_b_55890_d_1,Fourth Mondays (Monday only),1,0,0,0,0,0,0,20230227,20230227
+c_21948_b_55889_d_1,Fourth Mondays (Monday only),1,0,0,0,0,0,0,20230424,20230424
+c_21948_b_55888_d_1,Fourth Mondays (Monday only),1,0,0,0,0,0,0,20230123,20230123
+c_21948_b_55887_d_1,Fourth Mondays (Monday only),1,0,0,0,0,0,0,20221024,20221024
+c_21948_b_55886_d_1,Fourth Mondays (Monday only),1,0,0,0,0,0,0,20220926,20220926
+c_21948_b_55885_d_1,Fourth Mondays (Monday only),1,0,0,0,0,0,0,20220725,20220725
+c_21948_b_55884_d_1,Fourth Mondays (Monday only),1,0,0,0,0,0,0,20221128,20221128
+c_21948_b_55883_d_1,Fourth Mondays (Monday only),1,0,0,0,0,0,0,20220822,20220822
+c_21948_b_55882_d_1,Fourth Mondays (Monday only),1,0,0,0,0,0,0,20221226,20221226
+c_21948_b_32517_d_1,Fourth Mondays (Monday only),1,0,0,0,0,0,0,20220627,20220627

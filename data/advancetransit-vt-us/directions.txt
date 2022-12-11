@@ -1,0 +1,17 @@
+route_id,direction_id,direction
+17098,1,Southbound
+17098,0,Northbound
+14112,1,Eastbound
+14112,0,Westbound
+7150,0,No direction
+7135,0,No direction
+7131,1,Eastbound
+7131,0,Westbound
+7130,1,Southbound
+7130,0,Northbound
+7129,1,Southbound
+7129,0,Northbound
+7128,1,Eastbound
+7128,0,Westbound
+7127,1,Southbound
+7127,0,Northbound

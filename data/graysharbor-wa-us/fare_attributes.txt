@@ -1,0 +1,5 @@
+﻿fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
+100,0.00,USD,0,,ght,18000
+200,2.00,USD,0,,ght,18000
+300,3.00,USD,0,,ght,
+free,0,USD,0,,ght,

@@ -1,0 +1,14 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_22003_b_78132_d_31,School Days (Weekday),1,1,1,1,1,0,0,20230227,20230614
+c_22003_b_78131_d_31,School Days (Weekday),1,1,1,1,1,0,0,20221128,20221217
+c_22003_b_78066_d_31,School Days (Weekday),1,1,1,1,1,0,0,20230103,20230217
+c_22003_b_55927_d_31,School Days (Weekday),1,1,1,1,1,0,0,20220829,20221123
+c_21668_b_78067_d_31,Non school Days (Weekday),1,1,1,1,1,0,0,20221217,20230102
+c_21283_b_29553_d_63,Year Round Starting 9/1/21 (No Sunday),1,1,1,1,1,1,0,20210401,20230801
+c_21283_b_29553_d_32,Year Round Starting 9/1/21 (Saturday only),0,0,0,0,0,1,0,20210401,20230801
+c_21283_b_29553_d_31,Year Round Starting 9/1/21 (Weekday),1,1,1,1,1,0,0,20210401,20230801
+c_21112_b_55926_d_64,FSU Spring/Fall (Sunday only),0,0,0,0,0,0,1,20220901,20230511
+c_21112_b_55926_d_31,FSU Spring/Fall (Weekday),1,1,1,1,1,0,0,20220901,20230511
+c_21112_b_55926_d_16,FSU Spring/Fall (Friday only),0,0,0,0,1,0,0,20220901,20230511
+c_21112_b_55926_d_15,FSU Spring/Fall (MTuWTh),1,1,1,1,0,0,0,20220901,20230511
+c_20742_b_41063_d_31,MWCC/Intercity (Weekday),1,1,1,1,1,0,0,20220905,20230531

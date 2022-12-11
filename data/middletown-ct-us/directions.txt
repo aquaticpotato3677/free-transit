@@ -1,0 +1,13 @@
+route_id,direction_id,direction
+19491,0,Loop
+19490,0,Loop
+19489,0,Loop
+19488,0,Loop
+19487,0,Loop
+19486,0,Loop
+19485,0,Loop
+19484,0,Loop
+19483,0,Loop
+19482,0,Loop
+19481,0,Loop
+19480,0,Loop

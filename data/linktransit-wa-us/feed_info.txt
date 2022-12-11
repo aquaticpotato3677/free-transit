@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Link Transit,http://www.linktransit.com/,en,20221118,20221231,20221117

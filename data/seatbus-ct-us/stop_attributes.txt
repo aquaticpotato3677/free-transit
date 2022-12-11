@@ -1,0 +1,685 @@
+stop_id,stop_city
+1131687,Norwich
+1143343,Groton
+1138751,Norwich
+1204203,Lisbon
+1128064,Norwich
+6091740,Norwich
+1230462,Franklin
+1130685,Waterford
+1293188,Norwich
+1204220,Griswold
+1205056,Groton
+1243494,Groton
+1204208,Griswold
+1145528,Groton
+1201983,Norwich
+1230449,Norwich
+1129628,New London
+1195924,East Lyme
+1243519,Groton
+1329965,Norwich
+4516337,Norwich
+1230971,Norwich
+1243506,Groton
+1230964,Norwich
+1133267,Waterford
+1289335,Norwich
+1243498,Groton
+1202026,Groton
+1230995,Norwich
+1195939,Waterford
+1195931,East Lyme
+1230446,Norwich
+1128067,Norwich
+1194185,Stonington
+1243512,Groton
+1230754,Norwich
+1289342,Norwich
+1231542,Mystic
+1202031,Groton
+1194192,Mystic
+1208449,New London
+1204200,Lisbon
+1208429,New London
+1231056,Griswold
+1195922,East Lyme
+1201989,Norwich
+1134612,Norwich
+1128085,Montville
+1231401,Lisbon
+1231395,Lisbon
+1230753,Norwich
+1210267,Waterford
+1195935,East Lyme
+1243486,Groton
+1195937,East Lyme
+1231575,Pawcatuck
+1231572,Pawcatuck
+1134601,Norwich
+1230478,Norwich
+1204207,Griswold
+4056068,Franklin
+1131696,Norwich
+1789703,New London
+1208450,New London
+1202035,Groton
+1128099,Waterford
+1143327,North Stonington
+1208440,New London
+1134606,Norwich
+1125695,Norwich
+1131690,Norwich
+1231570,Pawcatuck
+1195952,Waterford
+1243475,Groton
+1243508,Groton
+1131702,Norwich
+1131692,Norwich
+1230972,Norwich
+1231573,Pawcatuck
+1202029,Groton
+1329976,Waterford
+1210252,New London
+1195927,East Lyme
+1204213,Griswold
+1129640,New London
+1128066,Norwich
+1235630,New London
+1210258,New London
+1201990,Norwich
+1195956,Waterford
+1129632,New London
+1128107,New London
+1230740,Norwich
+1128075,Norwich
+1230968,Norwich
+1195920,East Lyme
+1231850,New London
+1225007,Groton
+1195940,Waterford
+1195929,East Lyme
+1143323,North Stonington
+1128112,New London
+1243469,Groton
+1134609,Norwich
+1289341,Norwich
+1230978,Norwich
+1210251,New London
+1232212,New London
+1232218,New London
+1138749,Norwich
+1131701,Norwich
+1195928,East Lyme
+1128065,Norwich
+1202023,Groton
+1243491,Groton
+1129652,Montville
+1129650,Montville
+1230755,Norwich
+1195948,Waterford
+1194179,Pawcatuck
+1231837,Waterford
+1230464,Norwich
+1210268,Waterford
+1143342,Groton
+1232211,New London
+1329979,New London
+1231543,Mystic
+1235629,New London
+1231544,Stonington
+1137988,Norwich
+1289322,Montville
+1231549,Pawcatuck
+1243470,Groton
+1202033,Groton
+1231059,Griswold
+1230743,Norwich
+1207786,New London
+1129657,Montville
+1208458,New London
+1208457,New London
+1195945,Waterford
+1204219,Griswold
+1230459,Norwich
+1202028,Groton
+1129656,Montville
+1243501,Groton
+1225000,Ledyard
+1212738,Ledyard
+1243497,Groton
+1230450,Norwich
+1202022,Groton
+1329939,East Lyme
+1230970,Norwich
+1129662,Norwich
+1207784,New London
+1194187,Mystic
+1125693,Norwich
+1231853,New London
+1627253,Norwich
+1195960,New London
+1329978,Waterford
+1137995,Norwich
+1293187,Norwich
+1243478,Groton
+1134595,Norwich
+1233788,Norwich
+1145546,Ledyard
+1232224,New London
+1232209,New London
+1212728,Groton
+1130688,Waterford
+1208452,New London
+1231838,New London
+1230470,Norwich
+1194180,Stonington
+1131694,Norwich
+1138747,Norwich
+1143333,Stonington
+1230466,Norwich
+1130678,New London
+1137993,Norwich
+1230438,Norwich
+1231836,Waterford
+1204217,Griswold
+1243489,Groton
+1212731,Groton
+1195955,Waterford
+1230974,Norwich
+1232225,New London
+1231060,Griswold
+1231545,Stonington
+1329940,East Lyme
+1230757,Norwich
+1129630,New London
+1329971,Norwich
+1243479,Groton
+1134604,Norwich
+1130687,Waterford
+1212729,Groton
+1129642,Waterford
+1129633,New London
+1230748,Norwich
+1208442,New London
+1202025,Groton
+1231852,New London
+1208434,New London
+1134603,Norwich
+1129639,New London
+1235633,New London
+1129648,Montville
+1128068,Norwich
+1130682,New London
+1131698,Norwich
+1194174,Pawcatuck
+1131689,Norwich
+1329927,Groton
+1143324,North Stonington
+1145537,North Stonington
+1195965,New London
+1129666,Norwich
+1230448,Norwich
+1145535,Stonington
+1128063,Norwich
+1137996,Norwich
+1195957,Waterford
+1232204,New London
+1210265,Waterford
+1129673,Norwich
+1225005,Groton
+1230452,Norwich
+1130681,New London
+1138752,Norwich
+1195941,Waterford
+1129664,Norwich
+1289311,New London
+1212742,Norwich
+1145545,North Stonington
+1225001,Ledyard
+1128076,Norwich
+1230440,Norwich
+1231855,New London
+1195964,New London
+1145530,Groton
+1329938,East Lyme
+1208445,New London
+1201991,Norwich
+1243503,Groton
+1137989,Norwich
+1194176,Pawcatuck
+1129645,Montville
+3168128,New London
+1212733,Groton
+1208447,New London
+1245504,Groton
+1212725,Groton
+1230966,Norwich
+1289337,Norwich
+1243481,Groton
+1231539,Mystic
+1243505,Groton
+1243473,Groton
+1143321,North Stonington
+1212726,Groton
+1129674,Norwich
+1128084,Montville
+1208456,New London
+1230999,Norwich
+1231061,Griswold
+1134600,Norwich
+1204209,Griswold
+1195950,Waterford
+1231844,New London
+1195930,East Lyme
+1131704,Norwich
+1212736,Ledyard
+1129644,Waterford
+1125685,Norwich
+1145543,North Stonington
+1125686,Norwich
+1243499,Groton
+1210257,New London
+1129658,Montville
+1329974,New London
+1231066,Lisbon
+1143326,North Stonington
+1243482,Groton
+1128088,Montville
+1243516,Groton
+1230469,Norwich
+1232213,New London
+1231057,Griswold
+1128104,New London
+1204202,Lisbon
+1133255,New London
+1329925,Groton
+1195953,Waterford
+1130684,New London
+1133262,New London
+1129635,New London
+1129631,New London
+1138753,Norwich
+1243483,Groton
+1131700,Norwich
+1194182,Stonington
+1129646,Montville
+1194173,Pawcatuck
+1138748,Norwich
+1293202,Norwich
+1212743,Norwich
+1129669,Norwich
+1145532,Stonington
+1243468,Groton
+1204216,Griswold
+1128090,Montville
+1131703,Norwich
+1125682,Norwich
+1243452,Groton
+1134608,Norwich
+1230989,Norwich
+1131693,Norwich
+1204199,Lisbon
+1201982,Norwich
+1243502,Groton
+1128081,Montville
+1212724,Groton
+1145542,North Stonington
+1128097,Waterford
+1231843,New London
+1231065,Lisbon
+1230962,Norwich
+1207801,New London
+1129629,New London
+1243493,Groton
+1145529,Groton
+1231839,New London
+4056066,Norwich
+1201984,Norwich
+1145539,North Stonington
+1129661,Norwich
+1195921,East Lyme
+1230460,Norwich
+1212740,Norwich
+1231849,New London
+1195949,Waterford
+1231063,Griswold
+1137992,Norwich
+1195954,Waterford
+1128089,Montville
+1329946,Waterford
+1210254,New London
+1230969,Norwich
+1232217,New London
+1128111,New London
+4056067,Norwich
+1243520,Groton
+1194184,Stonington
+1202021,Groton
+1230744,Norwich
+1202032,Groton
+1194172,Pawcatuck
+1195966,New London
+1207794,New London
+1230441,Norwich
+1232215,New London
+1138755,Norwich
+1212737,Ledyard
+1143337,Groton
+1128101,New London
+1195933,East Lyme
+1133257,New London
+1125683,Norwich
+1133260,New London
+1133261,New London
+1128091,Montville
+2745396,Waterford
+1204214,Griswold
+1195942,Waterford
+1195938,East Lyme
+1230751,Norwich
+1138746,Norwich
+1125691,Norwich
+1230977,Norwich
+1210245,New London
+1143328,North Stonington
+1243471,Groton
+1129665,Norwich
+1289319,Montville
+1194186,Stonington
+1194190,Mystic
+1208436,New London
+1194171,Pawcatuck
+1230979,Norwich
+1128110,New London
+1243484,Groton
+1195959,Waterford
+1129668,Norwich
+1195923,East Lyme
+1134593,Norwich
+1133268,Waterford
+1243495,Groton
+1289340,Norwich
+6090736,Ledyard
+1231842,New London
+1210259,Waterford
+1243496,Groton
+1195958,Waterford
+1129671,Norwich
+1128094,Montville
+1329975,New London
+1194183,Stonington
+1143335,Groton
+1230963,Norwich
+1128108,New London
+1128079,Montville
+1289306,Montville
+1143334,Groton
+1195944,Waterford
+1129667,Norwich
+1129643,Waterford
+1125687,Norwich
+1128103,New London
+1230474,Norwich
+1230465,Norwich
+1133256,New London
+1231577,Pawcatuck
+1230451,Norwich
+1231540,Mystic
+1210264,Waterford
+1232203,New London
+1138000,Norwich
+1232207,New London
+1201987,Norwich
+1194170,Stonington
+1129663,Norwich
+1145544,North Stonington
+1230447,Norwich
+1129670,Norwich
+1129647,Montville
+3934422,Norwich
+1289317,New London
+1212735,Ledyard
+1194189,Mystic
+1230756,Norwich
+1289310,New London
+1195936,East Lyme
+1210256,New London
+1204212,Griswold
+1225009,Groton
+1204204,Griswold
+1230965,Norwich
+1129672,Norwich
+1143325,North Stonington
+1230445,Norwich
+1133254,New London
+1289338,Norwich
+1134611,Norwich
+1225008,Groton
+1210275,East Lyme
+1194188,Mystic
+1289316,Montville
+1128106,New London
+1231854,New London
+1212732,Groton
+1289321,Montville
+1129634,New London
+1125684,Norwich
+1230752,Norwich
+4056063,Norwich
+1130680,New London
+1243488,Groton
+1243522,Groton
+1230975,Norwich
+1243474,Groton
+1243515,Groton
+1243476,Groton
+1208451,New London
+1289336,Norwich
+1194169,North Stonington
+1195925,East Lyme
+1128077,Norwich
+1129641,Waterford
+1128100,Waterford
+1129660,Norwich
+1231064,Griswold
+1134613,Norwich
+1231840,New London
+1125694,Norwich
+1243510,Groton
+1232222,New London
+1145540,North Stonington
+1208454,New London
+1145541,North Stonington
+1194175,Pawcatuck
+1243509,Groton
+1133264,Waterford
+4054468,New London
+1230475,Norwich
+1128080,Montville
+1243487,Groton
+1243477,Groton
+1210269,Waterford
+1231851,New London
+1225002,Ledyard
+1212734,Groton
+1128086,Montville
+1208446,New London
+1133269,Waterford
+1128062,Norwich
+1230976,Norwich
+1747045,Montville
+1243490,Groton
+1129627,New London
+1208441,New London
+1194177,Pawcatuck
+1201986,Norwich
+1130686,New London
+1202027,Groton
+1145534,Stonington
+1207787,New London
+1125690,Norwich
+1243517,Groton
+4056062,Norwich
+1204205,Griswold
+1230461,Norwich
+1289334,Norwich
+1230745,Norwich
+1133259,New London
+1232206,New London
+1231062,Griswold
+1231846,New London
+1195932,East Lyme
+1243480,Groton
+1195934,East Lyme
+1145533,Stonington
+1194193,Stonington
+1131699,Norwich
+1232221,New London
+1243513,Groton
+1230468,Norwich
+1230439,Norwich
+1195963,New London
+1143322,North Stonington
+1133263,New London
+1130689,Waterford
+1204206,Griswold
+1145538,North Stonington
+4056064,Norwich
+1215555,Norwich
+1134602,Norwich
+1128098,Waterford
+1231546,Stonington
+1128074,Norwich
+1230442,Norwich
+1128087,Montville
+1230987,Norwich
+1230967,Norwich
+1195946,Waterford
+1128092,Montville
+1231845,New London
+1230741,Norwich
+1143320,Ledyard
+1210253,New London
+1131688,Norwich
+1208439,New London
+1627252,Norwich
+4056065,Norwich
+1207799,New London
+1210263,Waterford
+1243472,Groton
+1230750,Norwich
+4056873,Norwich
+1230477,Norwich
+1243453,Groton
+1235631,New London
+1195947,Waterford
+1129649,Montville
+1210255,New London
+1128096,Waterford
+1208435,New London
+1134596,Norwich
+1230984,Norwich
+1133266,Waterford
+1212730,Groton
+1289320,Montville
+1231055,Griswold
+1133265,Waterford
+1129638,New London
+1131695,Norwich
+3934423,Norwich
+1329977,Waterford
+1225004,Groton
+1289309,New London
+1231067,Lisbon
+1230467,Norwich
+1208448,New London
+1145531,Groton
+1289318,New London
+1128105,New London
+1230471,Norwich
+1134610,Norwich
+1208438,New London
+1230749,Norwich
+1231003,Norwich
+1194181,Stonington
+1329926,Groton
+1231576,Pawcatuck
+1131691,Norwich
+7085600,New London
+1195962,New London
+1230473,Norwich
+1329929,Norwich
+1231541,Mystic
+1231002,Norwich
+1204211,Griswold
+1206927,New London
+1134605,Norwich
+1232214,New London
+6090735,Ledyard
+1125689,Norwich
+1134594,Norwich
+1204215,Griswold
+1131697,Norwich
+1130679,New London
+1243492,Groton
+1210266,Waterford
+1208437,New London
+1138750,Norwich
+1202036,Groton
+1206926,New London
+1133258,New London
+1293203,Norwich
+1143336,Groton
+1293186,Norwich
+1243521,Groton
+1225003,Ledyard
+1230472,Norwich
+1210260,Waterford
+1231571,Pawcatuck
+1231841,New London
+1212745,Norwich
+1289307,Montville
+1208453,New London
+1232216,New London
+1128095,Montville
+1129655,Montville
+1627251,Norwich
+4056069,Norwich
+1231058,Griswold
+1210270,Waterford
+1207806,New London
+1231001,Norwich
+2619402,Griswold
+1232219,New London
+1130683,New London
+1243504,Groton
+1243485,Groton
+1212739,Ledyard
+1231574,Pawcatuck
+1230986,Norwich
+1289308,Montville
+1230994,Norwich
+1230742,Norwich
+1230476,Norwich
+1230443,Norwich
+4056096,Norwich
+1230444,Norwich
+4690405,Griswold
+1208455,New London
+1204218,Griswold
+1243507,Groton
+1194191,Mystic
+1129636,New London
+1231000,Norwich
+1232223,New London
+1195951,Waterford
+1204201,Lisbon
+1231547,Stonington
+1243514,Groton
+1204210,Griswold
+1194178,Pawcatuck
+1243500,Groton
+1230463,Franklin
+1195961,New London
+1231548,Stonington

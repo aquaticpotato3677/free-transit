@@ -1,0 +1,8 @@
+﻿fare_id,route_id,origin_id,destination_id,contains_id
+100,,ghc,ghc,
+200,,oly,oly,
+300,,ghc,oly,
+300,,oly,ghc,
+300,,ghc,ghc,
+free,5,,,
+200,45,,,

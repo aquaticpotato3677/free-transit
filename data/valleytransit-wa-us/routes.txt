@@ -1,0 +1,12 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1E,walla2,1E,Mainline Eastbound,,3,,FF0000,000000
+1W,walla2,1W,Mainline Westbound,,3,,FF0000,000000
+2,walla2,2,College Place,,3,,e6b800,000000
+3,walla2,3,2nd Avenue / Wa-Hi,,3,,009933,FFFFFF
+4,walla2,4,Melrose / Alder,,3,,23a39c,FFFFFF
+5,walla2,5,Fairgrounds,,3,,996633,FFFFFF
+6,walla2,6,V.A. - Medical Loop,,3,,0099ff,000000
+7,walla2,7,Pleasant Street Loop,,3,,DB8CFF,000000
+9,walla2,9,Pine Street Loop,,3,,FF6600,000000
+300,walla2,,East Loop,,3,,FF8E8E,000000
+310,walla2,,West Loop,,3,,FF8E8E,000000

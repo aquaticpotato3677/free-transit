@@ -1,0 +1,4 @@
+zone_id,zone_name
+952,Zone 1 (Bend)
+953,Zone 2 (Outside Bend)
+955,Zone 4 (Warm Springs)

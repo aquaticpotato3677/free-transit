@@ -1,0 +1,2 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url,tts_agency_name
+504,http://www.gatra.org,en,Greater Attleboro Taunton Regional Transit Authority,508-823-8828,America/New_York,http://www.gatra.org/index.php/fares-passes/,

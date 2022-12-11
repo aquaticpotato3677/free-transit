@@ -1,0 +1,5 @@
+route_id,direction_id,direction
+19559,1,Southbound
+19559,0,Northbound
+19558,1,Southbound
+19558,0,Northbound

@@ -1,0 +1,1067 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+3527,799209,1,Walmart,1/Montello Street Via North Main Street
+3527,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3528,799209,1,Walmart,1/Montello Street Via North Main Street
+3528,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3529,799209,1,Walmart,1/Montello Street Via North Main Street
+3529,799210,2,West Main St and South St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799211,3,West Main St and Glendower St,1/Montello Street Via North Main Street
+3529,799212,4,Maguire Road,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799213,5,West Main St and East Main St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799214,6,North Main St and Burkeside Ave,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799215,7,North Main St and Hillcrest Ave,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,2734705,8,North Main St. @ Field House Daycare,1/Montello Street Via North Main Street
+3529,799216,9,North Main St and Woodland Ave,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799217,10,North Main St and Manners Ave,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799218,11,North Main St and Willow St,"12/Ashmont, 1/Montello Street Via North Main Street, /Dial-A-Bat Senior Service"
+3529,799219,12,North Main St and May Ave,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799220,13,North Main St and Searles Ave,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,2734704,14,North Main St at Guardian Rehabilitation Center,1/Montello Street Via North Main Street
+3529,799221,15,North Main St and Martland Ave,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799222,16,North Main St and Oak St,"12/Ashmont, 1/Montello Street Via North Main Street, /Dial-A-Bat Senior Service"
+3529,799223,17,North Main St and Herrod Ave,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799224,18,North Main St and Rutland St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799225,19,North Main St and Vine St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799226,20,North Main St and Upland Road,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799227,21,North Main St and Landsdowne St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799238,22,North Main St and Battles St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799228,23,North Main St and Division St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799229,24,North Main St and Ford St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799230,25,North Main St and West Ashland St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799231,26,North Main St and Huntington St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799232,27,North Main St and Prospect St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799233,28,North Main St and Falmouth Ave,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799234,29,North Main St and Wyman St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799235,30,North Main St and Haverhill St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799236,31,Linden St and North Montello St,"10/11/Lisa & Howard via N Quincy & Court, 12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799237,32,North Montello St and Court St,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 12/Ashmont, 1/Montello Street Via North Main Street"
+3529,799180,33,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3530,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3530,799209,2,Walmart,1/Montello Street Via North Main Street
+3531,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3531,799209,2,Walmart,1/Montello Street Via North Main Street
+3532,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3532,799181,2,Commercial St and School St,"1/Montello Street Via North Main Street, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, /Dial-A-Bat Senior Service"
+3532,799182,3,School St and Lincoln St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799183,4,Main St and Centre St,"1/Montello Street Via North Main Street, 9/Pearl via W Elm & Torrey"
+3532,799184,5,Main St and Petronelli Way,1/Montello Street Via North Main Street
+3532,799185,6,Main St and Court St,"1/Montello Street Via North Main Street, /Dial-A-Bat Senior Service"
+3532,799186,7,North Main St and Linden St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799187,8,North Main St and Rosseter St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799188,9,North Main St and Elliot St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799189,10,North Main St and Lebanon St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799190,11,North Main St and East Ashland St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799191,12,North Main St and Snow Ave,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,804150,13,North Main St and Battles St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799193,14,North Main St at Edith Stein Church,1/Montello Street Via North Main Street
+3532,799194,15,North Main St and Vine St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799195,16,North Main St and Ames St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799196,17,North Main St and Emerson Ave,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799197,18,North Main St and Field St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799198,19,North Main St and Howard St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799199,20,North Main St and Snell St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799200,21,North Main St and Albion St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,2734703,22,North Main St at Washburn Heights Housing,1/Montello Street Via North Main Street
+3532,799201,23,North Main St and Waldo St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799202,24,North Main St and Frankton St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799203,25,North Main St and Augustine St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799204,26,North Main St and Wilder St,"12/Ashmont, 1/Montello Street Via North Main Street"
+3532,799205,27,East Main St and Fletcher Rd,1/Montello Street Via North Main Street
+3532,799206,28,East Main St and Connolly Rd,1/Montello Street Via North Main Street
+3532,799207,29,East Main St and Lambert Dr,1/Montello Street Via North Main Street
+3532,799208,30,East Main St and Memorial Dr,1/Montello Street Via North Main Street
+3532,799209,31,Walmart,1/Montello Street Via North Main Street
+3533,799265,1,Kmart Plaza,2/S Plaza/Campello Via Main Street
+3533,799267,2,Main St at Auto Dealers,2/S Plaza/Campello Via Main Street
+3533,799268,3,Main St at Wendys,2/S Plaza/Campello Via Main Street
+3533,799270,4,Main St and Sargeants Way,2/S Plaza/Campello Via Main Street
+3533,799271,5,Main St and Meadow Ln,2/S Plaza/Campello Via Main Street
+3533,2738223,6,Main St and Holmes St,2/S Plaza/Campello Via Main Street
+3533,2738222,7,Main St and Watson St,2/S Plaza/Campello Via Main Street
+3533,2738221,8,Main St and Brookside Ave,2/S Plaza/Campello Via Main Street
+3533,799258,9,Campello Hi Rise,2/S Plaza/Campello Via Main Street
+3533,2738225,10,Main St - Teen Challenge,2/S Plaza/Campello Via Main Street
+3533,2738224,11,Main St and Clifton Ave - CVS,2/S Plaza/Campello Via Main Street
+3533,799272,12,Main St and Garfield St,2/S Plaza/Campello Via Main Street
+3533,799273,13,Main St and Perkins Ave,2/S Plaza/Campello Via Main Street
+3533,799274,14,Main St and East Chestnut St,2/S Plaza/Campello Via Main Street
+3533,799275,15,Main St and Pinkham St,2/S Plaza/Campello Via Main Street
+3533,2738226,16,Main St and Calmar St,2/S Plaza/Campello Via Main Street
+3533,2738227,17,Main St and Nilsson St,2/S Plaza/Campello Via Main Street
+3533,799276,18,Main St and Grand St,2/S Plaza/Campello Via Main Street
+3533,799277,19,Main St and Temple St,2/S Plaza/Campello Via Main Street
+3533,799278,20,Main St and Grove St,2/S Plaza/Campello Via Main Street
+3533,799279,21,Main St and Hancock St,2/S Plaza/Campello Via Main Street
+3533,799280,22,Main St and Main St Pl,2/S Plaza/Campello Via Main Street
+3533,799281,23,Packard St,2/S Plaza/Campello Via Main Street
+3533,799282,24,Main St and Union St,2/S Plaza/Campello Via Main Street
+3533,799283,25,Main St and Exchange St,2/S Plaza/Campello Via Main Street
+3533,799284,26,Main St and Lawrence St,2/S Plaza/Campello Via Main Street
+3533,799285,27,Main St and Allen St,2/S Plaza/Campello Via Main Street
+3533,799286,28,Main St and White Ave,2/S Plaza/Campello Via Main Street
+3533,2738228,29,Main St and Maple Ave,2/S Plaza/Campello Via Main Street
+3533,799518,30,Main St and Crescent St,"2/S Plaza/Campello Via Main Street, 8/Southfield via Warren & Plain Street"
+3533,799287,31,Main St and West Elm St,2/S Plaza/Campello Via Main Street
+3533,799390,32,Centre St and Montello St,"2/S Plaza/Campello Via Main Street, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 9/Pearl via W Elm & Torrey"
+3533,799180,33,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3534,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3534,799240,2,Montello St and School St,2/S Plaza/Campello Via Main Street
+3534,799241,3,Crescent St and VFW Pkwy,2/S Plaza/Campello Via Main Street
+3534,799242,4,Maple Ave and Main St,2/S Plaza/Campello Via Main Street
+3534,799243,5,Main St and Barlett St,2/S Plaza/Campello Via Main Street
+3534,799244,6,Main St and Park St,2/S Plaza/Campello Via Main Street
+3534,799245,7,Main St and Dover St,2/S Plaza/Campello Via Main Street
+3534,799246,8,Main St and Williams Pl,2/S Plaza/Campello Via Main Street
+3534,799247,9,Main St and Forest Ave,2/S Plaza/Campello Via Main Street
+3534,799248,10,Main St and David St,2/S Plaza/Campello Via Main Street
+3534,799249,11,Main St and Sheppard St,2/S Plaza/Campello Via Main Street
+3534,799250,12,Main St and Tribou St,2/S Plaza/Campello Via Main Street
+3534,799251,13,Main St and Nilsson St,2/S Plaza/Campello Via Main Street
+3534,799252,14,Main St and Calmar St,2/S Plaza/Campello Via Main Street
+3534,799253,15,Main St and West Chestnut St,2/S Plaza/Campello Via Main Street
+3534,799254,16,Main St and South St,2/S Plaza/Campello Via Main Street
+3534,799255,17,Main St and Lyon St,2/S Plaza/Campello Via Main Street
+3534,799256,18,Main St and Clifton Ave - CVS,2/S Plaza/Campello Via Main Street
+3534,799257,19,Main St and Glen Ave,2/S Plaza/Campello Via Main Street
+3534,799258,20,Campello Hi Rise,2/S Plaza/Campello Via Main Street
+3534,799259,21,Main St and Brookside Ave,2/S Plaza/Campello Via Main Street
+3534,799260,22,Main St and Watson St,2/S Plaza/Campello Via Main Street
+3534,799261,23,Main St and Holmes St,2/S Plaza/Campello Via Main Street
+3534,799262,24,Main St and Thayer Ave,2/S Plaza/Campello Via Main Street
+3534,799263,25,Main St and Sylvia Ave,2/S Plaza/Campello Via Main Street
+3534,2734706,26,Main St at Hayward Ave,2/S Plaza/Campello Via Main Street
+3534,799265,27,Kmart Plaza,2/S Plaza/Campello Via Main Street
+3535,799265,1,Kmart Plaza,2/S Plaza/Campello Via Main Street
+3535,799267,2,Main St at Auto Dealers,2/S Plaza/Campello Via Main Street
+3535,799268,3,Main St at Wendys,2/S Plaza/Campello Via Main Street
+3535,799270,4,Main St and Sargeants Way,2/S Plaza/Campello Via Main Street
+3535,799271,5,Main St and Meadow Ln,2/S Plaza/Campello Via Main Street
+3535,2738223,6,Main St and Holmes St,2/S Plaza/Campello Via Main Street
+3535,2738222,7,Main St and Watson St,2/S Plaza/Campello Via Main Street
+3535,2738221,8,Main St and Brookside Ave,2/S Plaza/Campello Via Main Street
+3535,799258,9,Campello Hi Rise,2/S Plaza/Campello Via Main Street
+3535,2738225,10,Main St - Teen Challenge,2/S Plaza/Campello Via Main Street
+3535,2738224,11,Main St and Clifton Ave - CVS,2/S Plaza/Campello Via Main Street
+3535,799272,12,Main St and Garfield St,2/S Plaza/Campello Via Main Street
+3535,799273,13,Main St and Perkins Ave,2/S Plaza/Campello Via Main Street
+3535,799274,14,Main St and East Chestnut St,2/S Plaza/Campello Via Main Street
+3535,799275,15,Main St and Pinkham St,2/S Plaza/Campello Via Main Street
+3535,2738226,16,Main St and Calmar St,2/S Plaza/Campello Via Main Street
+3535,2738227,17,Main St and Nilsson St,2/S Plaza/Campello Via Main Street
+3535,799276,18,Main St and Grand St,2/S Plaza/Campello Via Main Street
+3535,799277,19,Main St and Temple St,2/S Plaza/Campello Via Main Street
+3535,799278,20,Main St and Grove St,2/S Plaza/Campello Via Main Street
+3535,799279,21,Main St and Hancock St,2/S Plaza/Campello Via Main Street
+3535,799280,22,Main St and Main St Pl,2/S Plaza/Campello Via Main Street
+3535,799281,23,Packard St,2/S Plaza/Campello Via Main Street
+3535,799282,24,Main St and Union St,2/S Plaza/Campello Via Main Street
+3535,799283,25,Main St and Exchange St,2/S Plaza/Campello Via Main Street
+3535,799284,26,Main St and Lawrence St,2/S Plaza/Campello Via Main Street
+3535,799285,27,Main St and Allen St,2/S Plaza/Campello Via Main Street
+3535,799286,28,Main St and White Ave,2/S Plaza/Campello Via Main Street
+3535,2738228,29,Main St and Maple Ave,2/S Plaza/Campello Via Main Street
+3535,799518,30,Main St and Crescent St,"2/S Plaza/Campello Via Main Street, 8/Southfield via Warren & Plain Street"
+3535,799287,31,Main St and West Elm St,2/S Plaza/Campello Via Main Street
+3535,799390,32,Centre St and Montello St,"2/S Plaza/Campello Via Main Street, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 9/Pearl via W Elm & Torrey"
+3535,799180,33,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3536,799265,1,Kmart Plaza,2/S Plaza/Campello Via Main Street
+3536,799267,2,Main St at Auto Dealers,2/S Plaza/Campello Via Main Street
+3536,799268,3,Main St at Wendys,2/S Plaza/Campello Via Main Street
+3536,799270,4,Main St and Sargeants Way,2/S Plaza/Campello Via Main Street
+3536,799271,5,Main St and Meadow Ln,2/S Plaza/Campello Via Main Street
+3536,2738223,6,Main St and Holmes St,2/S Plaza/Campello Via Main Street
+3536,2738222,7,Main St and Watson St,2/S Plaza/Campello Via Main Street
+3536,2738221,8,Main St and Brookside Ave,2/S Plaza/Campello Via Main Street
+3536,799258,9,Campello Hi Rise,2/S Plaza/Campello Via Main Street
+3536,2738225,10,Main St - Teen Challenge,2/S Plaza/Campello Via Main Street
+3536,2738224,11,Main St and Clifton Ave - CVS,2/S Plaza/Campello Via Main Street
+3536,799272,12,Main St and Garfield St,2/S Plaza/Campello Via Main Street
+3536,799273,13,Main St and Perkins Ave,2/S Plaza/Campello Via Main Street
+3536,799274,14,Main St and East Chestnut St,2/S Plaza/Campello Via Main Street
+3536,799275,15,Main St and Pinkham St,2/S Plaza/Campello Via Main Street
+3536,2738226,16,Main St and Calmar St,2/S Plaza/Campello Via Main Street
+3536,2738227,17,Main St and Nilsson St,2/S Plaza/Campello Via Main Street
+3536,799276,18,Main St and Grand St,2/S Plaza/Campello Via Main Street
+3536,799277,19,Main St and Temple St,2/S Plaza/Campello Via Main Street
+3536,799278,20,Main St and Grove St,2/S Plaza/Campello Via Main Street
+3536,799279,21,Main St and Hancock St,2/S Plaza/Campello Via Main Street
+3536,799280,22,Main St and Main St Pl,2/S Plaza/Campello Via Main Street
+3536,799281,23,Packard St,2/S Plaza/Campello Via Main Street
+3536,799282,24,Main St and Union St,2/S Plaza/Campello Via Main Street
+3536,799283,25,Main St and Exchange St,2/S Plaza/Campello Via Main Street
+3536,799284,26,Main St and Lawrence St,2/S Plaza/Campello Via Main Street
+3536,799285,27,Main St and Allen St,2/S Plaza/Campello Via Main Street
+3536,799286,28,Main St and White Ave,2/S Plaza/Campello Via Main Street
+3536,2738228,29,Main St and Maple Ave,2/S Plaza/Campello Via Main Street
+3536,799518,30,Main St and Crescent St,"2/S Plaza/Campello Via Main Street, 8/Southfield via Warren & Plain Street"
+3536,799287,31,Main St and West Elm St,2/S Plaza/Campello Via Main Street
+3536,799390,32,Centre St and Montello St,"2/S Plaza/Campello Via Main Street, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 9/Pearl via W Elm & Torrey"
+3536,799180,33,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3537,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3537,799240,2,Montello St and School St,2/S Plaza/Campello Via Main Street
+3537,799241,3,Crescent St and VFW Pkwy,2/S Plaza/Campello Via Main Street
+3537,799242,4,Maple Ave and Main St,2/S Plaza/Campello Via Main Street
+3537,799243,5,Main St and Barlett St,2/S Plaza/Campello Via Main Street
+3537,799244,6,Main St and Park St,2/S Plaza/Campello Via Main Street
+3537,799245,7,Main St and Dover St,2/S Plaza/Campello Via Main Street
+3537,799246,8,Main St and Williams Pl,2/S Plaza/Campello Via Main Street
+3537,799247,9,Main St and Forest Ave,2/S Plaza/Campello Via Main Street
+3537,799248,10,Main St and David St,2/S Plaza/Campello Via Main Street
+3537,799249,11,Main St and Sheppard St,2/S Plaza/Campello Via Main Street
+3537,799250,12,Main St and Tribou St,2/S Plaza/Campello Via Main Street
+3537,799251,13,Main St and Nilsson St,2/S Plaza/Campello Via Main Street
+3537,799252,14,Main St and Calmar St,2/S Plaza/Campello Via Main Street
+3537,799253,15,Main St and West Chestnut St,2/S Plaza/Campello Via Main Street
+3537,799254,16,Main St and South St,2/S Plaza/Campello Via Main Street
+3537,799255,17,Main St and Lyon St,2/S Plaza/Campello Via Main Street
+3537,799256,18,Main St and Clifton Ave - CVS,2/S Plaza/Campello Via Main Street
+3537,799257,19,Main St and Glen Ave,2/S Plaza/Campello Via Main Street
+3537,799258,20,Campello Hi Rise,2/S Plaza/Campello Via Main Street
+3537,799259,21,Main St and Brookside Ave,2/S Plaza/Campello Via Main Street
+3537,799260,22,Main St and Watson St,2/S Plaza/Campello Via Main Street
+3537,799261,23,Main St and Holmes St,2/S Plaza/Campello Via Main Street
+3537,799262,24,Main St and Thayer Ave,2/S Plaza/Campello Via Main Street
+3537,799263,25,Main St and Sylvia Ave,2/S Plaza/Campello Via Main Street
+3537,2734706,26,Main St at Hayward Ave,2/S Plaza/Campello Via Main Street
+3537,799265,27,Kmart Plaza,2/S Plaza/Campello Via Main Street
+3538,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3538,799240,2,Montello St and School St,2/S Plaza/Campello Via Main Street
+3538,799241,3,Crescent St and VFW Pkwy,2/S Plaza/Campello Via Main Street
+3538,799242,4,Maple Ave and Main St,2/S Plaza/Campello Via Main Street
+3538,799243,5,Main St and Barlett St,2/S Plaza/Campello Via Main Street
+3538,799244,6,Main St and Park St,2/S Plaza/Campello Via Main Street
+3538,799245,7,Main St and Dover St,2/S Plaza/Campello Via Main Street
+3538,799246,8,Main St and Williams Pl,2/S Plaza/Campello Via Main Street
+3538,799247,9,Main St and Forest Ave,2/S Plaza/Campello Via Main Street
+3538,799248,10,Main St and David St,2/S Plaza/Campello Via Main Street
+3538,799249,11,Main St and Sheppard St,2/S Plaza/Campello Via Main Street
+3538,799250,12,Main St and Tribou St,2/S Plaza/Campello Via Main Street
+3538,799251,13,Main St and Nilsson St,2/S Plaza/Campello Via Main Street
+3538,799252,14,Main St and Calmar St,2/S Plaza/Campello Via Main Street
+3538,799253,15,Main St and West Chestnut St,2/S Plaza/Campello Via Main Street
+3538,799254,16,Main St and South St,2/S Plaza/Campello Via Main Street
+3538,799255,17,Main St and Lyon St,2/S Plaza/Campello Via Main Street
+3538,799256,18,Main St and Clifton Ave - CVS,2/S Plaza/Campello Via Main Street
+3538,799257,19,Main St and Glen Ave,2/S Plaza/Campello Via Main Street
+3538,799258,20,Campello Hi Rise,2/S Plaza/Campello Via Main Street
+3538,799259,21,Main St and Brookside Ave,2/S Plaza/Campello Via Main Street
+3538,799260,22,Main St and Watson St,2/S Plaza/Campello Via Main Street
+3538,799261,23,Main St and Holmes St,2/S Plaza/Campello Via Main Street
+3538,799262,24,Main St and Thayer Ave,2/S Plaza/Campello Via Main Street
+3538,799263,25,Main St and Sylvia Ave,2/S Plaza/Campello Via Main Street
+3538,2734706,26,Main St at Hayward Ave,2/S Plaza/Campello Via Main Street
+3538,799265,27,Kmart Plaza,2/S Plaza/Campello Via Main Street
+3539,799306,1,Veterans Hospital,3/VA Hospital via Belmont
+3539,799314,2,Belmont St at VA Entrance,3/VA Hospital via Belmont
+3539,799315,3,Belmont St and Edinboro Ave,3/VA Hospital via Belmont
+3539,799316,4,Belmont St and Lorraine Ave,3/VA Hospital via Belmont
+3539,799317,5,Belmont St at Dunkin Donuts,3/VA Hospital via Belmont
+3539,799318,6,DAngelos CVS Plaza,3/VA Hospital via Belmont
+3539,799319,7,Brockton High School,3/VA Hospital via Belmont
+3539,799300,8,Shaws West Plaza,3/VA Hospital via Belmont
+3539,799320,9,Torrey St at Shaws Plaza,"3/VA Hospital via Belmont, 9/Pearl via W Elm & Torrey"
+3539,799321,10,Torrey St and West St,"3/VA Hospital via Belmont, 9/Pearl via W Elm & Torrey"
+3539,799322,11,Belmont St at Bat Shelter,3/VA Hospital via Belmont
+3539,799323,12,Belmont St at Fairgrounds,3/VA Hospital via Belmont
+3539,799324,13,Belmont St and Thurber Ave,3/VA Hospital via Belmont
+3539,799325,14,Belmont St and Ash St,3/VA Hospital via Belmont
+3539,799326,15,Belmont St and Manomet St,3/VA Hospital via Belmont
+3539,799327,16,Belmont St and Grafton St,3/VA Hospital via Belmont
+3539,799328,17,Belmont St and Minot Ave,3/VA Hospital via Belmont
+3539,799329,18,Belmont St and Newbury St,3/VA Hospital via Belmont
+3539,2738280,19,Belmont St and New Arnone School,3/VA Hospital via Belmont
+3539,799331,20,Belmont St and Cottage St,"3/VA Hospital via Belmont, 8/Southfield via Warren & Plain Street"
+3539,799332,21,Crescent St and Maple Ave,3/VA Hospital via Belmont
+3539,799333,22,Commercial St and School St,"3/VA Hospital via Belmont, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3539,799334,23,Commercial St at Centre St,"3/VA Hospital via Belmont, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3539,799180,24,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3540,799306,1,Veterans Hospital,3/VA Hospital via Belmont
+3540,799314,2,Belmont St at VA Entrance,3/VA Hospital via Belmont
+3540,799315,3,Belmont St and Edinboro Ave,3/VA Hospital via Belmont
+3540,799316,4,Belmont St and Lorraine Ave,3/VA Hospital via Belmont
+3540,799317,5,Belmont St at Dunkin Donuts,3/VA Hospital via Belmont
+3540,799318,6,DAngelos CVS Plaza,3/VA Hospital via Belmont
+3540,799319,7,Brockton High School,3/VA Hospital via Belmont
+3540,799300,8,Shaws West Plaza,3/VA Hospital via Belmont
+3540,799320,9,Torrey St at Shaws Plaza,"3/VA Hospital via Belmont, 9/Pearl via W Elm & Torrey"
+3540,799321,10,Torrey St and West St,"3/VA Hospital via Belmont, 9/Pearl via W Elm & Torrey"
+3540,799322,11,Belmont St at Bat Shelter,3/VA Hospital via Belmont
+3540,799323,12,Belmont St at Fairgrounds,3/VA Hospital via Belmont
+3540,799324,13,Belmont St and Thurber Ave,3/VA Hospital via Belmont
+3540,799325,14,Belmont St and Ash St,3/VA Hospital via Belmont
+3540,799326,15,Belmont St and Manomet St,3/VA Hospital via Belmont
+3540,799327,16,Belmont St and Grafton St,3/VA Hospital via Belmont
+3540,799328,17,Belmont St and Minot Ave,3/VA Hospital via Belmont
+3540,799329,18,Belmont St and Newbury St,3/VA Hospital via Belmont
+3540,2738280,19,Belmont St and New Arnone School,3/VA Hospital via Belmont
+3540,799331,20,Belmont St and Cottage St,"3/VA Hospital via Belmont, 8/Southfield via Warren & Plain Street"
+3540,799332,21,Crescent St and Maple Ave,3/VA Hospital via Belmont
+3540,799333,22,Commercial St and School St,"3/VA Hospital via Belmont, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3540,799334,23,Commercial St at Centre St,"3/VA Hospital via Belmont, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3540,799180,24,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3541,799306,1,Veterans Hospital,3/VA Hospital via Belmont
+3541,799314,2,Belmont St at VA Entrance,3/VA Hospital via Belmont
+3541,799315,3,Belmont St and Edinboro Ave,3/VA Hospital via Belmont
+3541,799316,4,Belmont St and Lorraine Ave,3/VA Hospital via Belmont
+3541,799317,5,Belmont St at Dunkin Donuts,3/VA Hospital via Belmont
+3541,799318,6,DAngelos CVS Plaza,3/VA Hospital via Belmont
+3541,799319,7,Brockton High School,3/VA Hospital via Belmont
+3541,799300,8,Shaws West Plaza,3/VA Hospital via Belmont
+3541,799320,9,Torrey St at Shaws Plaza,"3/VA Hospital via Belmont, 9/Pearl via W Elm & Torrey"
+3541,799321,10,Torrey St and West St,"3/VA Hospital via Belmont, 9/Pearl via W Elm & Torrey"
+3541,799322,11,Belmont St at Bat Shelter,3/VA Hospital via Belmont
+3541,799323,12,Belmont St at Fairgrounds,3/VA Hospital via Belmont
+3541,799324,13,Belmont St and Thurber Ave,3/VA Hospital via Belmont
+3541,799325,14,Belmont St and Ash St,3/VA Hospital via Belmont
+3541,799326,15,Belmont St and Manomet St,3/VA Hospital via Belmont
+3541,799327,16,Belmont St and Grafton St,3/VA Hospital via Belmont
+3541,799328,17,Belmont St and Minot Ave,3/VA Hospital via Belmont
+3541,799329,18,Belmont St and Newbury St,3/VA Hospital via Belmont
+3541,2738280,19,Belmont St and New Arnone School,3/VA Hospital via Belmont
+3541,799331,20,Belmont St and Cottage St,"3/VA Hospital via Belmont, 8/Southfield via Warren & Plain Street"
+3541,799332,21,Crescent St and Maple Ave,3/VA Hospital via Belmont
+3541,799333,22,Commercial St and School St,"3/VA Hospital via Belmont, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3541,799334,23,Commercial St at Centre St,"3/VA Hospital via Belmont, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3541,799180,24,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3542,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3542,799307,2,Legion Parkway and Main St,"3/VA Hospital via Belmont, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey"
+3542,799308,3,Legion Parkway and Warren Ave,"3/VA Hospital via Belmont, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey"
+3542,799309,4,Warren Ave and West Elm St,"3/VA Hospital via Belmont, 8/Southfield via Warren & Plain Street"
+3542,799310,5,Belmont St and Newbury St,3/VA Hospital via Belmont
+3542,799311,6,Belmont St and Wall St,3/VA Hospital via Belmont
+3542,799312,7,Belmont St and Minot Ave,3/VA Hospital via Belmont
+3542,799290,8,Belmont St and Elm Ave,3/VA Hospital via Belmont
+3542,799291,9,Belmont St and Belmont Ave,3/VA Hospital via Belmont
+3542,799292,10,Belmont St and Ash St,3/VA Hospital via Belmont
+3542,799293,11,Belmont St and Moraine St,3/VA Hospital via Belmont
+3542,799294,12,Belmont St and Thurber Ave,3/VA Hospital via Belmont
+3542,799295,13,Belmont St and Kenelworth Ave,3/VA Hospital via Belmont
+3542,799296,14,Torrey St and Belmont Pl,3/VA Hospital via Belmont
+3542,799297,15,Torrey St and West St,3/VA Hospital via Belmont
+3542,799298,16,West St and Belmont St,3/VA Hospital via Belmont
+3542,799300,17,Shaws West Plaza,3/VA Hospital via Belmont
+3542,799876,18,Stop and Shop Plaza,"13/Mini-Maller Westgate Mall, Brockton, 3/VA Hospital via Belmont"
+3542,799301,19,Brockton High School,3/VA Hospital via Belmont
+3542,799313,20,DAngelos CVS,3/VA Hospital via Belmont
+3542,799303,21,Belmont St and Torrey Ave,3/VA Hospital via Belmont
+3542,799304,22,Belmont St and Lorraine Ave,3/VA Hospital via Belmont
+3542,799305,23,Belmont St and Edinboro Ave,3/VA Hospital via Belmont
+3542,799306,24,Veterans Hospital,3/VA Hospital via Belmont
+3543,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3543,799307,2,Legion Parkway and Main St,"3/VA Hospital via Belmont, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey"
+3543,799308,3,Legion Parkway and Warren Ave,"3/VA Hospital via Belmont, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey"
+3543,799309,4,Warren Ave and West Elm St,"3/VA Hospital via Belmont, 8/Southfield via Warren & Plain Street"
+3543,799310,5,Belmont St and Newbury St,3/VA Hospital via Belmont
+3543,799311,6,Belmont St and Wall St,3/VA Hospital via Belmont
+3543,799312,7,Belmont St and Minot Ave,3/VA Hospital via Belmont
+3543,799290,8,Belmont St and Elm Ave,3/VA Hospital via Belmont
+3543,799291,9,Belmont St and Belmont Ave,3/VA Hospital via Belmont
+3543,799292,10,Belmont St and Ash St,3/VA Hospital via Belmont
+3543,799293,11,Belmont St and Moraine St,3/VA Hospital via Belmont
+3543,799294,12,Belmont St and Thurber Ave,3/VA Hospital via Belmont
+3543,799295,13,Belmont St and Kenelworth Ave,3/VA Hospital via Belmont
+3543,799296,14,Torrey St and Belmont Pl,3/VA Hospital via Belmont
+3543,799297,15,Torrey St and West St,3/VA Hospital via Belmont
+3543,799298,16,West St and Belmont St,3/VA Hospital via Belmont
+3543,799300,17,Shaws West Plaza,3/VA Hospital via Belmont
+3543,799876,18,Stop and Shop Plaza,"13/Mini-Maller Westgate Mall, Brockton, 3/VA Hospital via Belmont"
+3543,799301,19,Brockton High School,3/VA Hospital via Belmont
+3543,799313,20,DAngelos CVS,3/VA Hospital via Belmont
+3543,799303,21,Belmont St and Torrey Ave,3/VA Hospital via Belmont
+3543,799304,22,Belmont St and Lorraine Ave,3/VA Hospital via Belmont
+3543,799305,23,Belmont St and Edinboro Ave,3/VA Hospital via Belmont
+3543,799306,24,Veterans Hospital,3/VA Hospital via Belmont
+3544,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3544,799307,2,Legion Parkway and Main St,"3/VA Hospital via Belmont, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey"
+3544,799308,3,Legion Parkway and Warren Ave,"3/VA Hospital via Belmont, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey"
+3544,799309,4,Warren Ave and West Elm St,"3/VA Hospital via Belmont, 8/Southfield via Warren & Plain Street"
+3544,799310,5,Belmont St and Newbury St,3/VA Hospital via Belmont
+3544,799311,6,Belmont St and Wall St,3/VA Hospital via Belmont
+3544,799312,7,Belmont St and Minot Ave,3/VA Hospital via Belmont
+3544,799290,8,Belmont St and Elm Ave,3/VA Hospital via Belmont
+3544,799291,9,Belmont St and Belmont Ave,3/VA Hospital via Belmont
+3544,799292,10,Belmont St and Ash St,3/VA Hospital via Belmont
+3544,799293,11,Belmont St and Moraine St,3/VA Hospital via Belmont
+3544,799294,12,Belmont St and Thurber Ave,3/VA Hospital via Belmont
+3544,799295,13,Belmont St and Kenelworth Ave,3/VA Hospital via Belmont
+3544,799296,14,Torrey St and Belmont Pl,3/VA Hospital via Belmont
+3544,799297,15,Torrey St and West St,3/VA Hospital via Belmont
+3544,799298,16,West St and Belmont St,3/VA Hospital via Belmont
+3544,799300,17,Shaws West Plaza,3/VA Hospital via Belmont
+3544,799876,18,Stop and Shop Plaza,"13/Mini-Maller Westgate Mall, Brockton, 3/VA Hospital via Belmont"
+3544,799301,19,Brockton High School,3/VA Hospital via Belmont
+3544,799313,20,DAngelos CVS,3/VA Hospital via Belmont
+3544,799303,21,Belmont St and Torrey Ave,3/VA Hospital via Belmont
+3544,799304,22,Belmont St and Lorraine Ave,3/VA Hospital via Belmont
+3544,799305,23,Belmont St and Edinboro Ave,3/VA Hospital via Belmont
+3544,799306,24,Veterans Hospital,3/VA Hospital via Belmont
+3545,799905,1,"WalMart (Oak St, Brockton)","13/Mini-Maller Westgate Mall, Brockton, 4/Westgate via Pleasant"
+3545,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3546,799905,1,"WalMart (Oak St, Brockton)","13/Mini-Maller Westgate Mall, Brockton, 4/Westgate via Pleasant"
+3546,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3547,799905,1,"WalMart (Oak St, Brockton)","13/Mini-Maller Westgate Mall, Brockton, 4/Westgate via Pleasant"
+3547,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3548,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3548,799905,2,"WalMart (Oak St, Brockton)","13/Mini-Maller Westgate Mall, Brockton, 4/Westgate via Pleasant"
+3549,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3549,799905,2,"WalMart (Oak St, Brockton)","13/Mini-Maller Westgate Mall, Brockton, 4/Westgate via Pleasant"
+3550,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3550,799905,2,"WalMart (Oak St, Brockton)","13/Mini-Maller Westgate Mall, Brockton, 4/Westgate via Pleasant"
+3551,799353,1,Westgate Mall Entrance by Sears,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3551,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3552,799353,1,Westgate Mall Entrance by Sears,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3552,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3553,799353,1,Westgate Mall Entrance by Sears,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3553,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3554,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3554,799353,2,Westgate Mall Entrance by Sears,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3555,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3555,799353,2,Westgate Mall Entrance by Sears,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3556,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3556,799353,2,Westgate Mall Entrance by Sears,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3557,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3557,799181,2,Commercial St and School St,"1/Montello Street Via North Main Street, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, /Dial-A-Bat Senior Service"
+3557,799391,3,Crescent St and Otis St,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3557,2740073,4,Crescent St and Brockton Day Nursery,5/Brockton Hospital via Centre Street
+3557,799392,5,Crescent St and Summer St,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3557,807105,6,Lyman St and Erie Ave,5/Brockton Hospital via Centre Street
+3557,799394,7,Lyman St and Wendell Ave,5/Brockton Hospital via Centre Street
+3557,799395,8,Lyman St and Centre St,5/Brockton Hospital via Centre Street
+3557,799396,9,Centre St and Kingman St,5/Brockton Hospital via Centre Street
+3557,799397,10,East Junior High School,5/Brockton Hospital via Centre Street
+3557,2740074,11,Centre St and Hill St,5/Brockton Hospital via Centre Street
+3557,799398,12,Centre St and Gladstone St,5/Brockton Hospital via Centre Street
+3557,799399,13,Centre St at Plaza,5/Brockton Hospital via Centre Street
+3557,799400,14,Centre St and Galen St,5/Brockton Hospital via Centre Street
+3557,799401,15,Centre St and Brockton Ave,5/Brockton Hospital via Centre Street
+3557,799402,16,Brockton Hospital,"5/Brockton Hospital via Centre Street, RF/Rockland Flex"
+3557,799403,17,Centre St and Sterling Rd,5/Brockton Hospital via Centre Street
+3557,799404,18,Libby St and Centre St,5/Brockton Hospital via Centre Street
+3557,799405,19,Libby St and Quincy Ave,5/Brockton Hospital via Centre Street
+3557,799407,20,Quincy St at Doctors Building,5/Brockton Hospital via Centre Street
+3557,799408,21,Centre St and Guild Rd,5/Brockton Hospital via Centre Street
+3557,799409,22,Centre St at Harold St-Ames Rd,5/Brockton Hospital via Centre Street
+3557,799410,23,Centre St and Edward St,5/Brockton Hospital via Centre Street
+3557,799411,24,Walmart,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, RF/Rockland Flex"
+3558,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3558,799411,2,Walmart,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, RF/Rockland Flex"
+3559,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3559,799411,2,Walmart,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, RF/Rockland Flex"
+3560,799411,1,Walmart,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, RF/Rockland Flex"
+3560,799412,2,Brockton Ave at Line,5/Brockton Hospital via Centre Street
+3560,799416,3,Centre Street and Short Street,5/Brockton Hospital via Centre Street
+3560,799413,4,Centre Street and Edward Street,5/Brockton Hospital via Centre Street
+3560,799417,5,Centre St and Bates Rd,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3560,2740070,6,Centre St and Ames Rd,5/Brockton Hospital via Centre Street
+3560,2740071,7,Centre St and Guild Rd,5/Brockton Hospital via Centre Street
+3560,799418,8,Centre St and Quincy St,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3560,799402,9,Brockton Hospital,"5/Brockton Hospital via Centre Street, RF/Rockland Flex"
+3560,799420,10,Centre St and Adams St,5/Brockton Hospital via Centre Street
+3560,799421,11,Centre St and Prince St,5/Brockton Hospital via Centre Street
+3560,799422,12,Centre St and Howland St,5/Brockton Hospital via Centre Street
+3560,799423,13,Centre St and Sheridan St,5/Brockton Hospital via Centre Street
+3560,799424,14,East Junior High School,5/Brockton Hospital via Centre Street
+3560,799426,15,Centre St and Lyman St,5/Brockton Hospital via Centre Street
+3560,807106,16,Lyman St and Centre St,5/Brockton Hospital via Centre Street
+3560,799427,17,Lyman St and Wendell Ave,5/Brockton Hospital via Centre Street
+3560,799428,18,Lyman and Crescent Ave,5/Brockton Hospital via Centre Street
+3560,799429,19,Crescent Ave and Plymouth St,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3560,2740072,20,Crescent St and Otis St,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3560,799333,21,Commercial St and School St,"3/VA Hospital via Belmont, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3560,799334,22,Commercial St at Centre St,"3/VA Hospital via Belmont, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3560,799180,23,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3561,799411,1,Walmart,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, RF/Rockland Flex"
+3561,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3563,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3563,799181,2,Commercial St and School St,"1/Montello Street Via North Main Street, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, /Dial-A-Bat Senior Service"
+3563,799391,3,Crescent St and Otis St,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3563,799392,4,Crescent St and Summer St,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3563,799436,5,Crescent St and Sprague Ave,6/Massasoit via Crescent Street
+3563,799437,6,Crescent St and Crescent Ave,6/Massasoit via Crescent Street
+3563,799438,7,Crescent St and Taylor Ave,6/Massasoit via Crescent Street
+3563,799439,8,Crescent St and Perry Ave,6/Massasoit via Crescent Street
+3563,799440,9,Crescent St and Jacob St,6/Massasoit via Crescent Street
+3563,799441,10,Crescent St and Washington Ave,6/Massasoit via Crescent Street
+3563,799442,11,Crescent St and Electric Ave,6/Massasoit via Crescent Street
+3563,799443,12,Crescent Plaza,6/Massasoit via Crescent Street
+3563,799444,13,Caffrey Towers High Rise,6/Massasoit via Crescent Street
+3563,799445,14,Supreme Donut,6/Massasoit via Crescent Street
+3563,799446,15,Massasoit Plaza,6/Massasoit via Crescent Street
+3563,799447,16,Massasoit Road and Thatcher St,6/Massasoit via Crescent Street
+3563,799448,17,Massasoit College Student Union,6/Massasoit via Crescent Street
+3564,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3564,799411,2,Walmart,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, RF/Rockland Flex"
+3565,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3565,799411,2,Walmart,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, RF/Rockland Flex"
+3566,799448,1,Massasoit College Student Union,6/Massasoit via Crescent Street
+3566,799449,2,Crescent St and Christos,6/Massasoit via Crescent Street
+3566,799450,3,Crescent St and Eastway Plaza,6/Massasoit via Crescent Street
+3566,799451,4,Crescent St and Dunham St,6/Massasoit via Crescent Street
+3566,799452,5,Crescent St and Gladstone St,6/Massasoit via Crescent Street
+3566,799453,6,Crescent St and Hill St,6/Massasoit via Crescent Street
+3566,799454,7,Crescent St and Draper St,6/Massasoit via Crescent Street
+3566,799455,8,Crescent St and Henry St,6/Massasoit via Crescent Street
+3566,799456,9,Crescent St and Wendell Ave,6/Massasoit via Crescent Street
+3566,2740116,10,St Coleman's School,6/Massasoit via Crescent Street
+3566,799457,11,Crescent St and Lyman St,6/Massasoit via Crescent Street
+3566,799429,12,Crescent Ave and Plymouth St,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3566,2740072,13,Crescent St and Otis St,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3566,799333,14,Commercial St and School St,"3/VA Hospital via Belmont, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3566,799334,15,Commercial St at Centre St,"3/VA Hospital via Belmont, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street"
+3566,799180,16,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3567,799448,1,Massasoit College Student Union,6/Massasoit via Crescent Street
+3567,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3568,799411,1,Walmart,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, RF/Rockland Flex"
+3568,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3569,799501,1,Edson St and East St,8/Southfield via Warren & Plain Street
+3569,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3570,799501,1,Edson St and East St,8/Southfield via Warren & Plain Street
+3570,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3571,799501,1,Edson St and East St,8/Southfield via Warren & Plain Street
+3571,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3572,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3572,799501,2,Edson St and East St,8/Southfield via Warren & Plain Street
+3573,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3573,799501,2,Edson St and East St,8/Southfield via Warren & Plain Street
+3574,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3574,799501,2,Edson St and East St,8/Southfield via Warren & Plain Street
+3575,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3575,799554,2,110 Liberty Street Shelter,9/Pearl via W Elm & Torrey
+3576,799554,1,110 Liberty Street Shelter,9/Pearl via W Elm & Torrey
+3576,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3592,799480,1,Plain St and Campello Hi Rise,"12/Ashmont, 8/Southfield via Warren & Plain Street"
+3592,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3592,799779,3,Ashmont Station,12/Ashmont
+3593,799480,1,Plain St and Campello Hi Rise,"12/Ashmont, 8/Southfield via Warren & Plain Street"
+3593,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3593,799779,3,Ashmont Station,12/Ashmont
+3594,799480,1,Plain St and Campello Hi Rise,"12/Ashmont, 8/Southfield via Warren & Plain Street"
+3594,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3594,799779,3,Ashmont Station,12/Ashmont
+3595,799779,1,Ashmont Station,12/Ashmont
+3595,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3596,799779,1,Ashmont Station,12/Ashmont
+3596,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3597,799779,1,Ashmont Station,12/Ashmont
+3597,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3602,800004,1,Cobbs Corner (WGM),14/Stoughton via Brockton
+3602,800005,2,Washington St at Osco Drug,14/Stoughton via Brockton
+3602,800006,3,128 Sharon St (across from Friendlys),14/Stoughton via Brockton
+3602,800007,4,Sharon St at West Stoughton Village,14/Stoughton via Brockton
+3602,800008,5,Central St at Charles Circle,14/Stoughton via Brockton
+3602,800009,6,2139 Central St (DAngelos),14/Stoughton via Brockton
+3602,800010,7,Central St at Knollsbrook,14/Stoughton via Brockton
+3602,800011,8,Central Street at Stone Ends,14/Stoughton via Brockton
+3602,800012,9,Central St at Lakewood Rd,14/Stoughton via Brockton
+3602,800013,10,Central St at Mill St,14/Stoughton via Brockton
+3602,800014,11,Central St at Helen Hanson School,14/Stoughton via Brockton
+3602,800016,12,Central St at Tosca Drive,14/Stoughton via Brockton
+3602,800017,13,1595 Central St,14/Stoughton via Brockton
+3602,800018,14,Central St at Brook St,14/Stoughton via Brockton
+3602,800019,15,Central St at Evans Dr,14/Stoughton via Brockton
+3602,800020,16,Central St at Station St,14/Stoughton via Brockton
+3602,800021,17,Central St at Simpson St,14/Stoughton via Brockton
+3602,800022,18,Central Street opposite  (Court House),14/Stoughton via Brockton
+3602,800023,19,Central St at Pearl St,14/Stoughton via Brockton
+3602,800024,20,Temple Ahavath Torah Congregation,14/Stoughton via Brockton
+3602,800025,21,McCormick Terrace Condo,14/Stoughton via Brockton
+3602,800026,22,Washington St at Walgreens,14/Stoughton via Brockton
+3602,800027,23,Washington St at Phillips Screw,14/Stoughton via Brockton
+3602,800028,24,Washington St at Cumberland Farms,14/Stoughton via Brockton
+3602,800029,25,Washington St at Lincoln St,14/Stoughton via Brockton
+3602,800030,26,Washington Street at People's Savings Bank,14/Stoughton via Brockton
+3602,800031,27,Stoughton Center,14/Stoughton via Brockton
+3602,800032,28,Park St at Walnut St,"14/Stoughton via Brockton, /Dial-A-Bat Senior Service"
+3602,800033,29,Park St at Sumner St,14/Stoughton via Brockton
+3602,800034,30,Park St at Leach St,14/Stoughton via Brockton
+3602,800035,31,Park St at Bobs Plaza,14/Stoughton via Brockton
+3602,800036,32,Park St at Belmont Ave,14/Stoughton via Brockton
+3602,800037,33,Park St at William Kelley Rd,14/Stoughton via Brockton
+3602,800038,34,Park Street (Medical Building),14/Stoughton via Brockton
+3602,800039,35,Park St at Twinkies,14/Stoughton via Brockton
+3602,800040,36,Park St at Ash St,14/Stoughton via Brockton
+3602,800041,37,Park St at Tenth St,14/Stoughton via Brockton
+3602,800042,38,Park St at Park Med Bldg,14/Stoughton via Brockton
+3602,2740250,39,Park St in front of Blue Hill Nursing Home,14/Stoughton via Brockton
+3602,800043,40,Park St at Noceras,14/Stoughton via Brockton
+3602,800044,41,Park St at Parkview Ave,14/Stoughton via Brockton
+3602,800045,42,Park St at Park Plaza,14/Stoughton via Brockton
+3602,2558605,43,Park St across from Canterbury Arms Apts,14/Stoughton via Brockton
+3602,2584761,44,Oak St Ext and Pearl St,14/Stoughton via Brockton
+3602,2584762,45,Oak St Ext at 7-Eleven,14/Stoughton via Brockton
+3602,799958,46,Oak Street at Pines Estates,14/Stoughton via Brockton
+3602,2558602,47,Oak St at Walmart,14/Stoughton via Brockton
+3602,2558603,48,Oak St in front of Wendys,14/Stoughton via Brockton
+3602,799934,49,Campanelli Dr and Oak St,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3602,799906,50,Campanelli Dr at Ocean State Job Lot,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3602,799908,51,Westgate Dr at Westgate Dialysis,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3602,2537977,52,Market Basket,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3602,799355,53,Campanelli Dr - Ocean State Job Lot,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3602,2558600,54,Campanelli Dr at Work Out World,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3602,799853,55,Oak St and Chatham West Dr,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3602,799854,56,Oak St and Oak Lane,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3602,799855,57,Oak Street at Fuller Art Museum,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3602,3880714,58,Oak St across DW Field Park,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3602,799856,59,Oak St across DW Field Golf Course,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3602,2740251,60,Belair St and Oak St,14/Stoughton via Brockton
+3602,799857,61,Belair Street and Tucker Drive,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+3602,799858,62,Belair St at Anne Ave,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+3602,2558596,63,Belair St at Coventry Cir,14/Stoughton via Brockton
+3602,799861,64,Sullivan Towers,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+3602,2558595,65,Belair St at Earle St,14/Stoughton via Brockton
+3602,2558593,66,Belair St at Belair Hi Rise,14/Stoughton via Brockton
+3602,799863,67,Colonel Bell Drive and Belair Street,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+3602,2558591,68,Belair St at 7-Eleven,14/Stoughton via Brockton
+3602,799380,69,Pleasant St at Ash St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3602,799381,70,Pleasant St and Belmont Ave,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3602,799382,71,Pleasant St and Fenway Cir,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3602,799384,72,246 Pleasant St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3602,799385,73,Pleasant St at Glenwood St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3602,2558606,74,Pleasant St at Vincentes,14/Stoughton via Brockton
+3602,800055,75,Pleasant Street and Hereford Street,14/Stoughton via Brockton
+3602,799180,76,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3603,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3603,799335,2,Pleasant St at Main St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3603,799337,3,Pleasant St and Spring St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3603,799949,4,Pleasant St at Glenwood St,14/Stoughton via Brockton
+3603,799339,5,Pleasant St and Colonial St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3603,799341,6,Pleasant St at Ellis St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3603,799342,7,Pleasant St at Augusta Ave,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3603,2558590,8,Belair St at 7-Eleven,14/Stoughton via Brockton
+3603,2558592,9,Belair St at Colonel Bell Drive,14/Stoughton via Brockton
+3603,2558594,10,Belair St at Belair Hi Rise,14/Stoughton via Brockton
+3603,799859,11,Belair St at Earle St,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+3603,799861,12,Sullivan Towers,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+3603,2558597,13,Belair St at Coventry Cir,14/Stoughton via Brockton
+3603,2558598,14,Belair St at Anne Ave,14/Stoughton via Brockton
+3603,2558599,15,Belair Street and Tucker Drive,14/Stoughton via Brockton
+3603,799930,16,Oak Street at DW Field Golf Course,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3603,3880713,17,Oak St at DW Field Park,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3603,799931,18,Fuller Art Museum,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3603,799932,19,Greek Orthodox Church,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3603,799933,20,Oak St and Chatham West Dr,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3603,799934,21,Campanelli Dr and Oak St,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3603,799906,22,Campanelli Dr at Ocean State Job Lot,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3603,799908,23,Westgate Dr at Westgate Dialysis,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3603,2537977,24,Market Basket,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3603,799355,25,Campanelli Dr - Ocean State Job Lot,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3603,2558600,26,Campanelli Dr at Work Out World,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3603,799957,27,Oak St at Madrid Sq,14/Stoughton via Brockton
+3603,2558601,28,Oak St at Walmart,14/Stoughton via Brockton
+3603,799358,29,Oak St at Pine Estates,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3603,799359,30,Oak St and Reservoir St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3603,799362,31,Oak St Ext and Pearl St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3603,799964,32,North Pearl St at Canterbury Arms Apts,14/Stoughton via Brockton
+3603,799965,33,Park St at Brockton-Stoughton Line,14/Stoughton via Brockton
+3603,799966,34,Park St at Our Lady of Rosary Church,14/Stoughton via Brockton
+3603,799967,35,1256 Park St,14/Stoughton via Brockton
+3603,799968,36,Park St in front of Trailer Park,14/Stoughton via Brockton
+3603,799969,37,Park St in front of Blue Hill Nursing Home,14/Stoughton via Brockton
+3603,799970,38,Park St - Medical Building,14/Stoughton via Brockton
+3603,799971,39,Park St at Tenth Ave,14/Stoughton via Brockton
+3603,799972,40,Park St across from Ash St,14/Stoughton via Brockton
+3603,799974,41,Park St at William Kelly Rd,14/Stoughton via Brockton
+3603,799975,42,Park St opposite Haynes Rd,14/Stoughton via Brockton
+3603,2740249,43,Park St and Belmont Ave,14/Stoughton via Brockton
+3603,799977,44,Park St across from Bobs Plaza,14/Stoughton via Brockton
+3603,799978,45,Park St and Leach St,14/Stoughton via Brockton
+3603,799979,46,Park St and Sumner St at Park Ave,14/Stoughton via Brockton
+3603,799980,47,Park St at Walnut (Library),14/Stoughton via Brockton
+3603,799981,48,Stoughton Center,14/Stoughton via Brockton
+3603,799982,49,Washington St at Peoples Savings Bank,14/Stoughton via Brockton
+3603,799983,50,Washington St at Lincoln St (Friendlys),14/Stoughton via Brockton
+3603,799984,51,Washington St at Warren Ave,14/Stoughton via Brockton
+3603,799985,52,Washington St at Car Wash,14/Stoughton via Brockton
+3603,799986,53,Washington St at McDonalds/Dunkin Donuts,14/Stoughton via Brockton
+3603,799987,54,Central St at 1st Cemetery Entrance,14/Stoughton via Brockton
+3603,799988,55,Central St at Temple Ahavath Torah Congregation,14/Stoughton via Brockton
+3603,799989,56,Central St at Pearl St,14/Stoughton via Brockton
+3603,799990,57,Central St at Commercial St,14/Stoughton via Brockton
+3603,799991,58,Central St at Simpson St,14/Stoughton via Brockton
+3603,799992,59,Central St at Station St,14/Stoughton via Brockton
+3603,799993,60,Central St at Brooks St,14/Stoughton via Brockton
+3603,799994,61,Central St at Cushing St,14/Stoughton via Brockton
+3603,799995,62,Central St at Tosca Dr,14/Stoughton via Brockton
+3603,799997,63,Central St at Helen Hansen School,14/Stoughton via Brockton
+3603,799998,64,Central St at Mill St,14/Stoughton via Brockton
+3603,799999,65,Central St at Wheeler Circle,14/Stoughton via Brockton
+3603,800000,66,Central St at Erin Rd,14/Stoughton via Brockton
+3603,800001,67,2139 Central St (DAngelos),14/Stoughton via Brockton
+3603,800002,68,Ethyl Way at West Stoughton Village,14/Stoughton via Brockton
+3603,800003,69,128 Sharon St,14/Stoughton via Brockton
+3603,800004,70,Cobbs Corner (WGM),14/Stoughton via Brockton
+3604,800004,1,Cobbs Corner (WGM),14/Stoughton via Brockton
+3604,800005,2,Washington St at Osco Drug,14/Stoughton via Brockton
+3604,800006,3,128 Sharon St (across from Friendlys),14/Stoughton via Brockton
+3604,800007,4,Sharon St at West Stoughton Village,14/Stoughton via Brockton
+3604,800008,5,Central St at Charles Circle,14/Stoughton via Brockton
+3604,800009,6,2139 Central St (DAngelos),14/Stoughton via Brockton
+3604,800010,7,Central St at Knollsbrook,14/Stoughton via Brockton
+3604,800011,8,Central Street at Stone Ends,14/Stoughton via Brockton
+3604,800012,9,Central St at Lakewood Rd,14/Stoughton via Brockton
+3604,800013,10,Central St at Mill St,14/Stoughton via Brockton
+3604,800014,11,Central St at Helen Hanson School,14/Stoughton via Brockton
+3604,800016,12,Central St at Tosca Drive,14/Stoughton via Brockton
+3604,800017,13,1595 Central St,14/Stoughton via Brockton
+3604,800018,14,Central St at Brook St,14/Stoughton via Brockton
+3604,800019,15,Central St at Evans Dr,14/Stoughton via Brockton
+3604,800020,16,Central St at Station St,14/Stoughton via Brockton
+3604,800021,17,Central St at Simpson St,14/Stoughton via Brockton
+3604,800022,18,Central Street opposite  (Court House),14/Stoughton via Brockton
+3604,800023,19,Central St at Pearl St,14/Stoughton via Brockton
+3604,800024,20,Temple Ahavath Torah Congregation,14/Stoughton via Brockton
+3604,800025,21,McCormick Terrace Condo,14/Stoughton via Brockton
+3604,800026,22,Washington St at Walgreens,14/Stoughton via Brockton
+3604,800027,23,Washington St at Phillips Screw,14/Stoughton via Brockton
+3604,800028,24,Washington St at Cumberland Farms,14/Stoughton via Brockton
+3604,800029,25,Washington St at Lincoln St,14/Stoughton via Brockton
+3604,800030,26,Washington Street at People's Savings Bank,14/Stoughton via Brockton
+3604,800031,27,Stoughton Center,14/Stoughton via Brockton
+3604,800032,28,Park St at Walnut St,"14/Stoughton via Brockton, /Dial-A-Bat Senior Service"
+3604,800033,29,Park St at Sumner St,14/Stoughton via Brockton
+3604,800034,30,Park St at Leach St,14/Stoughton via Brockton
+3604,800035,31,Park St at Bobs Plaza,14/Stoughton via Brockton
+3604,800036,32,Park St at Belmont Ave,14/Stoughton via Brockton
+3604,800037,33,Park St at William Kelley Rd,14/Stoughton via Brockton
+3604,800038,34,Park Street (Medical Building),14/Stoughton via Brockton
+3604,800039,35,Park St at Twinkies,14/Stoughton via Brockton
+3604,800040,36,Park St at Ash St,14/Stoughton via Brockton
+3604,800041,37,Park St at Tenth St,14/Stoughton via Brockton
+3604,800042,38,Park St at Park Med Bldg,14/Stoughton via Brockton
+3604,2740250,39,Park St in front of Blue Hill Nursing Home,14/Stoughton via Brockton
+3604,800043,40,Park St at Noceras,14/Stoughton via Brockton
+3604,800044,41,Park St at Parkview Ave,14/Stoughton via Brockton
+3604,800045,42,Park St at Park Plaza,14/Stoughton via Brockton
+3604,2558605,43,Park St across from Canterbury Arms Apts,14/Stoughton via Brockton
+3604,2584761,44,Oak St Ext and Pearl St,14/Stoughton via Brockton
+3604,2584762,45,Oak St Ext at 7-Eleven,14/Stoughton via Brockton
+3604,799958,46,Oak Street at Pines Estates,14/Stoughton via Brockton
+3604,2558602,47,Oak St at Walmart,14/Stoughton via Brockton
+3604,2558603,48,Oak St in front of Wendys,14/Stoughton via Brockton
+3604,799934,49,Campanelli Dr and Oak St,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3604,799906,50,Campanelli Dr at Ocean State Job Lot,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3604,799908,51,Westgate Dr at Westgate Dialysis,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3604,2537977,52,Market Basket,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3604,799355,53,Campanelli Dr - Ocean State Job Lot,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3604,2558600,54,Campanelli Dr at Work Out World,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3604,799853,55,Oak St and Chatham West Dr,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3604,799854,56,Oak St and Oak Lane,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3604,799855,57,Oak Street at Fuller Art Museum,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3604,3880714,58,Oak St across DW Field Park,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3604,799856,59,Oak St across DW Field Golf Course,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3604,2740251,60,Belair St and Oak St,14/Stoughton via Brockton
+3604,799857,61,Belair Street and Tucker Drive,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+3604,799858,62,Belair St at Anne Ave,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+3604,2558596,63,Belair St at Coventry Cir,14/Stoughton via Brockton
+3604,799861,64,Sullivan Towers,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+3604,2558595,65,Belair St at Earle St,14/Stoughton via Brockton
+3604,2558593,66,Belair St at Belair Hi Rise,14/Stoughton via Brockton
+3604,799863,67,Colonel Bell Drive and Belair Street,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+3604,2558591,68,Belair St at 7-Eleven,14/Stoughton via Brockton
+3604,799380,69,Pleasant St at Ash St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3604,799381,70,Pleasant St and Belmont Ave,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3604,799382,71,Pleasant St and Fenway Cir,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3604,799384,72,246 Pleasant St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3604,799385,73,Pleasant St at Glenwood St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3604,2558606,74,Pleasant St at Vincentes,14/Stoughton via Brockton
+3604,800055,75,Pleasant Street and Hereford Street,14/Stoughton via Brockton
+3604,799180,76,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3605,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3605,799335,2,Pleasant St at Main St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3605,799337,3,Pleasant St and Spring St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3605,799949,4,Pleasant St at Glenwood St,14/Stoughton via Brockton
+3605,799339,5,Pleasant St and Colonial St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3605,799341,6,Pleasant St at Ellis St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3605,799342,7,Pleasant St at Augusta Ave,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3605,2558590,8,Belair St at 7-Eleven,14/Stoughton via Brockton
+3605,2558592,9,Belair St at Colonel Bell Drive,14/Stoughton via Brockton
+3605,2558594,10,Belair St at Belair Hi Rise,14/Stoughton via Brockton
+3605,799859,11,Belair St at Earle St,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+3605,799861,12,Sullivan Towers,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+3605,2558597,13,Belair St at Coventry Cir,14/Stoughton via Brockton
+3605,2558598,14,Belair St at Anne Ave,14/Stoughton via Brockton
+3605,2558599,15,Belair Street and Tucker Drive,14/Stoughton via Brockton
+3605,799930,16,Oak Street at DW Field Golf Course,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3605,3880713,17,Oak St at DW Field Park,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3605,799931,18,Fuller Art Museum,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3605,799932,19,Greek Orthodox Church,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3605,799933,20,Oak St and Chatham West Dr,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3605,799934,21,Campanelli Dr and Oak St,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3605,799906,22,Campanelli Dr at Ocean State Job Lot,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3605,799908,23,Westgate Dr at Westgate Dialysis,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+3605,2537977,24,Market Basket,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3605,799355,25,Campanelli Dr - Ocean State Job Lot,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3605,2558600,26,Campanelli Dr at Work Out World,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+3605,799957,27,Oak St at Madrid Sq,14/Stoughton via Brockton
+3605,2558601,28,Oak St at Walmart,14/Stoughton via Brockton
+3605,799358,29,Oak St at Pine Estates,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3605,799359,30,Oak St and Reservoir St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3605,799362,31,Oak St Ext and Pearl St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+3605,799964,32,North Pearl St at Canterbury Arms Apts,14/Stoughton via Brockton
+3605,799965,33,Park St at Brockton-Stoughton Line,14/Stoughton via Brockton
+3605,799966,34,Park St at Our Lady of Rosary Church,14/Stoughton via Brockton
+3605,799967,35,1256 Park St,14/Stoughton via Brockton
+3605,799968,36,Park St in front of Trailer Park,14/Stoughton via Brockton
+3605,799969,37,Park St in front of Blue Hill Nursing Home,14/Stoughton via Brockton
+3605,799970,38,Park St - Medical Building,14/Stoughton via Brockton
+3605,799971,39,Park St at Tenth Ave,14/Stoughton via Brockton
+3605,799972,40,Park St across from Ash St,14/Stoughton via Brockton
+3605,799974,41,Park St at William Kelly Rd,14/Stoughton via Brockton
+3605,799975,42,Park St opposite Haynes Rd,14/Stoughton via Brockton
+3605,2740249,43,Park St and Belmont Ave,14/Stoughton via Brockton
+3605,799977,44,Park St across from Bobs Plaza,14/Stoughton via Brockton
+3605,799978,45,Park St and Leach St,14/Stoughton via Brockton
+3605,799979,46,Park St and Sumner St at Park Ave,14/Stoughton via Brockton
+3605,799980,47,Park St at Walnut (Library),14/Stoughton via Brockton
+3605,799981,48,Stoughton Center,14/Stoughton via Brockton
+3605,799982,49,Washington St at Peoples Savings Bank,14/Stoughton via Brockton
+3605,799983,50,Washington St at Lincoln St (Friendlys),14/Stoughton via Brockton
+3605,799984,51,Washington St at Warren Ave,14/Stoughton via Brockton
+3605,799985,52,Washington St at Car Wash,14/Stoughton via Brockton
+3605,799986,53,Washington St at McDonalds/Dunkin Donuts,14/Stoughton via Brockton
+3605,799987,54,Central St at 1st Cemetery Entrance,14/Stoughton via Brockton
+3605,799988,55,Central St at Temple Ahavath Torah Congregation,14/Stoughton via Brockton
+3605,799989,56,Central St at Pearl St,14/Stoughton via Brockton
+3605,799990,57,Central St at Commercial St,14/Stoughton via Brockton
+3605,799991,58,Central St at Simpson St,14/Stoughton via Brockton
+3605,799992,59,Central St at Station St,14/Stoughton via Brockton
+3605,799993,60,Central St at Brooks St,14/Stoughton via Brockton
+3605,799994,61,Central St at Cushing St,14/Stoughton via Brockton
+3605,799995,62,Central St at Tosca Dr,14/Stoughton via Brockton
+3605,799997,63,Central St at Helen Hansen School,14/Stoughton via Brockton
+3605,799998,64,Central St at Mill St,14/Stoughton via Brockton
+3605,799999,65,Central St at Wheeler Circle,14/Stoughton via Brockton
+3605,800000,66,Central St at Erin Rd,14/Stoughton via Brockton
+3605,800001,67,2139 Central St (DAngelos),14/Stoughton via Brockton
+3605,800002,68,Ethyl Way at West Stoughton Village,14/Stoughton via Brockton
+3605,800003,69,128 Sharon St,14/Stoughton via Brockton
+3605,800004,70,Cobbs Corner (WGM),14/Stoughton via Brockton
+3606,807049,1,Harrington Hall,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 4/Route 28, BSU 5/Gold Nights and Weekends"
+3606,807047,2,Art Building,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3606,807054,3,University Park,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3606,807055,4,ECC / CLOCK TOWER,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3606,807057,5,SHEA DURGIN,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3606,807058,6,WEYGAND HALL/PARKING GARAGE,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends, /Dial-A-Bat Senior Service, /Test Area to Point Route"
+3606,807056,7,STUDENT APARTMENTS,"BSU 1/Green Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3606,807053,8,MOAKLEY CENTER,"BSU 1/Green Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3606,807050,9,HOOPER STREET LOT,"BSU 1/Green Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3606,807049,10,Harrington Hall,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 4/Route 28, BSU 5/Gold Nights and Weekends"
+3607,807049,1,Harrington Hall,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 4/Route 28, BSU 5/Gold Nights and Weekends"
+3607,807047,2,Art Building,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3607,807054,3,University Park,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3607,807055,4,ECC / CLOCK TOWER,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3607,807057,5,SHEA DURGIN,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3607,807058,6,WEYGAND HALL/PARKING GARAGE,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends, /Dial-A-Bat Senior Service, /Test Area to Point Route"
+3607,807052,7,TINSLEY CENTER,"BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3607,807051,8,SWENSON FIELD LOT,"BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3607,807046,9,SPRING STREET LOT,"BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3607,807049,10,Harrington Hall,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 4/Route 28, BSU 5/Gold Nights and Weekends"
+3608,807049,1,Harrington Hall,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 4/Route 28, BSU 5/Gold Nights and Weekends"
+3608,807047,2,Art Building,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3608,807054,3,University Park,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3608,807055,4,ECC / CLOCK TOWER,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3608,807057,5,SHEA DURGIN,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3608,807058,6,WEYGAND HALL/PARKING GARAGE,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends, /Dial-A-Bat Senior Service, /Test Area to Point Route"
+3608,807056,7,STUDENT APARTMENTS,"BSU 1/Green Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3608,807053,8,MOAKLEY CENTER,"BSU 1/Green Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3608,807050,9,HOOPER STREET LOT,"BSU 1/Green Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3608,807052,10,TINSLEY CENTER,"BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3608,807051,11,SWENSON FIELD LOT,"BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3608,807046,12,SPRING STREET LOT,"BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3608,807049,13,Harrington Hall,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 4/Route 28, BSU 5/Gold Nights and Weekends"
+3609,807049,1,Harrington Hall,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 4/Route 28, BSU 5/Gold Nights and Weekends"
+3609,807047,2,Art Building,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3609,807054,3,University Park,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3609,807055,4,ECC / CLOCK TOWER,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3609,807057,5,SHEA DURGIN,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3609,807058,6,WEYGAND HALL/PARKING GARAGE,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends, /Dial-A-Bat Senior Service, /Test Area to Point Route"
+3609,807056,7,STUDENT APARTMENTS,"BSU 1/Green Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3609,807053,8,MOAKLEY CENTER,"BSU 1/Green Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3609,807050,9,HOOPER STREET LOT,"BSU 1/Green Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3609,807052,10,TINSLEY CENTER,"BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3609,807051,11,SWENSON FIELD LOT,"BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3609,807046,12,SPRING STREET LOT,"BSU 2/Blue Line, BSU 3/Red Line, BSU 5/Gold Nights and Weekends"
+3609,807048,13,SUMMER STREET,BSU 5/Gold Nights and Weekends
+3609,2729430,14,Maxwell Library,BSU 5/Gold Nights and Weekends
+3609,807049,15,Harrington Hall,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 4/Route 28, BSU 5/Gold Nights and Weekends"
+3610,807049,1,Harrington Hall,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 4/Route 28, BSU 5/Gold Nights and Weekends"
+3610,807064,2,City Line,"2/S Plaza/Campello Via Main Street, BSU 4/Route 28"
+3610,799180,3,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+3611,799402,1,Brockton Hospital,"5/Brockton Hospital via Centre Street, RF/Rockland Flex"
+3611,799411,2,Walmart,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, RF/Rockland Flex"
+3611,807886,3,Stop and Shop and Target 1,RF/Rockland Flex
+3611,810903,4,Stop and Shop and Target 2,RF/Rockland Flex
+3611,800057,5,Ocean State Job Lot,RF/Rockland Flex
+3611,800058,6,Studley Court,RF/Rockland Flex
+3611,800056,7,Rockland Community Center,RF/Rockland Flex
+3612,800056,1,Rockland Community Center,RF/Rockland Flex
+3612,800057,2,Ocean State Job Lot,RF/Rockland Flex
+3612,800058,3,Studley Court,RF/Rockland Flex
+3612,807886,4,Stop and Shop and Target 1,RF/Rockland Flex
+3612,810903,5,Stop and Shop and Target 2,RF/Rockland Flex
+3612,799411,6,Walmart,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, RF/Rockland Flex"
+3612,799402,7,Brockton Hospital,"5/Brockton Hospital via Centre Street, RF/Rockland Flex"
+4064,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+4064,799335,2,Pleasant St at Main St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+4064,799337,3,Pleasant St and Spring St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+4064,799949,4,Pleasant St at Glenwood St,14/Stoughton via Brockton
+4064,799339,5,Pleasant St and Colonial St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+4064,799341,6,Pleasant St at Ellis St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+4064,799342,7,Pleasant St at Augusta Ave,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+4064,2558590,8,Belair St at 7-Eleven,14/Stoughton via Brockton
+4064,2558592,9,Belair St at Colonel Bell Drive,14/Stoughton via Brockton
+4064,2558594,10,Belair St at Belair Hi Rise,14/Stoughton via Brockton
+4064,799859,11,Belair St at Earle St,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+4064,799861,12,Sullivan Towers,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+4064,2558597,13,Belair St at Coventry Cir,14/Stoughton via Brockton
+4064,2558598,14,Belair St at Anne Ave,14/Stoughton via Brockton
+4064,2558599,15,Belair Street and Tucker Drive,14/Stoughton via Brockton
+4064,799930,16,Oak Street at DW Field Golf Course,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4064,3880713,17,Oak St at DW Field Park,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4064,799931,18,Fuller Art Museum,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4064,799932,19,Greek Orthodox Church,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4064,799933,20,Oak St and Chatham West Dr,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4064,799934,21,Campanelli Dr and Oak St,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4064,799906,22,Campanelli Dr at Ocean State Job Lot,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4064,799908,23,Westgate Dr at Westgate Dialysis,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4064,2537977,24,Market Basket,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+4064,799355,25,Campanelli Dr - Ocean State Job Lot,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+4064,2558600,26,Campanelli Dr at Work Out World,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+4064,799957,27,Oak St at Madrid Sq,14/Stoughton via Brockton
+4064,2558601,28,Oak St at Walmart,14/Stoughton via Brockton
+4064,799358,29,Oak St at Pine Estates,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+4064,799359,30,Oak St and Reservoir St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+4064,799362,31,Oak St Ext and Pearl St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+4064,799964,32,North Pearl St at Canterbury Arms Apts,14/Stoughton via Brockton
+4064,799965,33,Park St at Brockton-Stoughton Line,14/Stoughton via Brockton
+4064,799966,34,Park St at Our Lady of Rosary Church,14/Stoughton via Brockton
+4064,799967,35,1256 Park St,14/Stoughton via Brockton
+4064,799968,36,Park St in front of Trailer Park,14/Stoughton via Brockton
+4064,799969,37,Park St in front of Blue Hill Nursing Home,14/Stoughton via Brockton
+4064,799970,38,Park St - Medical Building,14/Stoughton via Brockton
+4064,799971,39,Park St at Tenth Ave,14/Stoughton via Brockton
+4064,799972,40,Park St across from Ash St,14/Stoughton via Brockton
+4064,799974,41,Park St at William Kelly Rd,14/Stoughton via Brockton
+4064,799975,42,Park St opposite Haynes Rd,14/Stoughton via Brockton
+4064,2740249,43,Park St and Belmont Ave,14/Stoughton via Brockton
+4064,799977,44,Park St across from Bobs Plaza,14/Stoughton via Brockton
+4064,799978,45,Park St and Leach St,14/Stoughton via Brockton
+4064,799979,46,Park St and Sumner St at Park Ave,14/Stoughton via Brockton
+4064,799980,47,Park St at Walnut (Library),14/Stoughton via Brockton
+4064,799981,48,Stoughton Center,14/Stoughton via Brockton
+4064,799982,49,Washington St at Peoples Savings Bank,14/Stoughton via Brockton
+4064,799983,50,Washington St at Lincoln St (Friendlys),14/Stoughton via Brockton
+4064,799984,51,Washington St at Warren Ave,14/Stoughton via Brockton
+4064,799985,52,Washington St at Car Wash,14/Stoughton via Brockton
+4064,799986,53,Washington St at McDonalds/Dunkin Donuts,14/Stoughton via Brockton
+4064,799987,54,Central St at 1st Cemetery Entrance,14/Stoughton via Brockton
+4064,799988,55,Central St at Temple Ahavath Torah Congregation,14/Stoughton via Brockton
+4064,799989,56,Central St at Pearl St,14/Stoughton via Brockton
+4064,799990,57,Central St at Commercial St,14/Stoughton via Brockton
+4064,799991,58,Central St at Simpson St,14/Stoughton via Brockton
+4064,799992,59,Central St at Station St,14/Stoughton via Brockton
+4064,799993,60,Central St at Brooks St,14/Stoughton via Brockton
+4064,799994,61,Central St at Cushing St,14/Stoughton via Brockton
+4064,799995,62,Central St at Tosca Dr,14/Stoughton via Brockton
+4064,799997,63,Central St at Helen Hansen School,14/Stoughton via Brockton
+4064,799998,64,Central St at Mill St,14/Stoughton via Brockton
+4064,799999,65,Central St at Wheeler Circle,14/Stoughton via Brockton
+4064,800000,66,Central St at Erin Rd,14/Stoughton via Brockton
+4064,800001,67,2139 Central St (DAngelos),14/Stoughton via Brockton
+4064,800002,68,Ethyl Way at West Stoughton Village,14/Stoughton via Brockton
+4064,800003,69,128 Sharon St,14/Stoughton via Brockton
+4064,800004,70,Cobbs Corner (WGM),14/Stoughton via Brockton
+4065,800004,1,Cobbs Corner (WGM),14/Stoughton via Brockton
+4065,800005,2,Washington St at Osco Drug,14/Stoughton via Brockton
+4065,800006,3,128 Sharon St (across from Friendlys),14/Stoughton via Brockton
+4065,800007,4,Sharon St at West Stoughton Village,14/Stoughton via Brockton
+4065,800008,5,Central St at Charles Circle,14/Stoughton via Brockton
+4065,800009,6,2139 Central St (DAngelos),14/Stoughton via Brockton
+4065,800010,7,Central St at Knollsbrook,14/Stoughton via Brockton
+4065,800011,8,Central Street at Stone Ends,14/Stoughton via Brockton
+4065,800012,9,Central St at Lakewood Rd,14/Stoughton via Brockton
+4065,800013,10,Central St at Mill St,14/Stoughton via Brockton
+4065,800014,11,Central St at Helen Hanson School,14/Stoughton via Brockton
+4065,800016,12,Central St at Tosca Drive,14/Stoughton via Brockton
+4065,800017,13,1595 Central St,14/Stoughton via Brockton
+4065,800018,14,Central St at Brook St,14/Stoughton via Brockton
+4065,800019,15,Central St at Evans Dr,14/Stoughton via Brockton
+4065,800020,16,Central St at Station St,14/Stoughton via Brockton
+4065,800021,17,Central St at Simpson St,14/Stoughton via Brockton
+4065,800022,18,Central Street opposite  (Court House),14/Stoughton via Brockton
+4065,800023,19,Central St at Pearl St,14/Stoughton via Brockton
+4065,800024,20,Temple Ahavath Torah Congregation,14/Stoughton via Brockton
+4065,800025,21,McCormick Terrace Condo,14/Stoughton via Brockton
+4065,800026,22,Washington St at Walgreens,14/Stoughton via Brockton
+4065,800027,23,Washington St at Phillips Screw,14/Stoughton via Brockton
+4065,800028,24,Washington St at Cumberland Farms,14/Stoughton via Brockton
+4065,800029,25,Washington St at Lincoln St,14/Stoughton via Brockton
+4065,800030,26,Washington Street at People's Savings Bank,14/Stoughton via Brockton
+4065,800031,27,Stoughton Center,14/Stoughton via Brockton
+4065,800032,28,Park St at Walnut St,"14/Stoughton via Brockton, /Dial-A-Bat Senior Service"
+4065,800033,29,Park St at Sumner St,14/Stoughton via Brockton
+4065,800034,30,Park St at Leach St,14/Stoughton via Brockton
+4065,800035,31,Park St at Bobs Plaza,14/Stoughton via Brockton
+4065,800036,32,Park St at Belmont Ave,14/Stoughton via Brockton
+4065,800037,33,Park St at William Kelley Rd,14/Stoughton via Brockton
+4065,800038,34,Park Street (Medical Building),14/Stoughton via Brockton
+4065,800039,35,Park St at Twinkies,14/Stoughton via Brockton
+4065,800040,36,Park St at Ash St,14/Stoughton via Brockton
+4065,800041,37,Park St at Tenth St,14/Stoughton via Brockton
+4065,800042,38,Park St at Park Med Bldg,14/Stoughton via Brockton
+4065,2740250,39,Park St in front of Blue Hill Nursing Home,14/Stoughton via Brockton
+4065,800043,40,Park St at Noceras,14/Stoughton via Brockton
+4065,800044,41,Park St at Parkview Ave,14/Stoughton via Brockton
+4065,800045,42,Park St at Park Plaza,14/Stoughton via Brockton
+4065,2558605,43,Park St across from Canterbury Arms Apts,14/Stoughton via Brockton
+4065,2584761,44,Oak St Ext and Pearl St,14/Stoughton via Brockton
+4065,2584762,45,Oak St Ext at 7-Eleven,14/Stoughton via Brockton
+4065,799958,46,Oak Street at Pines Estates,14/Stoughton via Brockton
+4065,2558602,47,Oak St at Walmart,14/Stoughton via Brockton
+4065,2558603,48,Oak St in front of Wendys,14/Stoughton via Brockton
+4065,799934,49,Campanelli Dr and Oak St,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4065,799906,50,Campanelli Dr at Ocean State Job Lot,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4065,799908,51,Westgate Dr at Westgate Dialysis,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4065,2537977,52,Market Basket,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+4065,799355,53,Campanelli Dr - Ocean State Job Lot,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+4065,2558600,54,Campanelli Dr at Work Out World,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant"
+4065,799853,55,Oak St and Chatham West Dr,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4065,799854,56,Oak St and Oak Lane,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4065,799855,57,Oak Street at Fuller Art Museum,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4065,3880714,58,Oak St across DW Field Park,"14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4065,799856,59,Oak St across DW Field Golf Course,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton, 4A/Westgate Mall via N Warren"
+4065,2740251,60,Belair St and Oak St,14/Stoughton via Brockton
+4065,799857,61,Belair Street and Tucker Drive,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+4065,799858,62,Belair St at Anne Ave,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+4065,2558596,63,Belair St at Coventry Cir,14/Stoughton via Brockton
+4065,799861,64,Sullivan Towers,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+4065,2558595,65,Belair St at Earle St,14/Stoughton via Brockton
+4065,2558593,66,Belair St at Belair Hi Rise,14/Stoughton via Brockton
+4065,799863,67,Colonel Bell Drive and Belair Street,"13/Mini-Maller Westgate Mall, Brockton, 14/Stoughton via Brockton"
+4065,2558591,68,Belair St at 7-Eleven,14/Stoughton via Brockton
+4065,799380,69,Pleasant St at Ash St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+4065,799381,70,Pleasant St and Belmont Ave,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+4065,799382,71,Pleasant St and Fenway Cir,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+4065,799384,72,246 Pleasant St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+4065,799385,73,Pleasant St at Glenwood St,"14/Stoughton via Brockton, 4/Westgate via Pleasant"
+4065,2558606,74,Pleasant St at Vincentes,14/Stoughton via Brockton
+4065,800055,75,Pleasant Street and Hereford Street,14/Stoughton via Brockton
+4065,799180,76,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+4234,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+4234,807064,2,City Line,"2/S Plaza/Campello Via Main Street, BSU 4/Route 28"
+4234,2597285,3,Kingswood Village SB,BSU 4/Route 28
+4234,807049,4,Harrington Hall,"BSU 1/Green Line, BSU 2/Blue Line, BSU 3/Red Line, BSU 4/Route 28, BSU 5/Gold Nights and Weekends"
+4271,2729862,1,Lisa Dr & Howard St,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court"
+4271,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+4272,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+4272,2729862,2,Lisa Dr & Howard St,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court"
+4273,2729862,1,Lisa Dr & Howard St,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court"
+4273,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+4274,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+4274,2729862,2,Lisa Dr & Howard St,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court"
+4275,2729862,1,Lisa Dr & Howard St,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court"
+4275,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+4276,799180,1,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"
+4276,2729862,2,Lisa Dr & Howard St,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court"
+5555,799411,1,Walmart,"5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, RF/Rockland Flex"
+5555,799180,2,BAT Center,"10/11/Lisa & Howard via N Quincy & Court, 10/Lisa & Howard via N Quincy & Court, 11/Cary Hill & The Village, 12/Ashmont, 14/Stoughton via Brockton, 1/Montello Street Via North Main Street, 2/S Plaza/Campello Via Main Street, 3/VA Hospital via Belmont, 4A/Westgate Mall via N Warren, 4/Westgate via Pleasant, 5/Brockton Hospital via Centre Street, 6/Massasoit via Crescent Street, 8/Southfield via Warren & Plain Street, 9/Pearl via W Elm & Torrey, BSU 4/Route 28, /Dial-A-Bat ADA Service, RF/Rockland Flex, /Test Area to Point Route"

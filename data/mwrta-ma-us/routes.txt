@@ -1,0 +1,19 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+602630e9-fa68-42ef-bc1a-382ccc577499,478a27db-1bf2-463e-9806-f038e89fc0ae,"14","RT14","Route 14- Milford",3,DC143C,000000
+95c94487-430e-48a3-a878-a7fd2d244103,478a27db-1bf2-463e-9806-f038e89fc0ae,"07","RT07",,3,DC143C,000000
+1a0ae2c6-0f76-44dd-9ad8-d75b812d2bd7,478a27db-1bf2-463e-9806-f038e89fc0ae,"09","RT09","Natick Collection 9 90 Corporate Center",3,DC143C,000000
+249b76e5-eb47-43e6-a59c-edbd28464280,478a27db-1bf2-463e-9806-f038e89fc0ae,"01","RT01","Woodland Green Line T",3,DC143C,000000
+bdc5adfc-d7af-4b30-8ac9-17ca776ac368,478a27db-1bf2-463e-9806-f038e89fc0ae,"05","RT05","Ashland Hopkinton",3,DC143C,000000
+0e366de0-78dd-4b4d-9d21-85a9a2a78598,478a27db-1bf2-463e-9806-f038e89fc0ae,"04G","RT04G","Route 4 Grocery",3,DC143C,000000
+1b94db55-24a4-410c-a3ae-8b1b009a8367,478a27db-1bf2-463e-9806-f038e89fc0ae,"07C","RT07C",,3,DC143C,000000
+7e994a69-28cb-451c-b2d8-2544708c962e,478a27db-1bf2-463e-9806-f038e89fc0ae,"10","RT10","Route 10",3,DC143C,000000
+6919ca4f-a233-4dbb-8c7a-76b32c8cb55c,478a27db-1bf2-463e-9806-f038e89fc0ae,"02","RT02","Natick Collection Shopper World Target Pinefield Nobscot Mass Bay Rose Kennedy Lane Metrowest Medical Center",3,DC143C,000000
+bf855e37-6b14-49f7-b0c9-aecc962bc716,478a27db-1bf2-463e-9806-f038e89fc0ae,"03","RT03","Medical Center",3,DC143C,000000
+36ecade8-c2e4-4256-8627-42582d3fcf55,478a27db-1bf2-463e-9806-f038e89fc0ae,"GL","Green Line Connector","Saturday Green Line Connector",3,800080,FFFFFF
+22eecc42-bf19-41f2-8f43-75e57d825f99,478a27db-1bf2-463e-9806-f038e89fc0ae,"04N","RT04N","Waverly St Natick Mall Shoppers World MetroWest Medical ",3,DC143C,000000
+68a884f7-8738-4d95-93ca-be4108a0c07b,478a27db-1bf2-463e-9806-f038e89fc0ae,"06","RT06","Central Hub Framingham MBTA Station Ashland Holliston Milford",3,DC143C,000000
+29df62f0-a55d-4713-b17b-6ed08254642e,478a27db-1bf2-463e-9806-f038e89fc0ae,"11","RT11","Central Hub Sherwood Village Natick Collection Sherwood Plaza 9 27 Shopping Plaza Natick Common LMH Senior Center Coolidge Gardens Roche Bros",3,DC143C,000000
+a3f5595b-a682-4c4f-a3eb-ae6fa7658002,478a27db-1bf2-463e-9806-f038e89fc0ae,"04S","RT04S","Central Hub Beaver Park Market Basket Concord Howard Streets Natick Collection Shoppers World East Sherwood Plaza",3,DC143C,000000
+a419da7a-40ce-4898-b253-b50af71834c1,478a27db-1bf2-463e-9806-f038e89fc0ae,"MBRS","Mass Bay Riverside Shuttle","Mass Bay Riverside Shuttle",3,DC143C,000000
+836ff053-0f52-42cd-aacb-ccf7a4a81cf1,478a27db-1bf2-463e-9806-f038e89fc0ae,"15","RT15","Route 15- Hudson",3,DC143C,000000
+be076c78-3936-4f60-8ddb-45a4276fe8e2,478a27db-1bf2-463e-9806-f038e89fc0ae,"NCS","Natick Commuter Shuttle","Natick Commuter Shuttle",3,DC143C,000000

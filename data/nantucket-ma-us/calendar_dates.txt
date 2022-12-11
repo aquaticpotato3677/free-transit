@@ -1,0 +1,6 @@
+service_id,date,holiday_name,exception_type
+c_24057_b_33545_d_127,20221124,Thanksgiving Day,2
+c_24057_b_33545_d_127,20220417,Easter Sunday,2
+c_24057_b_33544_d_127,20221124,Thanksgiving Day,2
+c_24057_b_33544_d_127,20220417,Easter Sunday,2
+c_21199_b_29245_d_127,20211225,Christmas Day,2

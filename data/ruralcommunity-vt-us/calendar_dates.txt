@@ -1,0 +1,39 @@
+service_id,date,holiday_name,exception_type
+c_45375_b_55341_d_113,20230529,Memorial Day,2
+c_45375_b_55341_d_113,20230101,New Years Day,2
+c_45375_b_55341_d_113,20221231,New Years Eve,2
+c_45375_b_55341_d_113,20221225,Christmas Day,2
+c_45375_b_55341_d_113,20221224,Christmas Eve ,2
+c_45375_b_55341_d_113,20221125,Day After Thanksgiving,2
+c_45375_b_55341_d_113,20220905,Labor Day ,2
+c_24076_b_33585_d_63,20230704,Independence Day,2
+c_24076_b_33585_d_63,20230529,Memorial Day,2
+c_24076_b_33585_d_63,20221231,New Years Eve,2
+c_24076_b_33585_d_63,20221224,Christmas Eve ,2
+c_24076_b_33585_d_63,20221125,Day After Thanksgiving,2
+c_24076_b_33585_d_63,20221124,Thanksgiving Day,2
+c_24076_b_33585_d_63,20220905,Labor Day ,2
+c_24076_b_33585_d_31,20230704,Independence Day,2
+c_24076_b_33585_d_31,20230529,Memorial Day,2
+c_24076_b_33585_d_31,20221125,Day After Thanksgiving,2
+c_24076_b_33585_d_31,20221124,Thanksgiving Day,2
+c_24076_b_33585_d_31,20220905,Labor Day ,2
+c_24076_b_33585_d_127,20230704,Independence Day,2
+c_24076_b_33585_d_127,20230529,Memorial Day,2
+c_24076_b_33585_d_127,20230101,New Years Day,2
+c_24076_b_33585_d_127,20221231,New Years Eve,2
+c_24076_b_33585_d_127,20221225,Christmas Day,2
+c_24076_b_33585_d_127,20221224,Christmas Eve ,2
+c_24076_b_33585_d_127,20221125,Day After Thanksgiving,2
+c_24076_b_33585_d_127,20221124,Thanksgiving Day,2
+c_24076_b_33585_d_127,20220905,Labor Day ,2
+c_21256_b_77850_d_31,20230704,Independence Day,2
+c_21255_b_77923_d_31,20230529,Memorial Day,2
+c_21255_b_77923_d_31,20221125,Day After Thanksgiving,2
+c_21255_b_77923_d_31,20221124,Thanksgiving Day,2
+c_21255_b_77923_d_31,20220905,Labor Day ,2
+c_20227_b_33308_d_31,20230704,Independence Day,2
+c_20227_b_33308_d_31,20230529,Memorial Day,2
+c_20227_b_33308_d_31,20221125,Day After Thanksgiving,2
+c_20227_b_33308_d_31,20221124,Thanksgiving Day,2
+c_20227_b_33308_d_31,20220905,Labor Day ,2
