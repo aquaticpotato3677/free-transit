@@ -6,9 +6,9 @@ let json = {
     'features':[]
 };
 for(let i=0; i<agencies.length; i++){
-    let routes = csv.parse(fs.readFileSync('./data/'+agencies[i].loc+'/routes.txt').toString());
-    let trips = csv.parse(fs.readFileSync('./data/'+agencies[i].loc+'/trips.txt').toString());
-    let shapes = csv.parse(fs.readFileSync('./data/'+agencies[i].loc+'/shapes.txt').toString());
+    let routes = csv.parse(fs.readFileSync('./gtfs/'+agencies[i].loc+'/routes.txt').toString());
+    let trips = csv.parse(fs.readFileSync('./gtfs/'+agencies[i].loc+'/trips.txt').toString());
+    let shapes = csv.parse(fs.readFileSync('./gtfs/'+agencies[i].loc+'/shapes.txt').toString());
     
     let routesKey = routes[0];
     let routeIdInd = null;
