@@ -1,8 +1,0 @@
-service_id,service_description
-c_21477_b_55357_d_96,Madison Shuttle (Weekend)
-c_2120_b_722_d_32,Year Round (Saturday only)
-c_2120_b_722_d_31,Year Round (Weekday)
-c_20221_b_55356_d_64,Clinton Trolley (Sunday only)
-c_20221_b_55356_d_56,Clinton Trolley (ThFSa)
-c_19980_b_26863_d_32,Rte 641 Normal Service (Saturday only)
-c_19980_b_26863_d_31,Rte 641 Normal Service (Weekday)

@@ -1,3 +1,0 @@
-agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url,tts_agency_name
-232,https://www.moover.com/,en,Rockingham MOOver,802-460-7433,America/New_York,,
-218,http://www.moover.com,en,Wilmington MOOver, 802-464-8487,America/New_York,,

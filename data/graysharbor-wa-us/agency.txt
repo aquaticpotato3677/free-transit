@@ -1,2 +1,0 @@
-﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-ght,Grays Harbor Transit,https://www.ghtransit.com/,America/Los_Angeles,en,(800) 562-9730,https://www.ghtransit.com/fares-and-passes,

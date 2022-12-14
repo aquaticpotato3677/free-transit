@@ -1,8 +1,0 @@
-service_id,date,holiday_name,exception_type
-c_67483_b_77793_d_31,20230704,Independence Day,2
-c_67483_b_77793_d_31,20230529,Memorial Day,2
-c_67483_b_77793_d_31,20230116,Martin Luther King Jr. Day,2
-c_67483_b_77793_d_31,20230102,New Year's Day Observed,2
-c_67483_b_77793_d_31,20221226,Christmas Day Observed,2
-c_67483_b_77793_d_31,20221124,Thanksgiving Day,2
-c_67483_b_77793_d_31,20221111,Veteran's Day,2

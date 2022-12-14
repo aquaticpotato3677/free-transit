@@ -17,3 +17,4 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 24,0,"24","24 - Malaga",,3,http://www.linktransit.com/routes_and_schedules/intercity_routes/route_24_wenatchee_to_malaga.php,000000,ffffff,24
 25,0,"25","25 - Waterville",,3,http://www.linktransit.com/routes_and_schedules/east_wenatchee_routes/route_25.php,F5841F,000000,25
 28,0,"28","28 - Cashmere",,3,http://www.linktransit.com/routes_and_schedules/small_city_routes/route_28_-_wenatchee_to_cashmere.php,b52a2e,ffffff,28
+40,0,"40","40 - Mission Ridge",,3,https://linktransit.com/services_and_programs/skilink.php,0d0d0d,ffffff,40

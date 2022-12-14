@@ -1,4 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_2831_b_2279_d_64,Year Round (Sunday only),0,0,0,0,0,0,1,20171105,20230128
-c_2831_b_2279_d_32,Year Round (Saturday only),0,0,0,0,0,1,0,20171105,20230128
-c_2831_b_2279_d_31,Year Round (Weekday),1,1,1,1,1,0,0,20171105,20230128

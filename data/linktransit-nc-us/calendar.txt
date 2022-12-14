@@ -1,3 +1,0 @@
-service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-M - F,1,1,1,1,1,0,0,20201209,20221231
-Sat,0,0,0,0,0,1,0,20211002,20221231

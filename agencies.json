@@ -3,270 +3,315 @@
         "loc": "berkshire-ma-us",
         "name": "BRTA",
         "timeframe": "New Years'",
-        "url": "https://berkshirerta.com"
+        "url": "https://berkshirerta.com",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/berkshire-ma-us/berkshire-ma-us.zip"
     },
     {
         "loc": "brockton-ma-us",
         "name": "BAT",
         "timeframe": "New Years'",
-        "url": "https://www.ridebat.com/"
+        "url": "https://www.ridebat.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip"
     },
     {
         "loc": "capeann-ma-us",
         "name": "CATA",
         "timeframe": "New Years'",
-        "url": "https://canntran.com/"
+        "url": "https://canntran.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/capeann-ma-us/capeann-ma-us.zip"
     },
     {
         "loc": "frta-ma-us",
         "name": "FRTA",
         "timeframe": "June 30th, 2023",
-        "url": "https://frta.org/"
+        "url": "https://frta.org/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/frta-ma-us/frta-ma-us.zip"
     },
     {
         "loc": "gatra-ma-us",
         "name": "GATRA",
         "timeframe": "New Years'",
-        "url": "https://www.gatra.org/"
+        "url": "https://www.gatra.org/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/gatra-ma-us/gatra-ma-us.zip"
     },
     {
         "loc": "lowell-ma-us",
         "name": "LRTA",
         "timeframe": "New Years'",
-        "url": "https://lrta.com/"
+        "url": "https://lrta.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/lowell-ma-us/lowell-ma-us.zip"
     },
     {
         "loc": "marthasvineyard-ma-us",
         "name": "VTA",
         "timeframe": "New Years'",
-        "url": "https://www.vineyardtransit.com/"
+        "url": "https://www.vineyardtransit.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/marthasvineyard-ma-us/marthasvineyard-ma-us.zip"
     },
     {
         "loc": "merrimackvalley-ma-us",
         "name": "MVRTA",
         "timeframe": "indefinitely",
-        "url": "https://www.mvrta.com/"
+        "url": "https://www.mvrta.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/merrimackvalley-ma-us/merrimackvalley-ma-us.zip"
     },
     {
         "loc": "montachusett-ma-us",
         "name": "MART",
         "timeframe": "New Years'",
-        "url": "https://www.mrta.us/"
+        "url": "https://www.mrta.us/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/montachusett-ma-us/montachusett-ma-us.zip"
     },
     {
         "loc": "mwrta-ma-us",
         "name": "MWRTA",
         "timeframe": "until their new fare system arrives",
-        "url": "https://mwrta.com/"
+        "url": "https://mwrta.com/",
+        "gtfs": "http://vc.mwrta.com/gtfs/google_transit.zip"
     },
     {
         "loc": "nantucket-ma-us",
         "name": "NRTA",
         "timeframe": "New Years'",
-        "url": "https://nrtawave.com/"
+        "url": "https://nrtawave.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/nantucket-ma-us/nantucket-ma-us.zip"
     },
     {
         "loc": "pvta-ma-us",
         "name": "PVTA",
         "timeframe": "New Years'",
-        "url": "https://pvta.com/"
+        "url": "https://pvta.com/",
+        "gtfs": "http://www.pvta.com/g_trans/google_transit.zip"
     },
     {
         "loc": "srta-ma-us",
         "name": "SRTA",
         "timeframe": "New Years'",
-        "url": "https://www.srtabus.com/"
+        "url": "https://www.srtabus.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip"
     },
     {
         "loc": "wrta-ma-us",
         "name": "WRTA",
         "timeframe": "June 2023",
-        "url": "https://www.therta.com/"
+        "url": "https://www.therta.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/wrta-ma-us/wrta-ma-us.zip"
     },
     {
         "loc": "cttransit-ct-us",
         "name": "CTTransit",
         "timeframe": "March 31, 2023",
-        "url": "https://www.cttransit.com/"
+        "url": "https://www.cttransit.com/",
+        "gtfs": "https://www.cttransit.com/sites/default/files/gtfs/googlect_transit.zip"
     },
     {
         "loc": "seatbus-ct-us",
         "name": "SEAT",
         "timeframe": "March 31, 2023",
-        "url": "https://southeastareatransitdistrict.com/"
+        "url": "https://southeastareatransitdistrict.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/seatbus-ct-us/seatbus-ct-us.zip"
     },
     {
         "loc": "norwalk-ct-us",
         "name": "NTD",
         "timeframe": "March 31, 2023",
-        "url": "https://norwalktransit.com/"
+        "url": "https://norwalktransit.com/",
+        "gtfs": "https://static1.squarespace.com/static/585d5bbf197aea9852a8759c/t/5ff612ce7a1d670550c48fb4/1609962190554/GTFS_Data.zip"
     },
     {
         "loc": "middletown-ct-us",
         "name": "MAT",
         "timeframe": "March 31, 2023",
-        "url": "https://www.middletownareatransit.org/"
+        "url": "https://www.middletownareatransit.org/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/middletown-ct-us/middletown-ct-us.zip"
     },
     {
         "loc": "ninetown-ct-us",
         "name": "9 Town",
         "timeframe": "March 31, 2023",
-        "url": "https://estuarytransit.org/"
+        "url": "https://estuarytransit.org/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/ninetown-connecticut-us/ninetown-connecticut-us.zip"
     },
     {
         "loc": "wrtd-ct-us",
         "name": "WRTD",
         "timeframe": "March 31, 2023",
-        "url": "https://wrtd.org/"
+        "url": "https://wrtd.org/",
+        "gtfs": "https://passio3.com/uconn/passioTransit/gtfs/google_transit.zip"
     },
     {
         "loc": "hartransit-ct-us",
         "name": "HARTransit",
         "timeframe": "March 31, 2023",
-        "url": "https://hartransit.com/"
+        "url": "https://hartransit.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/hartransit-ct-us/hartransit-ct-us.zip"
     },
     {
         "loc": "gbt-ct-us",
         "name": "GBT",
         "timeframe": "March 31, 2023",
-        "url": "https://gogbt.com/"
+        "url": "https://gogbt.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/gbt-ct-us/gbt-ct-us.zip"
     },
     {
         "loc": "advancetransit-vt-us",
         "name": "AT",
         "timeframe": "indefinitely",
-        "url": "https://advancetransit.com/"
+        "url": "https://advancetransit.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/advancetransit-vt-us/advancetransit-vt-us.zip"
     },
     {
         "loc": "ccta-vt-us",
         "name": "GMT",
         "timeframe": "June 30, 2023",
-        "url": "https://ridegmt.com/"
+        "url": "https://ridegmt.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/ccta-vt-us/ccta-vt-us.zip"
     },
     {
         "loc": "ruralcommunity-vt-us",
         "name": "RCT",
         "timeframe": "indefinitely",
-        "url": "https://www.riderct.org/"
+        "url": "https://www.riderct.org/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/ruralcommunity-vt-us/ruralcommunity-vt-us.zip"
     },
     {
         "loc": "sevt-vt-us",
         "name": "MOOver",
         "timeframe": "indefinitely",
-        "url": "https://www.moover.com/"
+        "url": "https://www.moover.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/sevt-vt-us/sevt-vt-us.zip"
     },
     {
         "loc": "trivalleytransit-vt-us",
         "name": "TVT",
         "timeframe": "indefinitely",
-        "url": "https://www.trivalleytransit.org/"
+        "url": "https://www.trivalleytransit.org/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/trivalleytransit-vt-us/trivalleytransit-vt-us.zip"
     },
     {
         "loc": "ulster-ny-us",
         "name": "UCAT",
         "timeframe": "indefinitely",
-        "url": "https://ucat.ulstercountyny.gov/"
+        "url": "https://ucat.ulstercountyny.gov/",
+        "gtfs": "https://s3.amazonaws.com/datatools-511ny/public/UCAT_Ulster_County_Area_Transit.zip"
     },
     {
         "loc": "sullivan-ny-us",
         "name": "Move Sullivan",
         "timeframe": "indefinitely (excepting Highland and Delaware routes)",
-        "url": "https://sullivanny.us/Departments/Transportation/MoveSullivan"
+        "url": "https://sullivanny.us/Departments/Transportation/MoveSullivan",
+        "gtfs": "https://s3.amazonaws.com/datatools-511ny/public/Sullivan_County.zip"
     },
     {
         "loc": "beeline-ny-us",
         "name": "Bee Line",
         "timeframe": "December 7-26, 2022",
-        "url": "https://transportation.westchestergov.com/bee-line"
+        "url": "https://transportation.westchestergov.com/bee-line",
+        "gtfs": "https://s3.amazonaws.com/datatools-511ny/public/Westchester_County_Bee-Line_System.zip"
     },
     {
         "loc": "pfp-wa-us",
         "name": "PFP",
         "timeframe": "indefinitely",
-        "url": "https://mypfp.org/services/transportation/"
+        "url": "https://mypfp.org/services/transportation/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/pfp-wa-us/pfp-wa-us.zip"
     },
     {
         "loc": "wilsonville-or-us",
         "name": "SMART",
         "timeframe": "indefinitely (excepting 1X)",
-        "url": "https://www.ridesmart.com/transit"
+        "url": "https://www.ridesmart.com/transit",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/wilsonville-or-us/wilsonville-or-us.zip"
     },
     {
         "loc": "woodburn-or-us",
         "name": "Woodburn Transit",
         "timeframe": "indefinitely",
-        "url": "https://www.woodburn-or.gov/transit"
+        "url": "https://www.woodburn-or.gov/transit",
+        "gtfs": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/woodburn-or-us/woodburn-or-us.zip"
     },
     {
         "loc": "corvallis-or-us",
         "name": "Corvallis Transit",
         "timeframe": "indefinitely",
-        "url": "https://www.corvallisoregon.gov/cts"
+        "url": "https://www.corvallisoregon.gov/cts",
+        "gtfs": "http://www.corvallistransit.com/rtt/public/resource/gtfs.zip"
     },
     {
         "loc": "clackamascounty-or-us",
         "name": "Clackmas County Connects",
         "timeframe": "indefinitely",
-        "url": "https://www.clackamas.us/h3s/connects-shuttle"
+        "url": "https://www.clackamas.us/h3s/connects-shuttle",
+        "gtfs": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/clackamascounty-or-us/clackamascounty-or-us.zip"
     },
     {
         "loc": "graysharbor-wa-us",
         "name": "Grays Harbor Transit",
         "timeframe": "indefinitely",
-        "url": "https://www.ghtransit.com/"
+        "url": "https://www.ghtransit.com/",
+        "gtfs": "http://mjcaction.com/MJC_GTFS_Public/graysharbor_google_transit.zip"
     },
     {
         "loc": "valleytransit-wa-us",
         "name": "Valley Transit",
         "timeframe": "indefinitely",
-        "url": "https://www.valleytransit.com/"
+        "url": "https://www.valleytransit.com/",
+        "gtfs": "https://itransitnw.com/rtt/public/resource/gtfs.zip"
     },
     {
         "loc": "linktransit-nc-us",
         "name": "Link Transit",
         "timeframe": "indefinitely",
-        "url": "https://linktransit.org"
+        "url": "https://linktransit.org",
+        "gtfs": "https://api.transloc.com/gtfs/linktransit.zip"
     },
     {
         "loc": "linktransit-wa-us",
         "name": "Link Transit",
         "timeframe": "indefinitely",
-        "url": "https://www.linktransit.com"
+        "url": "https://www.linktransit.com",
+        "gtfs": "https://link.rideralerts.com/InfoPoint/gtfs-zip.ashx"
     },
     {
         "loc": "fairfax-va-us",
         "name": "Fairfax CUE",
         "timeframe": "June 2025",
-        "url": "https://www.fairfaxva.gov/government/public-works/transportation-division/cue-bus-system"
+        "url": "https://www.fairfaxva.gov/government/public-works/transportation-division/cue-bus-system",
+        "gtfs": "https://www.fairfaxva.gov/home/showpublisheddocument/19191/638017594116830000"
     },
     {
         "loc": "winterpark-co-us",
         "name": "The Lift",
         "timeframe": "indefinitely",
-        "url": "https://www.theliftwp.com/"
+        "url": "https://www.theliftwp.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/winterpark-co-us/winterpark-co-us.zip"
     },
     {
         "loc": "couer-id-us",
         "name": "Citylink",
         "timeframe": "indefinitely",
-        "url": "https://www.kcgov.us/486/Transit-Services"
+        "url": "https://www.kcgov.us/486/Transit-Services",
+        "gtfs": "https://passio3.com/kootenai/passioTransit/gtfs/google_transit.zip"
     },
     {
         "loc": "kart-ca-us",
         "name": "KARTS",
         "timeframe": "New Years'",
-        "url": "https://www.kartbus.org/"
+        "url": "https://www.kartbus.org/",
+        "gtfs": "http://kart.connexionz.net/rtt/public/utility/gtfs.aspx"
     },
     {
         "loc": "cascadeseast-or-us",
         "name": "Cascades East Transit",
         "timeframe": "indefinitely, excepting recreational routes",
-        "url": "https://cascadeseasttransit.com/"
+        "url": "https://cascadeseasttransit.com/",
+        "gtfs": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/cascadeseast-or-us/cascadeseast-or-us.zip"
     },
     {
         "loc": "stanrta-ca-us",
         "name": "StanRTA",
         "timeframe": "New Years'",
-        "url": "https://stanrta.org"
+        "url": "https://stanrta.org",
+        "gtfs": "https://stanrta.org/preview-gtfs.zip"
     }
 ]

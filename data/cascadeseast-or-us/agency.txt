@@ -1,2 +1,0 @@
-agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url,tts_agency_name
-61,http://cascadeseasttransit.com/,en,Cascades East Transit,(541) 385-8680,America/Los_Angeles,http://cascadeseasttransit.com/fares/,

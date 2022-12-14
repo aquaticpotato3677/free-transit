@@ -1,5 +1,0 @@
-service_id,date,holiday_name,exception_type
-c_67338_b_55333_d_31,20230102,New Year's Day (Observed),2
-c_67338_b_55333_d_31,20230101,New Year's Day,2
-c_67338_b_55333_d_31,20221226,Christmas Day (Observed),2
-c_67338_b_55333_d_31,20221225,Christmas Day,2

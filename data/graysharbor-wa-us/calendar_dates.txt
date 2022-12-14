@@ -1,7 +1,0 @@
-﻿service_id,date,exception_type
-mtwtf,20220530,2
-mtwtf,20220704,2
-mtwtf,20220905,2
-mtwtf,20221124,2
-mtwtf,20221226,2
-mtwtf,20230102,2

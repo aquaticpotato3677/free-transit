@@ -1,8 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_6302_b_78524_d_127,01.Off-Peak (All days of week),1,1,1,1,1,1,1,20230403,20230424
-c_6302_b_78523_d_127,01.Off-Peak (All days of week),1,1,1,1,1,1,1,20230102,20230303
-c_6302_b_78499_d_127,01.Off-Peak (All days of week),1,1,1,1,1,1,1,20221114,20221216
-c_6301_b_78526_d_127,02.Peak (All days of week),1,1,1,1,1,1,1,20221217,20230101
-c_6301_b_78526_d_1,02.Peak (Monday only),1,0,0,0,0,0,0,20221217,20230101
-c_6301_b_78525_d_127,02.Peak (All days of week),1,1,1,1,1,1,1,20230304,20230402
-c_6301_b_78525_d_1,02.Peak (Monday only),1,0,0,0,0,0,0,20230304,20230402

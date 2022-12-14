@@ -1,2 +1,0 @@
-﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
-Grays Harbor Transit,https://www.ghtransit.com/,en,20220501,20230430,20220502,tgardner@ghtransit.com,https://www.ghtransit.com/contact-us

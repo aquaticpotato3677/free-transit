@@ -1,6 +1,0 @@
-agency_id,fare_id,price,currency_type,payment_method,transfers,transfer_duration
-437,3602,1.25,USD,0,,0
-437,3603,2.50,USD,0,,0
-437,3604,3.75,USD,0,,0
-437,3605,5.00,USD,0,,0
-437,3606,6.25,USD,0,,0

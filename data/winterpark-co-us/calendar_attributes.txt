@@ -1,8 +1,0 @@
-service_id,service_description
-c_6302_b_78524_d_127,01.Off-Peak (All days of week)
-c_6302_b_78523_d_127,01.Off-Peak (All days of week)
-c_6302_b_78499_d_127,01.Off-Peak (All days of week)
-c_6301_b_78526_d_127,02.Peak (All days of week)
-c_6301_b_78526_d_1,02.Peak (Monday only)
-c_6301_b_78525_d_127,02.Peak (All days of week)
-c_6301_b_78525_d_1,02.Peak (Monday only)

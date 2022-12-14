@@ -5,7 +5,7 @@ agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_
 440,2843,,Gloucester Crossing/Business Express,Gloucester Crossing & Business Express Loop. Bus may be flagged down along route.,3,https://canntran.com/routes/gloucester-crossing-business-express/,f79831,ffffff,11,60,0,1,1,,
 440,2844,,Lanesville,Gloucester-Rockport Via Lanesville. Bus may be flagged down along route.,3,https://canntran.com/routes/lanesville/,106cb6,ffffff,12,,0,1,1,,
 440,2845,,Magnolia,Gloucester-Magnolia. Bus may be flagged down along route.,3,https://canntran.com/routes/magnolia/,fadf1f,000000,13,,0,1,1,,
-440,3241,,City of Beverly Shuttle,,3,https://canntran.com/routes/city-of-beverly-shuttle/,7f3042,000000,14,,0,1,1,,
+440,3241,,City of Beverly Shuttle,,3,https://canntran.com/routes/city-of-beverly-shuttle/,7f3042,ffffff,14,,0,1,1,,
 440,2847,,West Gloucester,Gloucester-West Gloucester-Essex Town Line. Bus may be flagged down along route.,3,https://canntran.com/routes/west-gloucester/,3a2f89,ffffff,15,,0,1,1,,
 440,18720,,Beverly Commuter,,3,https://canntran.com/routes/beverly-commuter/,ffdd02,000000,16,,0,1,1,,
 440,2856,,Stage Fort Park Shuttle,Park 'N Ride to Downtown Gloucester and Good Harbor Beach,3,https://canntran.com/routes/stage-fort-park-shuttle/,ffffff,000000,17,,0,1,1,,

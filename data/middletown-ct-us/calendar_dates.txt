@@ -1,4 +1,0 @@
-service_id,date,holiday_name,exception_type
-c_21655_b_30328_d_31,20221124,Thanksgiving,2
-c_21655_b_30328_d_31,20220704,Independence Day,2
-c_21655_b_30328_d_31,20220530,Memorial Day,2

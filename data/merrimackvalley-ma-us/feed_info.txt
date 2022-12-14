@@ -1,2 +1,0 @@
-feed_publisher_url,feed_publisher_name,feed_lang,feed_version,feed_license,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date,feed_id
-http://www.trilliumtransit.com,"Trillium Solutions, Inc.",en,UTC: 08-Nov-2022 14:59,,support+test+merrimackvalley-ma-us@trilliumtransit.com,http://support.trilliumtransit.com,20221108,20230701,merrimackvalley-ma-us

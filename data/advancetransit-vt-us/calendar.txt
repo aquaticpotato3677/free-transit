@@ -1,3 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_24431_b_34221_d_31,Year Round starting 4/4/22 (Weekday),1,1,1,1,1,0,0,20220404,20230601
-c_21007_b_77764_d_31,Dartmouth/Hanover School Year (Weekday),1,1,1,1,1,0,0,20220820,20221206

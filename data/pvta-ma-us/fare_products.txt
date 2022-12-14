@@ -1,7 +1,0 @@
-fare_product_id,fare_product_name,amount,currency
-ticket,Single Ride,1.50,USD
-1day,Single Day Pass,3.50,USD
-7day,7 Day Pass,15.00,USD
-31day,Standard 31 Day Pass,54.00,USD
-free,Fare-Free,0.00,USD
-transfer,Transfer,0.25,USD

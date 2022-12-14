@@ -1,3 +1,0 @@
-service_id,date,exception_type
-4_merged_1126540,20221124,2
-7,20221124,1

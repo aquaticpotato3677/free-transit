@@ -1,216 +1,274 @@
-route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
-1E,mtwtf,R1e_T01,WWCC,0,3,1E
-1E,mtwtf,R1e_T02,WWCC,0,4,1E
-1E,mtwtf,R1e_T03,WWCC,0,1,1E
-1E,mtwtf,R1e_T04,WWCC,0,2,1E
-1E,mtwtf,R1e_T05,WWCC,0,3,1E
-1E,mtwtf,R1e_T06,WWCC,0,4,1E
-1E,mtwtf,R1e_T07,WWCC,0,1,1E
-1E,mtwtf,R1e_T08,WWCC,0,2,1E
-1E,mtwtf,R1e_T09,WWCC,0,3,1E
-1E,mtwtf,R1e_T10,WWCC,0,4,1E
-1E,mtwtf,R1e_T11,WWCC,0,1,1E
-1E,mtwtf,R1e_T12,WWCC,0,2,1E
-1E,mtwtf,R1e_T13,WWCC,0,3,1E
-1E,mtwtf,R1e_T14,WWCC,0,4,1E
-1E,mtwtf,R1e_T15,WWCC,0,1,1E
-1E,mtwtf,R1e_T16,WWCC,0,2,1E
-1E,mtwtf,R1e_T17,WWCC,0,3,1E
-1E,mtwtf,R1e_T18,WWCC,0,4,1E
-1E,mtwtf,R1e_T19,WWCC,0,1,1E
-1E,mtwtf,R1e_T20,WWCC,0,2,1E
-1E,mtwtf,R1e_T21,WWCC,0,3,1E
-1E,mtwtf,R1e_T22,WWCC,0,4,1E
-1E,mtwtf,R1e_T23,WWCC,0,1,1E
-1E,mtwtf,R1e_T24,WWCC,0,2,1E
-1W,mtwtf,R1w_T01,Wal-Mart,0,1,1W
-1W,mtwtf,R1w_T02,Wal-Mart,0,2,1W
-1W,mtwtf,R1w_T03,Wal-Mart,0,3,1W
-1W,mtwtf,R1w_T04,Wal-Mart,0,4,1W
-1W,mtwtf,R1w_T05,Wal-Mart,0,1,1W
-1W,mtwtf,R1w_T07,Wal-Mart,0,3,1W
-1W,mtwtf,R1w_T08,Wal-Mart,0,4,1W
-1W,mtwtf,R1w_T09,Wal-Mart,0,1,1W
-1W,mtwtf,R1w_T10,Wal-Mart,0,2,1W
-1W,mtwtf,R1w_T11,Wal-Mart,0,3,1W
-1W,mtwtf,R1w_T12,Wal-Mart,0,4,1W
-1W,mtwtf,R1w_T13,Wal-Mart,0,1,1W
-1W,mtwtf,R1w_T14,Wal-Mart,0,2,1W
-1W,mtwtf,R1w_T15,Wal-Mart,0,3,1W
-1W,mtwtf,R1w_T16,Wal-Mart,0,4,1W
-1W,mtwtf,R1w_T17,Wal-Mart,0,1,1W
-1W,mtwtf,R1w_T18,Wal-Mart,0,2,1W
-1W,mtwtf,R1w_T19,Wal-Mart,0,3,1W
-1W,mtwtf,R1w_T21,Wal-Mart,0,1,1W
-1W,mtwtf,R1w_T22,Wal-Mart,0,2,1W
-1W,mtwtf,R1w_T23,Wal-Mart,0,3,1W
-1W,mtwtf,R1w_T24,Wal-Mart,0,4,1W
-1W,mtwtf,R1w_T25,Wal-Mart,0,1,1W
-1W,mtwtf_school,R1w_Assumption_T01,Wal-Mart,0,2,1W_Assumption
-1W,mtwtf_school,R1w_Assumption_T02,Wal-Mart,0,4,1W_Assumption
-1W,mtwtf_noschool,R1w_No_Assumption_T01,Wal-Mart,0,2,1W
-1W,mtwtf_noschool,R1w_No_Assumption_T02,Wal-Mart,0,4,1W
-300,mtwtf,R1e+_T01,WWCC,0,,1E+
-300,mtwtf,R1e+_T02,WWCC,0,,1E+
-300,mtwtf,R1e+_T03,WWCC,0,,1E+
-300,mtwtf,R1e+_T04,WWCC,0,,1E+
-300,sat,R1e_sat_T01,WWCC,0,,1E+
-300,sat,R1e_sat_T02,WWCC,0,,1E+
-300,sat,R1e_sat_T03,WWCC,0,,1E+
-300,sat,R1e_sat_T04,WWCC,0,,1E+
-300,sat,R1e_sat_T05,WWCC,0,,1E+
-300,sat,R1e_sat_T06,WWCC,0,,1E+
-300,sat,R1e_sat_T07,WWCC,0,,1E+
-300,sat,R1e_sat_T08,WWCC,0,,1E+
-300,sat,R1e_sat_T09,WWCC,0,,1E+
-300,sat,R1e_sat_T10,WWCC,0,,1E+
-310,mtwtf,R1w+_T01,Wal-Mart,0,,1W+
-310,mtwtf,R1w+_T02,Wal-Mart,0,,1W+
-310,mtwtf,R1w+_T03,Wal-Mart,0,,1W+
-310,mtwtf,R1w+_T04,Wal-Mart,0,,1W+
-310,sat,R1w_sat_T01,Wal-Mart,0,,1W++
-310,sat,R1w_sat_T02,Wal-Mart,0,,1W++
-310,sat,R1w_sat_T03,Wal-Mart,0,,1W++
-310,sat,R1w_sat_T04,Wal-Mart,0,,1W++
-310,sat,R1w_sat_T05,Wal-Mart,0,,1W++
-310,sat,R1w_sat_T06,Wal-Mart,0,,1W++
-310,sat,R1w_sat_T07,Wal-Mart,0,,1W++
-310,sat,R1w_sat_T08,Wal-Mart,0,,1W++
-310,sat,R1w_sat_T09,Wal-Mart,0,,1W++
-310,sat,R1w_sat_T10,Wal-Mart,0,,1W++
-2,mtwtf,R2_T01,College Place Circulator,0,1,2
-2,mtwtf,R2_T02,College Place Circulator,0,2,2
-2,mtwtf,R2_T03,College Place Circulator,0,3,2
-2,mtwtf,R2_T04,College Place Circulator,0,4,2
-2,mtwtf,R2_T05,College Place Circulator,0,1,2
-2,mtwtf,R2_T06,College Place Circulator,0,2,2
-2,mtwtf,R2_T07,College Place Circulator,0,3,2
-2,mtwtf,R2_T08,College Place Circulator,0,4,2
-2,mtwtf,R2_T09,College Place Circulator,0,1,2
-2,mtwtf,R2_T10,College Place Circulator,0,2,2
-2,mtwtf,R2_T11,College Place Circulator,0,3,2
-2,mtwtf,R2_T12,College Place Circulator,0,4,2
-2,mtwtf,R2_T13,College Place Circulator,0,1,2
-2,mtwtf,R2_T14,College Place Circulator,0,2,2
-2,mtwtf,R2_T15,College Place Circulator,0,3,2
-2,mtwtf,R2_T16,College Place Circulator,0,4,2
-2,mtwtf,R2_T17,College Place Circulator,0,1,2
-2,mtwtf,R2_T18,College Place Circulator,0,2,2
-2,mtwtf,R2_T19,College Place Circulator,0,3,2
-2,mtwtf,R2_T20,College Place Circulator,0,4,2
-2,mtwtf,R2_T21,College Place Circulator,0,1,2
-2,mtwtf,R2_T22,College Place Circulator,0,2,2
-3,mtwtf,R3_T01,Southgate WA-HI,0,,3
-3,mtwtf,R3_T02,Southgate WA-HI,0,,3
-3,mtwtf,R3_T03,Southgate WA-HI,0,,3
-3,mtwtf,R3_T04,Southgate WA-HI,0,,3
-3,mtwtf,R3_T05,Southgate WA-HI,0,,3
-3,mtwtf,R3_T06,Southgate WA-HI,0,,3
-3,mtwtf,R3_T07,Southgate WA-HI,0,,3
-3,mtwtf,R3_T08,Southgate WA-HI,0,,3
-3,mtwtf,R3_T09,Southgate WA-HI,0,,3
-3,mtwtf,R3_T10,Southgate WA-HI,0,,3
-3,mtwtf,R3_T11,Southgate WA-HI,0,,3
-3,mtwtf,R3_T12,Southgate WA-HI,0,,3
-3,mtwtf,R3_T13,Southgate WA-HI,0,,3
-3,mtwtf,R3_T14,Southgate WA-HI,0,,3
-3,mtwtf,R3_T15,Southgate WA-HI,0,,3
-3,mtwtf,R3_T16,Southgate WA-HI,0,,3
-3,mtwtf,R3_T17,Southgate WA-HI,0,,3
-3,mtwtf,R3_T18,Southgate WA-HI,0,,3
-3,mtwtf,R3_T19,Southgate WA-HI,0,,3
-3,mtwtf,R3_T20,Southgate WA-HI,0,,3
-3,mtwtf,R3_T21,Southgate WA-HI,0,,3
-3,mtwtf,R3_T22,Southgate WA-HI,0,,3
-3,mtwtf,R3_T23,Southgate WA-HI,0,,3
-4,mtwtf,R4_T01,Melrose Alder,0,,4
-4,mtwtf,R4_T02,Melrose Alder,0,,4
-4,mtwtf,R4_T03,Melrose Alder,0,,4
-4,mtwtf,R4_T04,Melrose Alder,0,,4
-4,mtwtf,R4_T05,Melrose Alder,0,,4
-4,mtwtf,R4_T06,Melrose Alder,0,,4
-4,mtwtf,R4_T07,Melrose Alder,0,,4
-4,mtwtf,R4_T08,Melrose Alder,0,,4
-4,mtwtf,R4_T09,Melrose Alder,0,,4
-4,mtwtf,R4_T10,Melrose Alder,0,,4
-4,mtwtf,R4_T11,Melrose Alder,0,,4
-4,mtwtf,R4_T12,Melrose Alder,0,,4
-4,mtwtf,R4_T13,Melrose Alder,0,,4
-4,mtwtf,R4_T14,Melrose Alder,0,,4
-4,mtwtf,R4_T15,Melrose Alder,0,,4
-4,mtwtf,R4_T16,Melrose Alder,0,,4
-4,mtwtf,R4_T17,Melrose Alder,0,,4
-4,mtwtf,R4_T18,Melrose Alder,0,,4
-4,mtwtf,R4_T19,Melrose Alder,0,,4
-4,mtwtf,R4_T20,Melrose Alder,0,,4
-4,mtwtf,R4_T21,Melrose Alder,0,,4
-4,mtwtf,R4_T22,Melrose Alder,0,,4
-4,mtwtf,R4_T23,Melrose Alder,0,,4
-5,mtwtf,R5_T01,,0,,r5new
-5,mtwtf,R5_T02,,0,,r5new
-5,mtwtf,R5_T03,,0,,r5new
-5,mtwtf,R5_T04,,0,,r5new
-5,mtwtf,R5_T05,,0,,r5new
-5,mtwtf,R5_T06,,0,,r5new
-5,mtwtf,R5_T07,,0,,r5new
-5,mtwtf,R5_T08,,0,,r5new
-5,mtwtf,R5_T09,,0,,r5new
-5,mtwtf,R5_T10,,0,,r5new
-5,mtwtf,R5_T11,,0,,r5new
-5,mtwtf,R5_T12,,0,,r5new
-5,mtwtf,R5_T13,,0,,r5new
-5,mtwtf,R5_T14,,0,,r5new
-5,mtwtf,R5_T15,,0,,r5new
-5,mtwtf,R5_T16,,0,,r5new
-5,mtwtf,R5_T17,,0,,r5new
-5,mtwtf,R5_T18,,0,,r5new
-5,mtwtf,R5_T19,,0,,r5new
-5,mtwtf,R5_T20,,0,,r5new
-5,mtwtf,R5_T21,,0,,r5new
-5,mtwtf,R5_T22,,0,,r5new
-5,mtwtf,R5_T23,,0,,r5new
-6,mtwtf,R6_T01,,0,,r6new
-6,mtwtf,R6_T02,,0,,r6new
-6,mtwtf,R6_T03,,0,,r6new
-6,mtwtf,R6_T04,,0,,r6new
-6,mtwtf,R6_T05,,0,,r6new
-6,mtwtf,R6_T06,,0,,r6new
-6,mtwtf,R6_T07,,0,,r6new
-6,mtwtf,R6_T08,,0,,r6new
-6,mtwtf,R6_T09,,0,,r6new
-6,mtwtf,R6_T10,,0,,r6new
-6,mtwtf,R6_T11,,0,,r6new
-6,mtwtf,R6_T12,,0,,r6new
-6,mtwtf,R6_T13,,0,,r6new
-6,mtwtf,R6_T14,,0,,r6new
-6,mtwtf,R6_T15,,0,,r6new
-6,mtwtf,R6_T16,,0,,r6new
-6,mtwtf,R6_T17,,0,,r6new
-6,mtwtf,R6_T18,,0,,r6new
-6,mtwtf,R6_T19,,0,,r6new
-6,mtwtf,R6_T20,,0,,r6new
-6,mtwtf,R6_T21,,0,,r6new
-6,mtwtf,R6_T22,,0,,r6new
-7,mtwtf,R7_T01,Pleasant Street Loop,0,,7
-7,mtwtf,R7_T02,Pleasant Street Loop,0,,7
-7,mtwtf,R7_T03,Pleasant Street Loop,0,,7
-7,mtwtf,R7_T04,Pleasant Street Loop,0,,7
-7,mtwtf,R7_T05,Pleasant Street Loop,0,,7
-7,mtwtf,R7_T06,Pleasant Street Loop,0,,7
-7,mtwtf,R7_T07,Pleasant Street Loop,0,,7
-7,mtwtf,R7_T08,Pleasant Street Loop,0,,7
-7,mtwtf,R7_T09,Pleasant Street Loop,0,,7
-7,mtwtf,R7_T10,Pleasant Street Loop,0,,7
-7,mtwtf,R7_T11,Pleasant Street Loop,0,,7
-9,mtwtf,R9_T01,Pine St,0,,9
-9,mtwtf,R9_T02,Pine St,0,,9
-9,mtwtf,R9_T03,Pine St,0,,9
-9,mtwtf,R9_T04,Pine St,0,,9
-9,mtwtf,R9_T05,Pine St,0,,9
-9,mtwtf,R9_T06,Pine St,0,,9
-9,mtwtf,R9_T07,Pine St,0,,9
-9,mtwtf,R9_T08,Pine St,0,,9
-9,mtwtf,R9_T09,Pine St,0,,9
-9,mtwtf,R9_T10,Pine St,0,,9
-9,mtwtf,R9_T11,Pine St,0,,9
-9,mtwtf,R9_T12,Pine St,0,,9
+﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+"1",1,7,"Mainline Westbound to College Place",1,101,8
+"1",1,8,"Mainline Eastbound to WWCC",0,101,10
+"1",1,10,"Mainline Eastbound to WWCC",1,101,17
+"1",1,11,"Mainline Westbound to College Place",1,101,24
+"1",1,13,"Mainline Westbound to College Place",1,101,8
+"2",1,14,"C.P. Circulator",0,101,7
+"1",1,15,"Mainline Eastbound to WWCC",0,101,10
+"1",1,17,"Mainline Eastbound to WWCC",1,101,17
+"1",1,18,"Mainline Westbound to College Place",1,101,24
+"1",1,20,"Mainline Westbound to College Place",1,101,8
+"2",1,21,"C.P. Circulator",0,101,7
+"1",1,22,"Mainline Eastbound to WWCC",0,101,10
+"1",1,24,"Mainline Eastbound to WWCC",1,101,17
+"1",1,25,"Mainline Westbound to College Place",1,101,24
+"1",1,27,"Mainline Westbound to College Place",1,101,8
+"2",1,28,"C.P. Circulator",0,101,7
+"1",1,29,"Mainline Eastbound to WWCC",0,101,10
+"1",1,31,"Mainline Eastbound to WWCC",1,101,17
+"1",1,32,"Mainline Westbound to College Place",1,101,24
+"1",1,34,"Mainline Westbound to College Place",1,101,8
+"4",1,35,"Melrose / Alder",0,54,9
+"2",1,47,"C.P. Circulator",0,101,7
+"1",1,48,"Mainline Eastbound to WWCC",0,101,10
+"1",1,50,"Mainline Eastbound to WWCC",1,101,17
+"1",1,51,"Mainline Westbound to College Place",1,101,24
+"1",1,53,"Mainline Westbound to College Place",1,101,8
+"2",1,54,"C.P. Circulator",0,101,7
+"1",1,63,"Mainline Eastbound to WWCC",0,101,10
+"1",1,65,"Mainline Eastbound to WWCC",1,101,17
+"1",1,66,"Mainline Westbound to College Place",1,101,26
+"300",2,81,"East Loop",0,300,31
+"300",2,82,"East Loop",0,300,31
+"300",2,83,"East Loop",0,300,31
+"300",2,84,"East Loop",0,300,31
+"300",2,85,"East Loop",0,300,31
+"300",2,86,"East Loop",0,300,31
+"300",2,87,"East Loop",0,300,31
+"300",2,88,"East Loop",0,300,31
+"300",2,89,"East Loop",0,300,31
+"300",2,90,"East Loop",0,300,31
+"310",2,91,"West Loop",0,310,32
+"310",2,92,"West Loop",0,310,32
+"310",2,93,"West Loop",0,310,32
+"310",2,94,"West Loop",0,310,32
+"310",2,95,"West Loop",0,310,32
+"310",2,96,"West Loop",0,310,32
+"310",2,97,"West Loop",0,310,32
+"310",2,98,"West Loop",0,310,32
+"310",2,99,"West Loop",0,310,32
+"310",2,100,"West Loop",0,310,32
+"1",1,158,"Mainline Westbound to College Place",1,103,29
+"1",1,159,"Mainline Eastbound to WWCC",1,103,17
+"1",1,160,"Mainline Westbound to College Place",1,103,24
+"1",1,162,"Mainline Westbound to College Place",1,103,8
+"2",1,163,"C.P. Circulator",0,103,7
+"1",1,164,"Mainline Eastbound to WWCC",0,103,10
+"1",1,166,"Mainline Eastbound to WWCC",1,103,17
+"1",1,167,"Mainline Westbound to College Place",1,103,24
+"1",1,169,"Mainline Westbound to College Place",1,103,8
+"2",1,170,"C.P. Circulator",0,103,7
+"1",1,171,"Mainline Eastbound to WWCC",0,103,10
+"1",1,173,"Mainline Eastbound to WWCC",1,103,17
+"1",1,174,"Mainline Westbound to College Place",1,103,24
+"1",1,176,"Mainline Westbound to College Place",1,103,8
+"2",1,177,"C.P. Circulator",0,103,7
+"1",1,178,"Mainline Eastbound to WWCC",0,103,10
+"1",1,180,"Mainline Eastbound to WWCC",1,103,17
+"1",1,181,"Mainline Westbound to College Place",1,103,24
+"1",1,183,"Mainline Westbound to College Place",1,103,8
+"2",1,184,"C.P. Circulator",0,103,7
+"1",1,185,"Mainline Eastbound to WWCC",0,103,10
+"1",1,187,"Mainline Eastbound to WWCC",1,103,17
+"1",1,188,"Mainline Westbound to College Place",1,103,24
+"1",1,190,"Mainline Westbound to College Place",1,103,8
+"2",1,191,"C.P. Circulator",0,103,7
+"1",1,192,"Mainline Eastbound to WWCC",0,103,10
+"1",1,194,"Mainline Eastbound to WWCC",1,103,17
+"1",1,195,"Mainline Westbound to College Place",1,103,24
+"1",1,197,"Mainline Westbound to College Place",1,103,8
+"1",1,242,"Mainline Eastbound to WWCC",0,103,15
+"1",1,244,"Mainline Westbound to College Place",1,103,29
+"1",1,247,"Mainline Eastbound to WWCC",0,103,15
+"1",1,249,"Mainline Westbound to College Place",1,103,29
+"1",1,319,"Mainline Eastbound to WWCC",0,102,10
+"1",1,321,"Mainline Eastbound to WWCC",1,102,17
+"1",1,322,"Mainline Westbound to College Place",1,102,24
+"1",1,323,"Mainline Eastbound to WWCC",0,103,15
+"1",1,324,"Mainline Westbound to College Place",1,103,29
+"1",1,325,"Mainline Eastbound to WWCC",0,103,15
+"1",1,326,"Mainline Westbound to College Place",1,103,29
+"1",1,327,"Mainline Eastbound to WWCC",0,101,15
+"1",1,328,"Mainline Westbound to College Place",1,101,29
+"1",1,329,"Mainline Eastbound to WWCC",0,101,15
+"1",1,330,"Mainline Westbound to College Place",1,101,29
+"1",1,331,"Mainline Eastbound to WWCC",0,101,15
+"1",1,332,"Mainline Westbound to College Place",1,101,29
+"1",1,333,"Mainline Eastbound to WWCC",0,101,15
+"1",1,334,"Mainline Westbound to College Place",1,101,29
+"1",1,335,"Mainline Eastbound to WWCC",0,101,15
+"1",1,336,"Mainline Westbound to College Place",1,101,29
+"1",1,337,"Mainline Eastbound to WWCC",0,101,15
+"1",1,338,"Mainline Eastbound to WWCC",0,103,15
+"1",1,339,"Mainline Westbound to College Place",1,103,29
+"1",1,340,"Mainline Eastbound to WWCC",0,103,15
+"1",1,360,"Mainline Westbound to College Place",1,102,8
+"2",1,361,"C.P. Circulator",0,102,7
+"1",1,362,"Mainline Eastbound to WWCC",0,102,10
+"1",1,364,"Mainline Eastbound to WWCC",1,102,17
+"1",1,365,"Mainline Westbound to College Place",1,102,24
+"1",1,367,"Mainline Westbound to College Place",1,102,8
+"2",1,368,"C.P. Circulator",0,102,7
+"1",1,369,"Mainline Eastbound to WWCC",0,102,10
+"1",1,371,"Mainline Eastbound to WWCC",1,102,17
+"1",1,372,"Mainline Westbound to College Place",1,102,24
+"1",1,374,"Mainline Westbound to College Place",1,102,8
+"2",1,375,"C.P. Circulator",0,102,7
+"1",1,376,"Mainline Eastbound to WWCC",0,102,10
+"1",1,378,"Mainline Eastbound to WWCC",1,102,17
+"1",1,379,"Mainline Westbound to College Place",1,102,24
+"1",1,381,"Mainline Westbound to College Place",1,102,8
+"2",1,382,"C.P. Circulator",0,102,7
+"1",1,383,"Mainline Eastbound to WWCC",0,102,10
+"1",1,384,"Mainline Westbound to College Place",1,104,24
+"1",1,386,"Mainline Westbound to College Place",1,104,8
+"2",1,387,"C.P. Circulator",0,104,7
+"1",1,388,"Mainline Eastbound to WWCC",0,104,10
+"1",1,390,"Mainline Eastbound to WWCC",1,104,17
+"1",1,391,"Mainline Westbound to College Place",1,104,24
+"1",1,393,"Mainline Westbound to College Place",1,104,8
+"2",1,394,"C.P. Circulator",0,104,7
+"1",1,395,"Mainline Eastbound to WWCC",0,104,10
+"1",1,397,"Mainline Eastbound to WWCC",1,104,17
+"1",1,398,"Mainline Westbound to College Place",1,104,24
+"1",1,400,"Mainline Westbound to College Place",1,104,8
+"2",1,401,"C.P. Circulator",0,104,7
+"1",1,402,"Mainline Eastbound to WWCC",0,104,10
+"1",1,404,"Mainline Eastbound to WWCC",1,104,17
+"1",1,405,"Mainline Westbound to College Place",1,104,24
+"1",1,407,"Mainline Westbound to College Place",1,104,8
+"2",1,408,"C.P. Circulator",0,104,7
+"1",1,409,"Mainline Eastbound to WWCC",0,104,10
+"1",1,411,"Mainline Eastbound to WWCC",1,104,17
+"1",1,412,"Mainline Westbound to College Place",1,104,24
+"5",1,414,"Fairgrounds",0,45,12
+"5",1,415,"Fairgrounds",0,45,12
+"5",1,416,"Fairgrounds",0,45,12
+"5",1,417,"Fairgrounds",0,45,12
+"5",1,418,"Fairgrounds",0,45,12
+"5",1,419,"Fairgrounds",0,45,12
+"5",1,420,"Fairgrounds",0,45,12
+"5",1,421,"Fairgrounds",0,45,12
+"5",1,422,"Fairgrounds",0,54,12
+"5",1,423,"Fairgrounds",0,54,12
+"5",1,424,"Fairgrounds",0,54,12
+"5",1,425,"Fairgrounds",0,54,12
+"5",1,426,"Fairgrounds",0,54,12
+"5",1,427,"Fairgrounds",0,54,12
+"5",1,428,"Fairgrounds",0,54,12
+"5",1,429,"Fairgrounds",0,54,12
+"1",1,430,"Mainline Eastbound to WWCC",0,102,15
+"1",1,431,"Mainline Westbound to College Place",1,102,29
+"1",1,432,"Mainline Eastbound to WWCC",0,102,15
+"1",1,433,"Mainline Westbound to College Place",1,102,29
+"1",1,434,"Mainline Eastbound to WWCC",0,102,15
+"1",1,441,"Mainline Westbound to College Place",1,102,29
+"1",1,442,"Mainline Westbound to College Place",1,102,29
+"1",1,443,"Mainline Westbound to College Place",1,104,29
+"1",1,444,"Mainline Eastbound to WWCC",0,104,15
+"1",1,445,"Mainline Westbound to College Place",1,104,29
+"1",1,446,"Mainline Eastbound to WWCC",0,104,15
+"1",1,447,"Mainline Westbound to College Place",1,104,29
+"1",1,448,"Mainline Eastbound to WWCC",0,104,15
+"1",1,449,"Mainline Westbound to College Place",1,104,29
+"1",1,450,"Mainline Eastbound to WWCC",0,104,15
+"1",1,451,"Mainline Westbound to College Place",1,104,29
+"4",1,453,"Melrose / Alder",0,45,9
+"4",1,455,"Melrose / Alder",0,45,9
+"4",1,457,"Melrose / Alder",0,45,9
+"4",1,459,"Melrose / Alder",0,45,9
+"4",1,461,"Melrose / Alder",0,45,9
+"4",1,463,"Melrose / Alder",0,45,9
+"4",1,465,"Melrose / Alder",0,45,9
+"4",1,467,"Melrose / Alder",0,45,9
+"5",1,468,"Fairgrounds",0,54,12
+"5",1,469,"Fairgrounds",0,54,12
+"5",1,470,"Fairgrounds",0,54,12
+"5",1,471,"Fairgrounds",0,54,12
+"1",1,472,"Mainline Eastbound to WWCC",0,102,15
+"4",1,495,"Melrose / Alder",0,45,9
+"5",1,496,"Fairgrounds",0,45,12
+"4",1,497,"Melrose / Alder",0,45,9
+"5",1,498,"Fairgrounds",0,45,12
+"4",1,499,"Melrose / Alder",0,45,9
+"5",1,500,"Fairgrounds",0,45,12
+"4",1,501,"Melrose / Alder",0,45,9
+"4",1,534,"Melrose / Alder",0,54,9
+"4",1,536,"Melrose / Alder",0,54,9
+"4",1,538,"Melrose / Alder",0,54,9
+"4",1,540,"Melrose / Alder",0,54,9
+"4",1,542,"Melrose / Alder",0,54,9
+"4",1,544,"Melrose / Alder",0,54,9
+"4",1,546,"Melrose / Alder",0,54,9
+"4",1,548,"Melrose / Alder",0,54,9
+"4",1,552,"Melrose / Alder",0,54,9
+"4",1,554,"Melrose / Alder",0,54,9
+"2",1,610,"C.P. Circulator",0,101,7
+"3",1,611,"2nd Avenue/Wa-Hi",0,36,33
+"6",1,612,"VA-Medical Loop",0,36,13
+"3",1,617,"2nd Avenue/Wa-Hi",0,36,33
+"6",1,618,"VA-Medical Loop",0,36,13
+"3",1,619,"2nd Avenue/Wa-Hi",0,36,33
+"6",1,620,"VA-Medical Loop",0,36,13
+"3",1,621,"2nd Avenue/Wa-Hi",0,36,33
+"6",1,622,"VA-Medical Loop",0,36,13
+"3",1,623,"2nd Avenue/Wa-Hi",0,36,33
+"6",1,624,"VA-Medical Loop",0,36,13
+"3",1,625,"2nd Avenue/Wa-Hi",0,36,33
+"6",1,626,"VA-Medical Loop",0,36,13
+"3",1,669,"2nd Avenue/Wa-Hi",0,36,33
+"6",1,670,"VA-Medical Loop",0,36,13
+"3",1,671,"2nd Avenue/Wa-Hi",0,36,33
+"6",1,672,"VA-Medical Loop",0,36,13
+"3",1,673,"2nd Avenue/Wa-Hi",0,36,33
+"6",1,674,"VA-Medical Loop",0,36,13
+"3",1,675,"2nd Avenue/Wa-Hi",0,36,33
+"6",1,676,"VA-Medical Loop",0,36,13
+"3",1,677,"2nd Avenue/Wa-Hi",0,36,33
+"6",1,678,"VA-Medical Loop",0,36,13
+"3",1,679,"2nd Avenue/Wa-Hi",0,36,33
+"9",1,702,"Pine St Loop",0,97,16
+"7",1,703,"2nd Avenue/Wa-Hi",0,97,14
+"9",1,704,"Pine St Loop",0,97,16
+"7",1,705,"2nd Avenue/Wa-Hi",0,97,14
+"9",1,706,"Pine St Loop",0,97,16
+"7",1,707,"2nd Avenue/Wa-Hi",0,97,14
+"9",1,708,"Pine St Loop",0,97,16
+"7",1,709,"2nd Avenue/Wa-Hi",0,97,14
+"9",1,710,"Pine St Loop",0,97,16
+"7",1,711,"2nd Avenue/Wa-Hi",0,97,14
+"9",1,712,"Pine St Loop",0,97,16
+"7",1,713,"2nd Avenue/Wa-Hi",0,97,14
+"9",1,714,"Pine St Loop",0,97,16
+"7",1,715,"2nd Avenue/Wa-Hi",0,97,14
+"9",1,716,"Pine St Loop",0,97,16
+"7",1,717,"2nd Avenue/Wa-Hi",0,97,14
+"9",1,718,"Pine St Loop",0,97,16
+"7",1,719,"2nd Avenue/Wa-Hi",0,97,14
+"9",1,720,"Pine St Loop",0,97,16
+"7",1,721,"2nd Avenue/Wa-Hi",0,97,14
+"9",1,722,"Pine St Loop",0,97,16
+"7",1,723,"2nd Avenue/Wa-Hi",0,97,14
+"9",1,724,"Pine St Loop",0,97,16
+"1",1,725,"Mainline Westbound to College Place",1,102,24
+"1",1,726,"Mainline Westbound to College Place",1,102,27
+"1",1,727,"Mainline Westbound to College Place",1,102,8
+"2",1,728,"C.P. Circulator",0,102,7
+"1",1,729,"Mainline Eastbound to WWCC",0,102,10
+"1",1,730,"Mainline Eastbound to WWCC",0,102,28
+"1",1,731,"Mainline Eastbound to WWCC",1,102,17
+"1",1,732,"Mainline Westbound to College Place",1,102,24
+"1",1,733,"Mainline Westbound to College Place",1,102,27
+"1",1,734,"Mainline Westbound to College Place",1,102,8
+"2",1,735,"C.P. Circulator",0,102,7
+"1",1,736,"Mainline Eastbound to WWCC",0,104,10
+"1",1,737,"Mainline Eastbound to WWCC",0,104,28
+"1",1,738,"Mainline Eastbound to WWCC",1,104,17
+"1",1,739,"Mainline Westbound to College Place",1,104,24
+"1",1,740,"Mainline Westbound to College Place",1,104,27
+"1",1,741,"Mainline Westbound to College Place",1,104,8
+"2",1,742,"C.P. Circulator",0,104,7
+"1",1,743,"Mainline Eastbound to WWCC",0,104,10
+"1",1,744,"Mainline Eastbound to WWCC",0,104,28
+"1",1,745,"Mainline Eastbound to WWCC",1,104,17

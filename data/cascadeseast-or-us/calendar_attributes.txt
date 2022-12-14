@@ -1,6 +1,0 @@
-service_id,service_description
-c_69055_b_79780_d_15,Rte 18 Peak (MTuWTh)
-c_69055_b_79780_d_112,Rte 18 Peak (FSaSu)
-c_67338_b_55333_d_32,Year Round starting 08/1/22 (Saturday only)
-c_67338_b_55333_d_31,Year Round starting 08/1/22 (Weekday)
-c_301_b_78416_d_127,Rte 18 Offpeak (All days of week)

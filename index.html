@@ -10,18 +10,33 @@
         <footer style="text-align:center;"><a href="https://github.com/aquaticpotato3677/free-transit">github repo</a></footer>
         <script>
             mapboxgl.accessToken = 'pk.eyJ1IjoiYXF1YXRpY3BvdGF0bzM2NzciLCJhIjoiY2xiNGkxamNhMDd2MDNycHFvaGFhbm5ibCJ9.JOPGAumKnABqtmfkRf2eyw';
-            const map = new mapboxgl.Map({
-                container: 'map',
-                style: 'mapbox://styles/aquaticpotato3677/clbjn8tbc003y14qpt0kltxaj/draft',
-                center: [-71.1,42.4],
-                zoom: 9,
+            map.on('load',()=>{
+                map.addSource('data',{
+                    type:'geojson',
+                    data: '/data.json'
+                });
+                map.addLayer({
+                    'id': 'data',
+                    'type': 'line',
+                    'source': 'data',
+                    'layout': {
+                        'line-join': 'round',
+                        'line-cap': 'round'
+                    },
+                    'paint': {
+                        'line-color':['string',
+                            ['get', 'color']
+                        ],
+                        'line-width': 3
+                    }
+                });
             });
-            map.addControl(new mapboxgl.NavigationControl());
 
             map.on('click',(e)=>{
-                let features = map.queryRenderedFeatures([[e.point.x-10,e.point.y-10],[e.point.x+10,e.point.y+10]],{layers:['data-2awci9']});
+                let features = map.queryRenderedFeatures([[e.point.x-10,e.point.y-10],[e.point.x+10,e.point.y+10]],{layers:['data']});
                 if(features.length>0){
                     let popup = new mapboxgl.Popup().setLngLat(e.lngLat).setHTML(features[0].properties.popup).addTo(map);
+                    // TODO: highlight clicked lines?
                 }
             });
         </script>

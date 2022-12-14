@@ -8,18 +8,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     # install action dependencies
-    - uses: actions/setup-python@v4.3.1
-      with:
-        python-version: '3.10'
     - uses: actions/setup-node@v3.5.1
     - uses: actions/checkout@v3
     
-    # install script dependencies
+    # install npm dependencies
     - name: Install dependencies
       run: |
-        pip install mapbox-tilesets
         npm install csv-parse
+        npm install unzipper
+        npm install bent
         
+    # fetch gtfs
+    - name: fetch gtfs files
+      run: |
+        node fetch.js
+
     # process gtfs 
     - name: convert gtfs to geojson
       run: |
@@ -39,8 +42,3 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
-      
-    - name: upload tileset
-      run: |
-        tilesets upload-source aquaticpotato3677 free-transit ./data.json --token="${{secrets.MAPBOX_TILESETS_TOKEN}}" --replace
-        tilesets publish aquaticpotato3677.free-transit --token="${{secrets.MAPBOX_TILESETS_TOKEN}}"

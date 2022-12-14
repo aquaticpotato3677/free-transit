@@ -1,3 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_67333_b_77545_d_32,Year Round starting 8/15/22 (Saturday only),0,0,0,0,0,1,0,20220815,20231031
-c_67333_b_77545_d_31,Year Round starting 8/15/22 (Weekday),1,1,1,1,1,0,0,20220815,20231031

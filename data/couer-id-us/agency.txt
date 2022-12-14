@@ -1,2 +1,0 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
-2016,Citylink North (Kootenai County),https://www.kcgov.us/486/Transit-Services,America/Los_Angeles,en,208-446-2255,

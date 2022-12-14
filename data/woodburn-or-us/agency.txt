@@ -1,2 +1,0 @@
-agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url,tts_agency_name
-129,http://www.woodburn-or.gov/?q=transit,en,Woodburn Transit,(503) 982-5233,America/Los_Angeles,http://www.woodburn-or.gov/publicworks/transit.aspx,

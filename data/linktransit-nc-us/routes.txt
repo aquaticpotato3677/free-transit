@@ -1,6 +1,0 @@
-route_id,route_short_name,route_long_name,route_desc,route_url,route_color,route_text_color,route_type
-1,1,Link Red,,,FF0000,FFFFFF,3
-2,2,Link Orange,,,FF9900,000000,3
-3,3,Link Blue,,,0000FF,FFFFFF,3
-4,4,Link Green,,,00FF00,FFFFFF,3
-5,5,Link Purple,,,6600FF,FFFFFF,3

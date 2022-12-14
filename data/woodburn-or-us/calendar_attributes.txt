@@ -1,6 +1,0 @@
-service_id,service_description
-c_20754_b_28133_d_64,Weekend Fixed Route (Sunday only)
-c_20754_b_28133_d_32,Weekend Fixed Route (Saturday only)
-c_19779_b_26219_d_64,Year Round Reduced Service (New) (Sunday only)
-c_19779_b_26219_d_32,Year Round Reduced Service (New) (Saturday only)
-c_19779_b_26219_d_31,Year Round Reduced Service (New) (Weekday)

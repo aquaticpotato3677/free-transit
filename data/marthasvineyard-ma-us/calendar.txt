@@ -1,3 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_24599_b_34464_d_48,Off Season Spring/Fall 2022 (FSa),0,0,0,0,1,1,0,20221002,20221231
-c_24599_b_34464_d_127,Off Season Spring/Fall 2022 (All days of week),1,1,1,1,1,1,1,20221002,20221231

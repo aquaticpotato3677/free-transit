@@ -1,8 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_21477_b_55357_d_96,Madison Shuttle (Weekend),0,0,0,0,0,1,1,20220528,20220905
-c_2120_b_722_d_32,Year Round (Saturday only),0,0,0,0,0,1,0,20160901,20230331
-c_2120_b_722_d_31,Year Round (Weekday),1,1,1,1,1,0,0,20160901,20230331
-c_20221_b_55356_d_64,Clinton Trolley (Sunday only),0,0,0,0,0,0,1,20220528,20220905
-c_20221_b_55356_d_56,Clinton Trolley (ThFSa),0,0,0,1,1,1,0,20220528,20220905
-c_19980_b_26863_d_32,Rte 641 Normal Service (Saturday only),0,0,0,0,0,1,0,20200622,20230331
-c_19980_b_26863_d_31,Rte 641 Normal Service (Weekday),1,1,1,1,1,0,0,20200622,20230331

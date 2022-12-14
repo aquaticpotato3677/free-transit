@@ -1,7 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_67596_b_78143_d_96,Year Round starting 10/3/22 (Weekend),0,0,0,0,0,1,1,20221003,20230301
-c_67596_b_78143_d_32,Year Round starting 10/3/22 (Saturday only),0,0,0,0,0,1,0,20221003,20230301
-c_67596_b_78143_d_31,Year Round starting 10/3/22 (Weekday),1,1,1,1,1,0,0,20221003,20230301
-c_67596_b_78143_d_29,Year Round starting 10/3/22 (MWThF),1,0,1,1,1,0,0,20221003,20230301
-c_67596_b_78143_d_21,Year Round starting 10/3/22 (MWF),1,0,1,0,1,0,0,20221003,20230301
-c_67596_b_78143_d_2,Year Round starting 10/3/22 (Tuesday only),0,1,0,0,0,0,0,20221003,20230301

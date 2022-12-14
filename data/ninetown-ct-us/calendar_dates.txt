@@ -1,5 +1,0 @@
-service_id,date,holiday_name,exception_type
-c_21477_b_55357_d_96,20220905,Labor Day,1
-c_2120_b_722_d_31,20220905,Labor Day,2
-c_20221_b_55356_d_64,20220905,Labor Day,1
-c_19980_b_26863_d_31,20220905,Labor Day,2

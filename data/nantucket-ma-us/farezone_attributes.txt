@@ -1,7 +1,0 @@
-zone_id,zone_name
-894,Sconset
-895,Madaket
-1443,In Town
-1444,Surfside
-1445,Airport
-2271,Rotary
