@@ -10,6 +10,12 @@
         <footer style="text-align:center;"><a href="https://github.com/aquaticpotato3677/free-transit">github repo</a></footer>
         <script>
             mapboxgl.accessToken = 'pk.eyJ1IjoiYXF1YXRpY3BvdGF0bzM2NzciLCJhIjoiY2xiNGkxamNhMDd2MDNycHFvaGFhbm5ibCJ9.JOPGAumKnABqtmfkRf2eyw';
+            const map = new mapboxgl.Map({
+                container: 'map',
+                style: 'mapbox://styles/mapbox/streets-v12',
+                center: [-71.1,42.4], // starting position [lng, lat]
+                zoom: 9, // starting zoom
+            });
             map.on('load',()=>{
                 map.addSource('data',{
                     type:'geojson',
