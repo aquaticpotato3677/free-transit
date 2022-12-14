@@ -13,7 +13,7 @@ async()=>{
         data.pipe(unzipper.Parse()).on('entry',(entry)=>{
             let fileName = entry.path;
             if(wantedFiles.includes(fileName)){
-                entry.pipe(fs.createWriteStream('./data/'+json[i].loc+'/'+fileName));
+                entry.pipe(fs.writeFile('./data/'+json[i].loc+'/'+fileName));
             }else{
                 entry.autodrain();
             }
