@@ -17,12 +17,12 @@ jobs:
       run: |
         npm install csv-parse
         npm install unzipper
-        npm install bent
+        npm install node-fetch
         
     # fetch gtfs
     - name: fetch gtfs files
       run: |
-        node fetch.js
+        node fetch.mjs
 
     # process gtfs 
     - name: convert gtfs to geojson
