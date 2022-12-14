@@ -3,7 +3,6 @@ let unzipper = require('unzipper');
 let bent = require('bent');
 let getstream = bent(200, 302);
 let json = JSON.parse(fs.readFileSync('./agencies.json'));
-fs.rmSync('./data', {recursive:true});
 fs.mkdirSync('./data');
 async function run(){
     let wantedFiles = ['routes.txt','shapes.txt','trips.txt'];
