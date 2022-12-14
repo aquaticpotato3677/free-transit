@@ -1,7 +1,0 @@
-route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_branding_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
-7r91,SCT,Highland,Highland Area Township Route,,3,,,2B4D0D,000000,,,
-0w3v,SCT,Delaware,Delaware Township Area Route,,3,,,7C12C6,FFFFFF,,,
-zaai,SCT,C,Route C ,,3,,,7ed321,000000,,0,0
-A,SCT_MS,A,Route A,,3,,,4a90e2,FFFFFF,,0,0
-ddxl,SCT,D,Route D,,3,,,f5a623,FFFFFF,,0,0
-B,SCT_MS,B,Route B,,3,,,f8e71c,FFFFFF,,0,0
