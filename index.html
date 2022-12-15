@@ -13,8 +13,9 @@
             const map = new mapboxgl.Map({
                 container: 'map',
                 style: 'mapbox://styles/mapbox/streets-v12',
-                center: [-71.1,42.4], // starting position [lng, lat]
-                zoom: 9, // starting zoom
+                center: [-71.1,42.4], 
+                zoom: 9,
+                projection: 'mercator'
             });
             map.on('load',()=>{
                 map.addSource('data',{
