@@ -66,7 +66,9 @@ for(let i=0; i<agencies.length; i++){
             let shapeId = shape[shapeIdInd];
             let shapeOrder = shape[shapeOrderInd];
             if(routeShapes.has(shapeId)){
-                routeShapes.get(shapeId).set(Number(shapeOrder), [Number(shape[shapeLonInd]),Number(shape[shapeLatInd])]);
+                let lat = Number(shape[shapeLatInd]);
+                let lon = Number(shape[shapeLonInd]);
+                if(lat!=0&&lon!=0) routeShapes.get(shapeId).set(Number(shapeOrder), [lon, lat]);
             }
         }
         for(let [key, value] of routeShapes){
