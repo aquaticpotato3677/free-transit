@@ -44,4 +44,5 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
   deploy-to-pages:
+    needs: build
     uses: ./.github/workflows/static.yml
