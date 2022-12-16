@@ -313,5 +313,20 @@
         "timeframe": "New Years'",
         "url": "https://stanrta.org",
         "gtfs": "https://stanrta.org/preview-gtfs.zip"
+    },
+    {
+        "loc": "tahoe-ca-us",
+        "name": "Tahoe Transportation District",
+        "timeframe": "indefinitely",
+        "url": "https://www.tahoetransportation.org/transit/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/tahoe-ca-us/tahoe-ca-us.zip"
+    },
+    {
+        "loc": "laketahoe-ca-us",
+        "name": "TART",
+        "timeframe": "indefinitely",
+        "url": "https://tahoetruckeetransit.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/laketahoe-ca-us/laketahoe-ca-us.zip",
+        "agencies": [904]
     }
 ]

@@ -11,12 +11,14 @@ for(let i=0; i<agencies.length; i++){
     let shapes = csv.parse(fs.readFileSync('./gtfs/'+agencies[i].loc+'/shapes.txt').toString());
     
     let routesKey = routes[0];
+    let agencyIdInd = null;
     let routeIdInd = null;
     let routeShortNameInd = null;
     let routeColorInd = null;
     let routeLongNameInd = null;
     let routeUrlInd = null;
     for(let j=0; j<routesKey.length; j++){
+        if(routesKey[j].trim()=='agency_id') agencyIdInd = j;
         if(routesKey[j].trim()=='route_id') routeIdInd = j;
         if(routesKey[j]=='route_short_name') routeShortNameInd = j;
         if(routesKey[j]=='route_color') routeColorInd = j;
@@ -25,6 +27,7 @@ for(let i=0; i<agencies.length; i++){
     }
     for(let j=1; j<routes.length; j++){
         let route = routes[j];
+        if(agencies[i].agencies!=undefined && agencies[i].agencies.includes(route[agencyIdInd].replaceAll('"',''))) continue;
         let routeId = route[routeIdInd].replaceAll('"','');
         let routeName = route[routeShortNameInd].replaceAll('"','');
         if(routeName=='') routeName = route[routeLongNameInd];
