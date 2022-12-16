@@ -327,6 +327,6 @@
         "timeframe": "indefinitely",
         "url": "https://tahoetruckeetransit.com/",
         "gtfs": "https://data.trilliumtransit.com/gtfs/laketahoe-ca-us/laketahoe-ca-us.zip",
-        "agencies": [904]
+        "agencies": ["904"]
     }
 ]
