@@ -328,5 +328,12 @@
         "url": "https://tahoetruckeetransit.com/",
         "gtfs": "https://data.trilliumtransit.com/gtfs/laketahoe-ca-us/laketahoe-ca-us.zip",
         "agencies": ["904"]
+    },
+    {
+        "loc": "tucson-az-us",
+        "name": "SunTran",
+        "timeframe": "indefinitely",
+        "url": "https://www.suntran.com",
+        "gtfs": "https://www.suntran.com/wp-content/uploads/2021/08/SunTranGTFS.zip"
     }
 ]
