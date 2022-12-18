@@ -335,5 +335,11 @@
         "timeframe": "indefinitely",
         "url": "https://www.suntran.com",
         "gtfs": "https://www.suntran.com/wp-content/uploads/2021/08/SunTranGTFS.zip"
-    }
+    },
+    {
+        "loc": "cambus-ia-us",
+        "name": "CAMBUS",
+        "timeframe": "indefinitely",
+        "url": "https://transportation.uiowa.edu/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/cambus-ia-us/cambus-ia-us.zip"
 ]
