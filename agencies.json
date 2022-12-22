@@ -349,5 +349,19 @@
         "timeframe": "indefinitely",
         "url": "https://buttebus.org/",
         "gtfs": "https://data.trilliumtransit.com/gtfs/butte-mt-us/butte-mt-us.zip"
+    },
+    {
+        "loc": "missoula-mt-us",
+        "name": "Mountain Line",
+        "timeframe": "indefinitely",
+        "url": "https://mountainline.com",
+        "gtfs": "http://www.mountainline.com/files/MUTD_GTFS.zip"
+    },
+    {
+        "loc": "bozeman-mt-us",
+        "name": "Streamline Transit",
+        "timeframe": "indefinitely",
+        "url": "https://streamlinebus.com",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/streamlinetransit-mt-us/streamlinetransit-mt-us.zip"
     }
 ]
