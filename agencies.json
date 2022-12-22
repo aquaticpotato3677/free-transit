@@ -342,5 +342,12 @@
         "timeframe": "indefinitely",
         "url": "https://transportation.uiowa.edu/",
         "gtfs": "https://data.trilliumtransit.com/gtfs/cambus-ia-us/cambus-ia-us.zip"
+    },
+    {
+        "loc": "butte-mt-us",
+        "name": "Butte-Silver Bow Transit",
+        "timeframe": "indefinitely",
+        "url": "https://buttebus.org/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/butte-mt-us/butte-mt-us.zip"
     }
 ]
