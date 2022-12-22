@@ -355,7 +355,7 @@
         "name": "Mountain Line",
         "timeframe": "indefinitely",
         "url": "https://mountainline.com",
-        "gtfs": "https://mountainline.com/files/MUTD_GTFS.zip"
+        "gtfs": "https://mountainline.com/wp-content/uploads/2021/05/MUTD_GTFS.zip"
     },
     {
         "loc": "bozeman-mt-us",
