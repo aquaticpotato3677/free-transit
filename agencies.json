@@ -356,5 +356,12 @@
         "timeframe": "indefinitely",
         "url": "https://streamlinebus.com",
         "gtfs": "https://data.trilliumtransit.com/gtfs/streamlinetransit-mt-us/streamlinetransit-mt-us.zip"
+    },
+    {
+        "loc": "kansascity-mo-us",
+        "name": "RideKC",
+        "timeframe": "2023",
+        "url": "https://ridekc.org",
+        "gtfs": "http://www.kc-metro.com/gtf/google_transit.zip"
     }
 ]
