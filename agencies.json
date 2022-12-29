@@ -228,7 +228,7 @@
         "name": "Woodburn Transit",
         "timeframe": "indefinitely",
         "url": "https://www.woodburn-or.gov/transit",
-        "gtfs": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/woodburn-or-us/woodburn-or-us.zip"
+        "gtfs": "http://oregon-gtfs.trilliumtransit.com/gtfs_data/woodburn-or-us/woodburn-or-us.zip"
     },
     {
         "loc": "corvallis-or-us",
@@ -242,7 +242,7 @@
         "name": "Clackmas County Connects",
         "timeframe": "indefinitely",
         "url": "https://www.clackamas.us/h3s/connects-shuttle",
-        "gtfs": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/clackamascounty-or-us/clackamascounty-or-us.zip"
+        "gtfs": "http://oregon-gtfs.trilliumtransit.com/gtfs_data/clackamascounty-or-us/clackamascounty-or-us.zip"
     },
     {
         "loc": "graysharbor-wa-us",
@@ -305,7 +305,7 @@
         "name": "Cascades East Transit",
         "timeframe": "indefinitely, excepting recreational routes",
         "url": "https://cascadeseasttransit.com/",
-        "gtfs": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/cascadeseast-or-us/cascadeseast-or-us.zip"
+        "gtfs": "http://oregon-gtfs.trilliumtransit.com/gtfs_data/cascadeseast-or-us/cascadeseast-or-us.zip"
     },
     {
         "loc": "stanrta-ca-us",
