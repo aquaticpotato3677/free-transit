@@ -203,13 +203,6 @@
         "gtfs": "https://s3.amazonaws.com/datatools-511ny/public/Sullivan_County.zip"
     },
     {
-        "loc": "beeline-ny-us",
-        "name": "Bee Line",
-        "timeframe": "December 7-26, 2022",
-        "url": "https://transportation.westchestergov.com/bee-line",
-        "gtfs": "https://s3.amazonaws.com/datatools-511ny/public/Westchester_County_Bee-Line_System.zip"
-    },
-    {
         "loc": "pfp-wa-us",
         "name": "PFP",
         "timeframe": "indefinitely",
