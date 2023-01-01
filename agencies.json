@@ -1,52 +1,10 @@
 [
     {
-        "loc": "berkshire-ma-us",
-        "name": "BRTA",
-        "timeframe": "New Years'",
-        "url": "https://berkshirerta.com",
-        "gtfs": "https://data.trilliumtransit.com/gtfs/berkshire-ma-us/berkshire-ma-us.zip"
-    },
-    {
-        "loc": "brockton-ma-us",
-        "name": "BAT",
-        "timeframe": "New Years'",
-        "url": "https://www.ridebat.com/",
-        "gtfs": "https://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip"
-    },
-    {
-        "loc": "capeann-ma-us",
-        "name": "CATA",
-        "timeframe": "New Years'",
-        "url": "https://canntran.com/",
-        "gtfs": "https://data.trilliumtransit.com/gtfs/capeann-ma-us/capeann-ma-us.zip"
-    },
-    {
         "loc": "frta-ma-us",
         "name": "FRTA",
         "timeframe": "June 30th, 2023",
         "url": "https://frta.org/",
         "gtfs": "https://data.trilliumtransit.com/gtfs/frta-ma-us/frta-ma-us.zip"
-    },
-    {
-        "loc": "gatra-ma-us",
-        "name": "GATRA",
-        "timeframe": "New Years'",
-        "url": "https://www.gatra.org/",
-        "gtfs": "https://data.trilliumtransit.com/gtfs/gatra-ma-us/gatra-ma-us.zip"
-    },
-    {
-        "loc": "lowell-ma-us",
-        "name": "LRTA",
-        "timeframe": "New Years'",
-        "url": "https://lrta.com/",
-        "gtfs": "https://data.trilliumtransit.com/gtfs/lowell-ma-us/lowell-ma-us.zip"
-    },
-    {
-        "loc": "marthasvineyard-ma-us",
-        "name": "VTA",
-        "timeframe": "New Years'",
-        "url": "https://www.vineyardtransit.com/",
-        "gtfs": "https://data.trilliumtransit.com/gtfs/marthasvineyard-ma-us/marthasvineyard-ma-us.zip"
     },
     {
         "loc": "merrimackvalley-ma-us",
@@ -56,39 +14,11 @@
         "gtfs": "https://data.trilliumtransit.com/gtfs/merrimackvalley-ma-us/merrimackvalley-ma-us.zip"
     },
     {
-        "loc": "montachusett-ma-us",
-        "name": "MART",
-        "timeframe": "New Years'",
-        "url": "https://www.mrta.us/",
-        "gtfs": "https://data.trilliumtransit.com/gtfs/montachusett-ma-us/montachusett-ma-us.zip"
-    },
-    {
         "loc": "mwrta-ma-us",
         "name": "MWRTA",
         "timeframe": "until their new fare system arrives",
         "url": "https://mwrta.com/",
         "gtfs": "http://vc.mwrta.com/gtfs/google_transit.zip"
-    },
-    {
-        "loc": "nantucket-ma-us",
-        "name": "NRTA",
-        "timeframe": "New Years'",
-        "url": "https://nrtawave.com/",
-        "gtfs": "https://data.trilliumtransit.com/gtfs/nantucket-ma-us/nantucket-ma-us.zip"
-    },
-    {
-        "loc": "pvta-ma-us",
-        "name": "PVTA",
-        "timeframe": "New Years'",
-        "url": "https://pvta.com/",
-        "gtfs": "http://www.pvta.com/g_trans/google_transit.zip"
-    },
-    {
-        "loc": "srta-ma-us",
-        "name": "SRTA",
-        "timeframe": "New Years'",
-        "url": "https://www.srtabus.com/",
-        "gtfs": "https://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip"
     },
     {
         "loc": "wrta-ma-us",
