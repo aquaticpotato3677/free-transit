@@ -217,25 +217,11 @@
         "gtfs": "https://passio3.com/kootenai/passioTransit/gtfs/google_transit.zip"
     },
     {
-        "loc": "kart-ca-us",
-        "name": "KARTS",
-        "timeframe": "New Years'",
-        "url": "https://www.kartbus.org/",
-        "gtfs": "http://kart.connexionz.net/rtt/public/utility/gtfs.aspx"
-    },
-    {
         "loc": "cascadeseast-or-us",
         "name": "Cascades East Transit",
         "timeframe": "indefinitely, excepting recreational routes",
         "url": "https://cascadeseasttransit.com/",
         "gtfs": "http://oregon-gtfs.trilliumtransit.com/gtfs_data/cascadeseast-or-us/cascadeseast-or-us.zip"
-    },
-    {
-        "loc": "stanrta-ca-us",
-        "name": "StanRTA",
-        "timeframe": "New Years'",
-        "url": "https://stanrta.org",
-        "gtfs": "https://stanrta.org/preview-gtfs.zip"
     },
     {
         "loc": "tahoe-ca-us",
