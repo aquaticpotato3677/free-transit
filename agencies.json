@@ -272,5 +272,12 @@
         "timeframe": "2023",
         "url": "https://ridekc.org",
         "gtfs": "http://www.kc-metro.com/gtf/google_transit.zip"
+    },
+    {
+        "loc": "orangeville-on-ca",
+        "name": "Orangeville Transit",
+        "timeframe": "2024",
+        "url": "https://www.orangeville.ca/transit",
+        "gtfs": "http://metrolinx.tmix.se/gtfs/gtfs-orangeville.zip"
     }
 ]
