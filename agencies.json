@@ -279,5 +279,12 @@
         "timeframe": "2024",
         "url": "https://www.orangeville.ca/transit",
         "gtfs": "http://metrolinx.tmix.se/gtfs/gtfs-orangeville.zip"
+    },
+    {
+        "loc": "sanmarcos-tx-us",
+        "name": "Bobcat Transit",
+        "timeframe": "indefinitely",
+        "url": "https://www.shuttle.txst.edu/routes.html",
+        "gtfs": "https://gato-docs.its.txstate.edu/jcr:7afa7719-3973-4804-a666-61036a025185/Texas_State-20221118T180619Z-91e06767-3b45-473c-a296-d9e716028dda-f4ec3f53-4c22-400c-928d-cfb29198b6b4.zip"
     }
 ]
