@@ -42,13 +42,6 @@
         "gtfs": "https://data.trilliumtransit.com/gtfs/seatbus-ct-us/seatbus-ct-us.zip"
     },
     {
-        "loc": "norwalk-ct-us",
-        "name": "NTD",
-        "timeframe": "March 31, 2023",
-        "url": "https://norwalktransit.com/",
-        "gtfs": "https://static1.squarespace.com/static/585d5bbf197aea9852a8759c/t/5ff612ce7a1d670550c48fb4/1609962190554/GTFS_Data.zip"
-    },
-    {
         "loc": "middletown-ct-us",
         "name": "MAT",
         "timeframe": "March 31, 2023",
