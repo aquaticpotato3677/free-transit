@@ -286,5 +286,19 @@
         "timeframe": "indefinitely",
         "url": "https://cvtdbus.org/",
         "gtfs": "https://mycvtdbus.org/gtfs"
+    },
+    {
+        "loc": "summit-co-us",
+        "name": "Summit Stage",
+        "timeframe": "indefinitely",
+        "url": "https://www.summitcountyco.gov/586/Transit-Summit-Stage",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/summitstage-co-us/summitstage-co-us.zip"
+    },
+    {
+        "loc": "breckenridge-co-us",
+        "name": "Breckenridge Free Ride",
+        "timeframe": "indefinitely",
+        "url": "https://www.breckfreeride.com",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/breckenridgefreeride-co-us/breckenridgefreeride-co-us.zip"
     }
 ]
