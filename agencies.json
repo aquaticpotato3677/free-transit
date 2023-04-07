@@ -258,5 +258,19 @@
         "timeframe": "indefinitely",
         "url": "https://www.intercitytransit.com/",
         "gtfs": "https://gtfs.sound.obaweb.org/prod/19_gtfs.zip"
+    },
+    {
+        "loc": "twintransit-wa-us",
+        "name": "Twin Transit",
+        "timeframe": "indefinitely",
+        "url": "https://twintransit.org",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/twintransit-wa-us/twintransit-wa-us.zip"
+    },
+    {
+        "loc": "lowercolumbia-wa-us",
+        "name": "Lower Columbia Community Action",
+        "timeframe": "indefinitely",
+        "url": "https://lowercolumbiacap.org/get-help/transportation/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/lowercolumbiacap-wa-us/lowercolumbiacap-wa-us.zip"
     }
 ]
