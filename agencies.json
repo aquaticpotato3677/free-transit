@@ -267,10 +267,10 @@
         "gtfs": "https://data.trilliumtransit.com/gtfs/twintransit-wa-us/twintransit-wa-us.zip"
     },
     {
-        "loc": "lowercolumbia-wa-us",
-        "name": "Lower Columbia Community Action",
+        "loc": "rockland-ny-us",
+        "name": "Transport of Rockland",
         "timeframe": "indefinitely",
-        "url": "https://lowercolumbiacap.org/get-help/transportation/",
-        "gtfs": "https://data.trilliumtransit.com/gtfs/lowercolumbiacap-wa-us/lowercolumbiacap-wa-us.zip"
+        "url": "http://rocklandgov.com/departments/public-transportation/transport-of-rockland/",
+        "gtfs": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/raw/master/rockland-ny-us.zip"
     }
 ]
