@@ -14,16 +14,9 @@
         "gtfs": "https://data.trilliumtransit.com/gtfs/merrimackvalley-ma-us/merrimackvalley-ma-us.zip"
     },
     {
-        "loc": "mwrta-ma-us",
-        "name": "MWRTA",
-        "timeframe": "May 1st, 2023",
-        "url": "https://mwrta.com/",
-        "gtfs": "http://vc.mwrta.com/gtfs/google_transit.zip"
-    },
-    {
         "loc": "wrta-ma-us",
         "name": "WRTA",
-        "timeframe": "June 2023",
+        "timeframe": "June 2024",
         "url": "https://www.therta.com/",
         "gtfs": "https://data.trilliumtransit.com/gtfs/wrta-ma-us/wrta-ma-us.zip"
     },
@@ -37,7 +30,7 @@
     {
         "loc": "ccta-vt-us",
         "name": "GMT",
-        "timeframe": "June 30, 2023",
+        "timeframe": "Jan 2, 2024",
         "url": "https://ridegmt.com/",
         "gtfs": "https://data.trilliumtransit.com/gtfs/ccta-vt-us/ccta-vt-us.zip"
     },
@@ -272,5 +265,12 @@
         "timeframe": "indefinitely",
         "url": "http://rocklandgov.com/departments/public-transportation/transport-of-rockland/",
         "gtfs": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/raw/master/rockland-ny-us.zip"
+    },
+    {
+        "loc": "umatilla-wa-us",
+        "name": "Kayak Public Transit",
+        "timeframe": "indefinitely",
+        "url": "https://ctuir.org/departments/tribal-planning-office/kayak-public-transit/",
+        "gtfs": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/ctuir-or-us/ctuir-or-us.zip"
     }
 ]
