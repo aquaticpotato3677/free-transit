@@ -2,7 +2,7 @@
     {
         "loc": "frta-ma-us",
         "name": "FRTA",
-        "timeframe": "June 30th, 2023",
+        "timeframe": "June 30th, 2024",
         "url": "https://frta.org/",
         "gtfs": "https://data.trilliumtransit.com/gtfs/frta-ma-us/frta-ma-us.zip"
     },
