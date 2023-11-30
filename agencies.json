@@ -67,7 +67,8 @@
         "name": "Move Sullivan",
         "timeframe": "indefinitely (excepting Highland and Delaware routes)",
         "url": "https://sullivanny.us/Departments/Transportation/MoveSullivan",
-        "gtfs": "https://s3.amazonaws.com/datatools-511ny/public/Sullivan_County.zip"
+        "gtfs": "https://s3.amazonaws.com/datatools-511ny/public/Sullivan_County.zip",
+        "except": ["7r91", "0w3v"]
     },
     {
         "loc": "pfp-wa-us",
@@ -81,7 +82,8 @@
         "name": "SMART",
         "timeframe": "indefinitely (excepting 1X)",
         "url": "https://www.ridesmart.com/transit",
-        "gtfs": "https://data.trilliumtransit.com/gtfs/wilsonville-or-us/wilsonville-or-us.zip"
+        "gtfs": "https://data.trilliumtransit.com/gtfs/wilsonville-or-us/wilsonville-or-us.zip",
+        "except": ["5316"]
     },
     {
         "loc": "woodburn-or-us",
@@ -272,5 +274,55 @@
         "timeframe": "indefinitely",
         "url": "https://ctuir.org/departments/tribal-planning-office/kayak-public-transit/",
         "gtfs": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/ctuir-or-us/ctuir-or-us.zip"
+    },
+    {
+        "loc": "brockton-ma-us",
+        "name": "Brockton Area Transit",
+        "timeframe": "May 31st, 2024",
+        "url": "https://ridebat.com",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip"
+    },
+    {
+        "loc": "berkshire-ma-us",
+        "name": "Berkshire Regional Transit Authority",
+        "timeframe": "December 31st, 2023",
+        "url": "https://berkshirerta.com",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/berkshire-ma-us/berkshire-ma-us.zip"
+    },
+    {
+        "loc": "lowell-ma-us",
+        "name": "Lowell Regional Transit Authority",
+        "timeframe": "December 31st, 2023",
+        "url": "https://lrta.com",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/lowell-ma-us/lowell-ma-us.zip"
+    },
+    {
+        "loc": "capeann-ma-us",
+        "name": "Cape Ann Transit Authority",
+        "timeframe": "December 31st, 2023",
+        "url": "https://canntran.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/capeann-ma-us/capeann-ma-us.zip"
+    },
+    {
+        "loc": "gatra-ma-us",
+        "name": "Greater Attleboro Taunton Regional Transit Authority",
+        "timeframe": "December 31st, 2023",
+        "url": "https://gatra.org",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/gatra-ma-us/gatra-ma-us.zip"
+    },
+    {
+        "loc": "pvta-ma-us",
+        "name": "Pioneer Valley Regional Transit Authority",
+        "timeframe": "December 31st, 2023, excepting B79",
+        "url": "https://pvta.com",
+        "gtfs": "http://www.pvta.com/g_trans/google_transit.zip",
+        "except": ["B79"]
+    },
+    {
+        "loc": "vta-ma-us",
+        "name": "Vineyard Transit Authority",
+        "timeframe": "March 31st, 2024",
+        "url": "https://vineyardtransit.com",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/marthasvineyard-ma-us/marthasvineyard-ma-us.zip"
     }
 ]
