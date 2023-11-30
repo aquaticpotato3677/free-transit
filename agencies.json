@@ -160,7 +160,8 @@
         "name": "Cascades East Transit",
         "timeframe": "indefinitely, excepting recreational routes",
         "url": "https://cascadeseasttransit.com/",
-        "gtfs": "http://oregon-gtfs.trilliumtransit.com/gtfs_data/cascadeseast-or-us/cascadeseast-or-us.zip"
+        "gtfs": "http://oregon-gtfs.trilliumtransit.com/gtfs_data/cascadeseast-or-us/cascadeseast-or-us.zip",
+        "except": ["740", "739", "4695"]
     },
     {
         "loc": "tahoe-ca-us",
