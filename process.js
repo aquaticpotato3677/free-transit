@@ -29,7 +29,7 @@ for(let i=0; i<agencies.length; i++){
         let route = routes[j];
         if(agencies[i].agencies!=undefined && !agencies[i].agencies.includes(route[agencyIdInd].replaceAll('"',''))) continue;
         let routeId = route[routeIdInd].replaceAll('"','');
-        if(agencies[i].except.includes(routeId)) continue;
+        if(agencies[i].agencies!=undefined &&agencies[i].except.includes(routeId)) continue;
         let routeName = route[routeShortNameInd].replaceAll('"','');
         if(routeName=='') routeName = route[routeLongNameInd];
         let routeColor = routeColorInd==null?getRandomColor():route[routeColorInd];
