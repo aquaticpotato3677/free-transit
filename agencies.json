@@ -30,7 +30,7 @@
     {
         "loc": "ccta-vt-us",
         "name": "GMT",
-        "timeframe": "Jan 2, 2024",
+        "timeframe": "March 6, 2024",
         "url": "https://ridegmt.com/",
         "gtfs": "https://data.trilliumtransit.com/gtfs/ccta-vt-us/ccta-vt-us.zip"
     },
