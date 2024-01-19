@@ -128,13 +128,6 @@
         "gtfs": "https://link.rideralerts.com/InfoPoint/gtfs-zip.ashx"
     },
     {
-        "loc": "fairfax-va-us",
-        "name": "Fairfax CUE",
-        "timeframe": "June 2025",
-        "url": "https://www.fairfaxva.gov/government/public-works/transportation-division/cue-bus-system",
-        "gtfs": "https://www.fairfaxva.gov/home/showpublisheddocument/19191/638017594116830000"
-    },
-    {
         "loc": "winterpark-co-us",
         "name": "The Lift",
         "timeframe": "indefinitely",
