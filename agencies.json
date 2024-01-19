@@ -109,7 +109,7 @@
     {
         "loc": "graysharbor-wa-us",
         "name": "Grays Harbor Transit",
-        "timeframe": "indefinitely",
+        "timeframe": "December 31, 2024",
         "url": "https://www.ghtransit.com/",
         "gtfs": "http://mjcaction.com/MJC_GTFS_Public/graysharbor_google_transit.zip"
     },
@@ -132,7 +132,7 @@
         "name": "Fairfax CUE",
         "timeframe": "June 2025",
         "url": "https://www.fairfaxva.gov/government/public-works/transportation-division/cue-bus-system",
-        "gtfs": "https://www.fairfaxva.gov/home/showpublisheddocument/19191/638017594116830000"
+        "gtfs": "https://www.fairfaxva.gov/home/showpublisheddocument/19191/638339372325400000"
     },
     {
         "loc": "winterpark-co-us",
@@ -218,7 +218,7 @@
         "name": "Bobcat Transit",
         "timeframe": "indefinitely",
         "url": "https://www.shuttle.txst.edu/routes.html",
-        "gtfs": "https://gato-docs.its.txstate.edu/jcr:7afa7719-3973-4804-a666-61036a025185/Texas_State-20221118T180619Z-91e06767-3b45-473c-a296-d9e716028dda-f4ec3f53-4c22-400c-928d-cfb29198b6b4.zip"
+        "gtfs": "https://docs.gato.txst.edu/42544/gtfs.zip"
     },
     {
         "loc": "cachevalley-ut-us",
@@ -249,10 +249,10 @@
         "gtfs": "https://gtfs.sound.obaweb.org/prod/19_gtfs.zip"
     },
     {
-        "loc": "twintransit-wa-us",
-        "name": "Twin Transit",
+        "loc": "lewiscounty-wa-us",
+        "name": "Lewis County Transit",
         "timeframe": "indefinitely",
-        "url": "https://twintransit.org",
+        "url": "https://lewiscountytransit.org",
         "gtfs": "https://data.trilliumtransit.com/gtfs/twintransit-wa-us/twintransit-wa-us.zip"
     },
     {
@@ -289,5 +289,20 @@
         "timeframe": "indefnitely",
         "url": "https://www.cabq.gov/transit/routes-and-schedules",
         "gtfs": "http://data.cabq.gov/transit/gtfs/google_transit.zip"
+    },
+    {
+        "loc": "mason-wa-us",
+        "name": "Mason Transit",
+        "timeframe": "indefinitely",
+        "url": "https://www.masontransit.org",
+        "gtfs": "http://data.trilliumtransit.com/gtfs/mason-wa-us/mason-wa-us.zip"
+    },
+    {
+        "loc": "clallam-wa-us",
+        "name": "Clallam Transit",
+        "timeframe": "December 31, 2024",
+        "url": "https://www.clallamtransit.com",
+        "gtfs": "http://mjcaction.com/MJC_GTFS_Public/clallam_google_transit.zip",
+        "except": ["123", "hurridge"]
     }
 ]
