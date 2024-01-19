@@ -132,7 +132,7 @@
         "name": "Fairfax CUE",
         "timeframe": "June 2025",
         "url": "https://www.fairfaxva.gov/government/public-works/transportation-division/cue-bus-system",
-        "gtfs": "https://www.fairfaxva.gov/home/showpublisheddocument/19191/638339372325400000"
+        "gtfs": "https://www.fairfaxva.gov/home/showpublisheddocument/19191/638017594116830000"
     },
     {
         "loc": "winterpark-co-us",
@@ -304,5 +304,12 @@
         "url": "https://www.clallamtransit.com",
         "gtfs": "http://mjcaction.com/MJC_GTFS_Public/clallam_google_transit.zip",
         "except": ["123", "hurridge"]
+    },
+    {
+        "loc": "jefferson-wa-us",
+        "name": "Jefferson Transit",
+        "timeframe": "indefinitely",
+        "url": "https://jeffersontransit.com",
+        "gtfs": "http://mjcaction.com/MJC_GTFS_Public/jefferson_google_transit.zip"
     }
 ]
