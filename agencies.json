@@ -121,13 +121,6 @@
         "gtfs": "https://itransitnw.com/rtt/public/resource/gtfs.zip"
     },
     {
-        "loc": "linktransit-nc-us",
-        "name": "Link Transit",
-        "timeframe": "indefinitely",
-        "url": "https://linktransit.org",
-        "gtfs": "https://api.transloc.com/gtfs/linktransit.zip"
-    },
-    {
         "loc": "linktransit-wa-us",
         "name": "Link Transit",
         "timeframe": "indefinitely",
