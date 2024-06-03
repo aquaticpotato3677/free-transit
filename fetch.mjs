@@ -6,6 +6,7 @@ fs.mkdirSync('./gtfs');
 let wantedFiles = ['routes.txt','shapes.txt','trips.txt'];
 for(let i=0; i<json.length; i++){
     fs.mkdirSync('./gtfs/'+json[i].loc);
+    console.log(json[i].loc);
     try{
         let data = (await fetch(json[i].gtfs)).body;
         data.pipe(unzipper.Parse()).on('entry',(entry)=>{

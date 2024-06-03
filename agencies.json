@@ -246,7 +246,7 @@
         "name": "Transport of Rockland",
         "timeframe": "indefinitely",
         "url": "https://www.rocklandcountyny.gov/departments/public-transportation",
-        "gtfs": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/raw/master/rockland-ny-us.zip"
+        "gtfs": "https://s3.amazonaws.com/datatools-511ny/public/TOR_Transport_of_Rockland.zip"
     },
     {
         "loc": "umatilla-wa-us",
