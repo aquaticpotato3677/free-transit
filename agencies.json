@@ -290,5 +290,26 @@
         "timeframe": "indefinitely",
         "url": "https://jeffersontransit.com",
         "gtfs": "http://mjcaction.com/MJC_GTFS_Public/jefferson_google_transit.zip"
+    },
+    {
+        "loc": "brta-ma-us",
+        "name": "BRTA",
+        "timeframe": "July 31st, 2024",
+        "url": "https://berkshirerta.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/berkshire-ma-us/berkshire-ma-us.zip"
+    },
+    {
+        "loc": "nrta-ma-us",
+        "name": "NRTA",
+        "timeframe": "September 30th, 2024",
+        "url": "https://www.nrtawave.com/",
+        "gtfs": "https://data.trilliumtransit.com/gtfs/nantucket-ma-us/nantucket-ma-us.zip"
+    },
+    {
+        "loc": "pvta-ma-us",
+        "name": "PVTA",
+        "timeframe": "August 31st, 2024",
+        "url": "https://pvta.com/",
+        "gtfs": "http://www.pvta.com/g_trans/google_transit.zip"
     }
 ]
