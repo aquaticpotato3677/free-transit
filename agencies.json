@@ -2,7 +2,7 @@
     {
         "loc": "frta-ma-us",
         "name": "FRTA",
-        "timeframe": "June 30th, 2024",
+        "timeframe": "June 30th, 2025",
         "url": "https://frta.org/",
         "gtfs": "https://data.trilliumtransit.com/gtfs/frta-ma-us/frta-ma-us.zip"
     },
@@ -26,13 +26,6 @@
         "timeframe": "indefinitely",
         "url": "https://advancetransit.com/",
         "gtfs": "https://data.trilliumtransit.com/gtfs/advancetransit-vt-us/advancetransit-vt-us.zip"
-    },
-    {
-        "loc": "ccta-vt-us",
-        "name": "GMT",
-        "timeframe": "March 6, 2024",
-        "url": "https://ridegmt.com/",
-        "gtfs": "https://data.trilliumtransit.com/gtfs/ccta-vt-us/ccta-vt-us.zip"
     },
     {
         "loc": "ruralcommunity-vt-us",
@@ -65,7 +58,7 @@
     {
         "loc": "sullivan-ny-us",
         "name": "Move Sullivan",
-        "timeframe": "indefinitely (excepting Highland and Delaware routes)",
+        "timeframe": "indefinitely (except Highland and Delaware routes)",
         "url": "https://sullivanny.us/Departments/Transportation/MoveSullivan",
         "gtfs": "https://s3.amazonaws.com/datatools-511ny/public/Sullivan_County.zip",
         "except": ["7r91", "0w3v"]
@@ -80,7 +73,7 @@
     {
         "loc": "wilsonville-or-us",
         "name": "SMART",
-        "timeframe": "indefinitely (excepting 1X)",
+        "timeframe": "indefinitely (except 1X)",
         "url": "https://www.ridesmart.com/transit",
         "gtfs": "https://data.trilliumtransit.com/gtfs/wilsonville-or-us/wilsonville-or-us.zip",
         "except": ["5316"]
@@ -144,7 +137,7 @@
     {
         "loc": "cascadeseast-or-us",
         "name": "Cascades East Transit",
-        "timeframe": "indefinitely, excepting recreational routes",
+        "timeframe": "indefinitely, except recreational routes",
         "url": "https://cascadeseasttransit.com/",
         "gtfs": "http://oregon-gtfs.trilliumtransit.com/gtfs_data/cascadeseast-or-us/cascadeseast-or-us.zip",
         "except": ["740", "739", "4695"]
@@ -182,7 +175,7 @@
         "loc": "butte-mt-us",
         "name": "Butte-Silver Bow Transit",
         "timeframe": "indefinitely",
-        "url": "https://buttebus.org/",
+        "url": "https://www.co.silverbow.mt.us/178/Transit-Services",
         "gtfs": "https://data.trilliumtransit.com/gtfs/butte-mt-us/butte-mt-us.zip"
     },
     {
@@ -195,7 +188,7 @@
     {
         "loc": "kansascity-mo-us",
         "name": "RideKC",
-        "timeframe": "2023",
+        "timeframe": "indefinitely",
         "url": "https://ridekc.org",
         "gtfs": "http://www.kc-metro.com/gtf/google_transit.zip"
     },
@@ -224,7 +217,7 @@
         "loc": "summit-co-us",
         "name": "Summit Stage",
         "timeframe": "indefinitely",
-        "url": "https://www.summitcountyco.gov/586/Transit-Summit-Stage",
+        "url": "https://www.summitcountyco.gov/services/transit_summit_stage/index.php",
         "gtfs": "https://data.trilliumtransit.com/gtfs/summitstage-co-us/summitstage-co-us.zip"
     },
     {
@@ -252,7 +245,7 @@
         "loc": "rockland-ny-us",
         "name": "Transport of Rockland",
         "timeframe": "indefinitely",
-        "url": "http://rocklandgov.com/departments/public-transportation/transport-of-rockland/",
+        "url": "https://www.rocklandcountyny.gov/departments/public-transportation",
         "gtfs": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/raw/master/rockland-ny-us.zip"
     },
     {
@@ -265,16 +258,9 @@
     {
         "loc": "brockton-ma-us",
         "name": "Brockton Area Transit",
-        "timeframe": "May 31st, 2024",
+        "timeframe": "July 31st, 2024",
         "url": "https://ridebat.com",
         "gtfs": "https://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip"
-    },
-    {
-        "loc": "vta-ma-us",
-        "name": "Vineyard Transit Authority",
-        "timeframe": "March 31st, 2024",
-        "url": "https://vineyardtransit.com",
-        "gtfs": "https://data.trilliumtransit.com/gtfs/marthasvineyard-ma-us/marthasvineyard-ma-us.zip"
     },
     {
         "loc": "albuquerque-nm-us",
@@ -293,7 +279,7 @@
     {
         "loc": "clallam-wa-us",
         "name": "Clallam Transit",
-        "timeframe": "December 31, 2024",
+        "timeframe": "December 31, 2024, except 123 Strait Shot and Hurricane Ridge Shuttle",
         "url": "https://www.clallamtransit.com",
         "gtfs": "http://mjcaction.com/MJC_GTFS_Public/clallam_google_transit.zip",
         "except": ["123", "hurridge"]
